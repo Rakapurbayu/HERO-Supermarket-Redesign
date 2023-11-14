@@ -21,6 +21,17 @@ body {
   flex-direction: column;
   background-color: #ffffff;
 }
+.frame-34451-sRB a {
+  text-decoration: none;
+}
+
+.about-us-Nc9,
+.faq-gcq,
+.contact-D6y,
+.customer-survey-Kvh {
+    text-decoration: none;
+}
+
 .landing-page-fix-yWR .auto-group-53x5-K4V {
   margin-bottom: 12.6564rem;
   width: 100%;
@@ -1031,6 +1042,7 @@ body {
   background-color: #ffffff;
   border-radius: 1rem;
   flex-shrink: 0;
+  text-decoration: none;
 }
 .landing-page-fix-yWR .auto-group-53x5-K4V .navbar-DZb .auto-group-7rzd-xZ7 .button-shop-obf .icon-cart-M7P {
   margin: 0rem 0.7rem 0.099rem 0rem;
