@@ -1,0 +1,857 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.account-pembayaran-kredit-Kw7 {
+  width: 100%;
+  height: 122.5rem;
+  position: relative;
+  background-color: #ffffff;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD {
+  width: 144rem;
+  height: 118rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: 183.051% 100%;
+  background-position: -52.4466rem 0rem;
+  background-image: url('../assets/bg-fA1.png');
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .putih-atas-pattern-Agq {
+  width: 123rem;
+  height: 95.9rem;
+  position: absolute;
+  left: 10.5rem;
+  top: 12.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo {
+  box-sizing: border-box;
+  padding-top: 3rem;
+  width: 144rem;
+  height: 16rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-u58v-NH7 {
+  margin: 0rem 10.5rem 2rem 8.1rem;
+  width: calc(100% - 18.6rem);
+  height: 5.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-u58v-NH7 .logo-navbar-H9B {
+  box-sizing: border-box;
+  padding: 0.684rem 1.025rem 0.57rem 1.139rem;
+  height: 100%;
+  cursor: pointer;
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-u58v-NH7 .logo-navbar-H9B .px-herosupermarket-3-cSM {
+  width: 15.0358rem;
+  height: 4.446rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-u58v-NH7 .auto-group-qm1k-Kbf {
+  box-sizing: border-box;
+  padding-left: 16.1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-u58v-NH7 .auto-group-qm1k-Kbf .group-34376-4ZF {
+  margin: 0rem 6.5rem 0.3rem 0rem;
+  box-sizing: border-box;
+  padding: 1.5rem 1.8rem 1.5rem 2.1rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #20992e;
+  background-color: #e8faf0;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-u58v-NH7 .auto-group-qm1k-Kbf .group-34376-4ZF .search-product-yAR {
+  margin-right: 20.9rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #8b8b8b;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-u58v-NH7 .auto-group-qm1k-Kbf .group-34376-4ZF .vector-gKj {
+  margin-top: 0.1rem;
+  width: 2.3rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-u58v-NH7 .auto-group-qm1k-Kbf .group-34372-ag1 {
+  margin: 0rem 1rem 0.4rem 0rem;
+  width: 4.5rem;
+  height: 4.5rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-u58v-NH7 .auto-group-qm1k-Kbf .my-wishlist-6eM {
+  margin: 0rem 4.4rem 0.5rem 0rem;
+  max-width: 6.4rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.3125;
+  color: #20992e;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-u58v-NH7 .auto-group-qm1k-Kbf .my-wishlist-6eM .my-wishlist-6eM-sub-0 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #20992e;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-u58v-NH7 .auto-group-qm1k-Kbf .my-wishlist-6eM .my-wishlist-6eM-sub-1 {
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-u58v-NH7 .auto-group-qm1k-Kbf .group-34374-T7X {
+  margin: 0rem 1rem 0.2rem 0rem;
+  width: 4.5rem;
+  height: 4.5rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-u58v-NH7 .auto-group-qm1k-Kbf .sign-up-or-log-in-ahw {
+  margin: 0rem 6.4rem 0.3rem 0rem;
+  max-width: 5.1rem;
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #20992e;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-u58v-NH7 .auto-group-qm1k-Kbf .sign-up-or-log-in-ahw .sign-up-or-log-in-ahw-sub-0 {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #20992e;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-u58v-NH7 .auto-group-qm1k-Kbf .sign-up-or-log-in-ahw .sign-up-or-log-in-ahw-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.3125;
+  color: #20992e;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-u58v-NH7 .auto-group-qm1k-Kbf .group-34375-5HK {
+  margin: 0.5rem 0rem 0.7rem 0rem;
+  box-sizing: border-box;
+  padding: 0.5rem 1.8rem 0.8rem 1.7rem;
+  height: calc(100% - 1.2rem);
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/union-F37.png');
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-u58v-NH7 .auto-group-qm1k-Kbf .group-34375-5HK .shopping-cart-2-4-BbF {
+  margin: 0.2rem 1.1rem 0rem 0rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  background-size: 100% 100%;
+  background-image: url('../assets/shopping-cart-2-4-bg-U4h.png');
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-u58v-NH7 .auto-group-qm1k-Kbf .group-34375-5HK .shopping-cart-2-4-BbF .shopping-cart-2-4-BbF-bg {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:1609cbfcd2fa44c73b1bec2c9edae08d74c3b9d1');
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-u58v-NH7 .auto-group-qm1k-Kbf .group-34375-5HK .shoppingchart-4f3 {
+  max-width: 5.8rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1;
+  color: #20992e;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-u58v-NH7 .auto-group-qm1k-Kbf .group-34375-5HK .shoppingchart-4f3 .shoppingchart-4f3-sub-0 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  color: #20992e;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-u58v-NH7 .auto-group-qm1k-Kbf .group-34375-5HK .shoppingchart-4f3 .shoppingchart-4f3-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1;
+  color: #20992e;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-u58v-NH7 .auto-group-qm1k-Kbf .group-34375-5HK .shoppingchart-4f3 .shoppingchart-4f3-sub-2 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.1428571429;
+  color: #20992e;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-t5w7-MXf {
+  box-sizing: border-box;
+  padding: 0 26.3rem;
+  width: 100%;
+  height: 5.3rem;
+  background-color: #0d7038;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-t5w7-MXf .group-34382-6VF {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-t5w7-MXf .group-34382-6VF .promo-rUR {
+  margin: 0.1rem 3.5rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-t5w7-MXf .group-34382-6VF .frame-34403-NSm {
+  box-sizing: border-box;
+  padding: 1.5rem 0.7rem 1.4rem 1.3rem;
+  width: 17.1rem;
+  height: 100%;
+  cursor: pointer;
+  background-color: #0d7038;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-t5w7-MXf .group-34382-6VF .frame-34403-NSm .group-34379-Hpd {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-t5w7-MXf .group-34382-6VF .frame-34403-NSm .group-34379-Hpd .produk-segar-SxR {
+  margin-right: 1rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-t5w7-MXf .group-34382-6VF .frame-34403-NSm .group-34379-Hpd .drop-down-mzh {
+  width: 2rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-t5w7-MXf .group-34382-6VF .auto-group-lb8m-u5K {
+  box-sizing: border-box;
+  padding: 1.5rem 0rem 1.4rem 3.4rem;
+  height: 100%;
+  display: flex;
+  column-gap: 4.8rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-t5w7-MXf .group-34382-6VF .auto-group-lb8m-u5K .group-34378-Drh {
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-t5w7-MXf .group-34382-6VF .auto-group-lb8m-u5K .group-34378-Drh .bahan-masak-yay {
+  margin-right: 0.3rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-t5w7-MXf .group-34382-6VF .auto-group-lb8m-u5K .group-34378-Drh .drop-down-uDj {
+  width: 2rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-t5w7-MXf .group-34382-6VF .auto-group-lb8m-u5K .group-34380-SzM {
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-t5w7-MXf .group-34382-6VF .auto-group-lb8m-u5K .group-34380-SzM .susu-produk-beku-p5o {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-t5w7-MXf .group-34382-6VF .auto-group-lb8m-u5K .group-34380-SzM .drop-down-ww7 {
+  width: 2rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-t5w7-MXf .group-34382-6VF .auto-group-lb8m-u5K .group-34381-u7F {
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-t5w7-MXf .group-34382-6VF .auto-group-lb8m-u5K .group-34381-u7F .snack-TuT {
+  margin-right: 0.2rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-t5w7-MXf .group-34382-6VF .auto-group-lb8m-u5K .group-34381-u7F .drop-down-oTX {
+  width: 2rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .navbar-shoping-5oo .group-34377-d4d .auto-group-t5w7-MXf .group-34382-6VF .auto-group-lb8m-u5K .brands-xLR {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .union-5R3 {
+  width: 109rem;
+  height: 74rem;
+  position: absolute;
+  left: 17.5rem;
+  top: 24rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .nama-pemilik-akun-cA5 {
+  width: 8.2103rem;
+  height: 2rem;
+  position: absolute;
+  left: 19.9rem;
+  top: 19.9rem;
+  display: flex;
+  align-items: center;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .nama-pemilik-akun-cA5 .group-34373-hBX {
+  margin: 0rem 0.9rem 0rem 0rem;
+  width: 1.3103rem;
+  height: 1.7169rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .nama-pemilik-akun-cA5 .shofie-BMb {
+  font-size: 1.9rem;
+  font-weight: 600;
+  line-height: 1.0399999117;
+  color: #525867;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .sub-bab-v4H {
+  width: 56.4rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 19.9rem;
+  top: 26.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .sub-bab-v4H .sub-kategori-eW5 {
+  margin-bottom: 1.2rem;
+  width: 100%;
+  display: flex;
+  column-gap: 7.3rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .sub-bab-v4H .sub-kategori-eW5 .data-diri-n6V {
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #4d4f56;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .sub-bab-v4H .sub-kategori-eW5 .alamat-vTb {
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #4d4f56;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .sub-bab-v4H .sub-kategori-eW5 .pembayaran-std {
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #20992e;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .sub-bab-v4H .sub-kategori-eW5 .pesanan-EDP {
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #4d4f56;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .sub-bab-v4H .vector-84-aY9 {
+  margin-left: 13.9rem;
+  width: 11.9rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .group-34485-KVj {
+  width: 47.52rem;
+  height: 26.94rem;
+  position: absolute;
+  left: 20.8rem;
+  top: 33.48rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .group-34485-KVj .auto-group-u5vb-T69 {
+  box-sizing: border-box;
+  padding-bottom: 0.7rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .group-34485-KVj .auto-group-u5vb-T69 .head-PkV {
+  margin-bottom: 2.42rem;
+  width: 22.9rem;
+  height: 7.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .group-34485-KVj .auto-group-u5vb-T69 .head-PkV .hai-Xbo {
+  width: 2.8rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 1.7859rem;
+  font-weight: 400;
+  line-height: 1.343832021;
+  color: #5a5c62;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .group-34485-KVj .auto-group-u5vb-T69 .head-PkV .shofie-2Hf {
+  width: 5.9rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 3.256rem;
+  top: 0;
+  display: flex;
+  font-size: 1.7859rem;
+  font-weight: 400;
+  line-height: 1.343832021;
+  color: #5a5c62;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .group-34485-KVj .auto-group-u5vb-T69 .head-PkV .selamat-datang-di-halaman-pengaturan-pembayaran-8bb {
+  width: 22.9rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 2.3rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  color: #7e7e7e;
+  font-family: Inter, 'Source Sans Pro';
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .group-34485-KVj .auto-group-u5vb-T69 .head-PkV .selamat-datang-di-halaman-pengaturan-pembayaran-8bb .selamat-datang-di-halaman-pengaturan-pembayaran-8bb-sub-0 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  color: #5a5c62;
+  font-family: Inter, 'Source Sans Pro';
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .group-34485-KVj .auto-group-u5vb-T69 .head-PkV .selamat-datang-di-halaman-pengaturan-pembayaran-8bb .selamat-datang-di-halaman-pengaturan-pembayaran-8bb-sub-1 {
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.3333333333;
+  color: #5a5c62;
+  font-family: Inter, 'Source Sans Pro';
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .group-34485-KVj .auto-group-u5vb-T69 .atur-pembayaran-anda-untuk-meningkatkan-keamanan-dan-kemudahan-berbelanja-anda-di-tokopedia-NPT {
+  max-width: 39rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #7e7e7e;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .group-34485-KVj .frame-34477-fdT {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .group-34485-KVj .frame-34477-fdT .kartu-kredit-debit-d4V {
+  box-sizing: border-box;
+  padding: 2.38rem 0rem 2.47rem 0rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #d9d9d9;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .group-34485-KVj .frame-34477-fdT .kartu-kredit-debit-d4V .kartu-kredit-debit-kQ1 {
+  margin: 0rem 20.52rem 0.01rem 0rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 0.8625000119;
+  color: #20992e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .group-34485-KVj .frame-34477-fdT .kartu-kredit-debit-d4V .tersimpan-49o {
+  margin-top: 0.01rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 0.8625000119;
+  color: #20992e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .group-34485-KVj .frame-34477-fdT .debit-instan-AyX {
+  box-sizing: border-box;
+  padding: 2.39rem 0rem 2.47rem 0rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 0.8625000119;
+  color: #5a5c62;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d9d9d9;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .tambah-kartu-debit-4Z7 {
+  width: 52.3rem;
+  height: 62.1rem;
+  position: absolute;
+  left: 71.3rem;
+  top: 32.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #d9d9d9;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .tambah-kartu-debit-4Z7 .head-yg5 {
+  box-sizing: border-box;
+  padding: 2.01rem 1.614rem 2.09rem 1.6rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #b8c5d0;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .tambah-kartu-debit-4Z7 .head-yg5 .kartu-kredit-debit-7XP {
+  margin-right: 20.386rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.0062500238;
+  color: #5a5c62;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .tambah-kartu-debit-4Z7 .head-yg5 .pengaturan-verifikasi-dEq {
+  margin-top: 0rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 0.9857142993;
+  color: #178841;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .tambah-kartu-debit-4Z7 .auto-group-emb7-8hP {
+  box-sizing: border-box;
+  padding: 7rem 2.9rem 4.3rem 2.9rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .tambah-kartu-debit-4Z7 .auto-group-emb7-8hP .auto-group-n2hw-G2u {
+  margin: 0rem 3.3rem 1.5rem 3.2rem;
+  width: calc(100% - 6.5rem);
+  height: 29.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .tambah-kartu-debit-4Z7 .auto-group-emb7-8hP .auto-group-n2hw-G2u .item-5615659-1-nmw {
+  width: 40rem;
+  height: 26.6667rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .tambah-kartu-debit-4Z7 .auto-group-emb7-8hP .auto-group-n2hw-G2u .belum-ada-kartu-tersimpan-Whw {
+  width: 30.4rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 26.6rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3;
+  letter-spacing: -0.048rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .tambah-kartu-debit-4Z7 .auto-group-emb7-8hP .tambah-informasi-kartu-kredit-debit-kamu-untuk-kemudahan-pembayaran-zd7 {
+  margin: 0rem 0.1rem 5rem 0rem;
+  max-width: 43.7rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3125;
+  letter-spacing: -0.032rem;
+  color: #525867;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .tambah-kartu-debit-4Z7 .auto-group-emb7-8hP .button-simpan-fz9 {
+  width: 100%;
+  height: 4.5rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.3;
+  letter-spacing: -0.032rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #178841;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .background-3cD .background-3cD-bg {
+  width: 144rem;
+  height: 118rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:fcd0fba90fc788cfc18ace2aef6993004cdc4986');
+}
+.account-pembayaran-kredit-Kw7 .footer-FBf {
+  box-sizing: border-box;
+  padding: 3.1rem 16.6rem 3.9rem 14.1rem;
+  width: 144rem;
+  height: 16rem;
+  position: absolute;
+  left: 0;
+  top: 106.5rem;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(271.18deg, #39b54a 100.47%, #095028 200.88%);
+}
+.account-pembayaran-kredit-Kw7 .footer-FBf .auto-group-zw6d-Liu {
+  margin-right: 41.1rem;
+  width: 18.4rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .footer-FBf .auto-group-zw6d-Liu .group-20-V61 {
+  margin-bottom: 0.8073rem;
+  box-sizing: border-box;
+  padding: 0.731rem 1.097rem 0.609rem 1.219rem;
+  width: 100%;
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+}
+.account-pembayaran-kredit-Kw7 .footer-FBf .auto-group-zw6d-Liu .group-20-V61 .px-herosupermarket-3-Qim {
+  width: 16.0848rem;
+  height: 4.7523rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.account-pembayaran-kredit-Kw7 .footer-FBf .auto-group-zw6d-Liu .auto-group-l36z-XYV {
+  margin-left: 0.8rem;
+  display: flex;
+  align-items: flex-end;
+}
+.account-pembayaran-kredit-Kw7 .footer-FBf .auto-group-zw6d-Liu .auto-group-l36z-XYV .icon-facebook-5K7 {
+  margin: 0rem 0.311rem 0.023rem 0rem;
+  width: 2.0895rem;
+  height: 2.0766rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .footer-FBf .auto-group-zw6d-Liu .auto-group-l36z-XYV .icon-twitter-zBB {
+  margin-right: 0.3102rem;
+  width: 2.4898rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .footer-FBf .auto-group-zw6d-Liu .auto-group-l36z-XYV .icon-youtube-82V {
+  width: 3.0051rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .footer-FBf .about-us-TaZ {
+  margin: 0rem 9.35rem 3.1rem 0rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .footer-FBf .faq-yoo {
+  margin: 0rem 9.65rem 3.1rem 0rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .footer-FBf .contact-uhT {
+  margin: 0rem 7.3rem 3.1rem 0rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-kredit-Kw7 .footer-FBf .customer-survey-d7f {
+  margin-bottom: 3.1rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

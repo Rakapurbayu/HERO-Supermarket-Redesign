@@ -1,0 +1,1204 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.fresh-events-kru {
+  width: 100%;
+  height: 182.5rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.fresh-events-kru .bg-tiD {
+  width: 144rem;
+  height: 174.0001rem;
+  position: absolute;
+  left: 0;
+  top: 8.5rem;
+}
+.fresh-events-kru .bg-tiD .item-67580793426116-6-QgZ {
+  width: 144rem;
+  height: 76.7581rem;
+  position: absolute;
+  left: 0;
+  top: 97.242rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.fresh-events-kru .bg-tiD .item-67580793426116-4-KHj {
+  width: 144rem;
+  height: 97.242rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.fresh-events-kru .bg-tiD .promo-highlight-3jX {
+  width: 144rem;
+  height: 48rem;
+  position: absolute;
+  left: 0;
+  top: 7.5rem;
+}
+.fresh-events-kru .bg-tiD .promo-highlight-3jX .gambar-5-yNH {
+  width: 48rem;
+  height: 48rem;
+  position: absolute;
+  left: 96rem;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/gambar-5-bg.png');
+}
+.fresh-events-kru .bg-tiD .promo-highlight-3jX .gambar-4-5w7 {
+  width: 48rem;
+  height: 48rem;
+  position: absolute;
+  left: 74.4rem;
+  top: 0;
+  box-shadow: 1rem 0.3rem 1rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(0, 0, 0, 0.25);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/gambar-4-bg.png');
+}
+.fresh-events-kru .bg-tiD .promo-highlight-3jX .gambar-3-acy {
+  width: 48rem;
+  height: 48rem;
+  position: absolute;
+  left: 48rem;
+  top: 0;
+  box-shadow: 1rem 0.3rem 1rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(0, 0, 0, 0.25);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/gambar-3-bg.png');
+}
+.fresh-events-kru .bg-tiD .promo-highlight-3jX .gambar-2-HGV {
+  width: 48rem;
+  height: 48rem;
+  position: absolute;
+  left: 22.7rem;
+  top: 0;
+  box-shadow: 1rem 0.3rem 1rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(0, 0, 0, 0.25);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/gambar-2-bg.png');
+}
+.fresh-events-kru .bg-tiD .promo-highlight-3jX .gambar-1-Zzh {
+  width: 48rem;
+  height: 48rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 1rem 0.3rem 1rem rgba(0, 0, 0, 0.25);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/gambar-1-bg.png');
+}
+.fresh-events-kru .bg-tiD .fresh-events-5TF {
+  width: 25.9rem;
+  height: 6rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 59.5rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #0e793c;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.fresh-events-kru .bg-tiD .footer-yHj {
+  box-sizing: border-box;
+  padding: 3.1rem 16.6rem 3.9rem 14.1rem;
+  width: 144rem;
+  height: 16rem;
+  position: absolute;
+  left: 0;
+  top: 158rem;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(271.18deg, #39b54a 100.47%, #095028 200.88%);
+}
+.fresh-events-kru .bg-tiD .footer-yHj .auto-group-1m61-rsK {
+  margin-right: 41.1rem;
+  width: 18.4rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.fresh-events-kru .bg-tiD .footer-yHj .auto-group-1m61-rsK .group-20-o1s {
+  margin-bottom: 0.8073rem;
+  box-sizing: border-box;
+  padding: 0.731rem 1.097rem 0.609rem 1.219rem;
+  width: 100%;
+  background-color: #fafafa;
+  border-radius: 1.1rem;
+}
+.fresh-events-kru .bg-tiD .footer-yHj .auto-group-1m61-rsK .group-20-o1s .px-herosupermarket-3-iuX {
+  width: 16.0848rem;
+  height: 4.7523rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.fresh-events-kru .bg-tiD .footer-yHj .auto-group-1m61-rsK .auto-group-mj5w-Ecy {
+  margin-left: 0.8rem;
+  display: flex;
+  align-items: flex-end;
+}
+.fresh-events-kru .bg-tiD .footer-yHj .auto-group-1m61-rsK .auto-group-mj5w-Ecy .icon-facebook-yKf {
+  margin: 0rem 0.311rem 0.023rem 0rem;
+  width: 2.0895rem;
+  height: 2.0766rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.fresh-events-kru .bg-tiD .footer-yHj .auto-group-1m61-rsK .auto-group-mj5w-Ecy .icon-twitter-tBj {
+  margin-right: 0.3102rem;
+  width: 2.4898rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.fresh-events-kru .bg-tiD .footer-yHj .auto-group-1m61-rsK .auto-group-mj5w-Ecy .icon-youtube-ctR {
+  width: 3.0051rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.fresh-events-kru .bg-tiD .footer-yHj .about-us-9tM {
+  margin: 0rem 9.35rem 3.1rem 0rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #fafafa;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.fresh-events-kru .bg-tiD .footer-yHj .faq-frh {
+  margin: 0rem 9.65rem 3.1rem 0rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #fafafa;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.fresh-events-kru .bg-tiD .footer-yHj .contact-ze5 {
+  margin: 0rem 7.3rem 3.1rem 0rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #fafafa;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.fresh-events-kru .bg-tiD .footer-yHj .customer-survey-ipy {
+  margin-bottom: 3.1rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #fafafa;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.fresh-events-kru .bg-tiD .pagination-dots-active6-dBF {
+  width: 10.8rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 131.8rem;
+  top: 57rem;
+  display: flex;
+  column-gap: 1.2rem;
+  align-items: center;
+}
+.fresh-events-kru .bg-tiD .pagination-dots-active6-dBF .dot-active-jzy {
+  width: 1.2rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.fresh-events-kru .bg-tiD .pagination-dots-active6-dBF .dot-Uhf {
+  width: 1.2rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.fresh-events-kru .bg-tiD .pagination-dots-active6-dBF .dot-d4m {
+  width: 1.2rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.fresh-events-kru .bg-tiD .pagination-dots-active6-dBF .dot-mRs {
+  width: 1.2rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.fresh-events-kru .bg-tiD .pagination-dots-active6-dBF .dot-7kd {
+  width: 1.2rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.fresh-events-kru .bg-tiD .fresh-events-4fs {
+  width: 133.8rem;
+  height: 32.8rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 69.5rem;
+  display: flex;
+  align-items: center;
+  border-radius: 5rem;
+}
+.fresh-events-kru .bg-tiD .fresh-events-4fs .event-1-zJd {
+  margin-right: 3.6rem;
+  width: 24rem;
+  height: 100%;
+  position: relative;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.fresh-events-kru .bg-tiD .fresh-events-4fs .event-1-zJd .okt-1-2023-autmn-fest-jangan-lupa-untuk-nantikan-promo-ini-jX7 {
+  width: 14.4rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 3.7rem;
+  top: 1.8rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.0132rem;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.fresh-events-kru .bg-tiD .fresh-events-4fs .event-1-zJd .okt-1-2023-autmn-fest-jangan-lupa-untuk-nantikan-promo-ini-jX7 .okt-1-2023-autmn-fest-jangan-lupa-untuk-nantikan-promo-ini-jX7-sub-0 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.0132rem;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.fresh-events-kru .bg-tiD .fresh-events-4fs .event-1-zJd .okt-1-2023-autmn-fest-jangan-lupa-untuk-nantikan-promo-ini-jX7 .okt-1-2023-autmn-fest-jangan-lupa-untuk-nantikan-promo-ini-jX7-sub-1 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.0132rem;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.fresh-events-kru .bg-tiD .fresh-events-4fs .event-1-zJd .rectangle-5373-Ekh {
+  width: 24rem;
+  height: 24rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 1rem rgba(0, 0, 0, 0.25);
+  background-color: #0e793c;
+  border-radius: 5rem;
+}
+.fresh-events-kru .bg-tiD .fresh-events-4fs .event-1-zJd .n-3-wv1 {
+  width: 24rem;
+  height: 24rem;
+  position: absolute;
+  left: 0;
+  top: 8.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5rem;
+}
+.fresh-events-kru .bg-tiD .fresh-events-4fs .event-1-zJd .okt-1-2023-autmn-fest-jangan-lupa-untuk-nantikan-promo-ini-4zd {
+  width: 14.4rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 3.7rem;
+  top: 1.8rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.0132rem;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.fresh-events-kru .bg-tiD .fresh-events-4fs .event-1-zJd .okt-1-2023-autmn-fest-jangan-lupa-untuk-nantikan-promo-ini-4zd .okt-1-2023-autmn-fest-jangan-lupa-untuk-nantikan-promo-ini-4zd-sub-0 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.0132rem;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.fresh-events-kru .bg-tiD .fresh-events-4fs .event-1-zJd .okt-1-2023-autmn-fest-jangan-lupa-untuk-nantikan-promo-ini-4zd .okt-1-2023-autmn-fest-jangan-lupa-untuk-nantikan-promo-ini-4zd-sub-1 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.0132rem;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.fresh-events-kru .bg-tiD .fresh-events-4fs .event-2-bmb {
+  margin-right: 3.6rem;
+  width: 24rem;
+  height: 100%;
+  position: relative;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.fresh-events-kru .bg-tiD .fresh-events-4fs .event-2-bmb .rectangle-5372-9HK {
+  width: 24rem;
+  height: 24rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 1rem rgba(0, 0, 0, 0.25);
+  background-color: #0e793c;
+  border-radius: 5rem;
+}
+.fresh-events-kru .bg-tiD .fresh-events-4fs .event-2-bmb .okt-2-2023-pesta-mangga-suy-owakdoiawhduiadhaaioasjh-fFf {
+  width: 15.8rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 3.7rem;
+  top: 1.8rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.0132rem;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.fresh-events-kru .bg-tiD .fresh-events-4fs .event-2-bmb .okt-2-2023-pesta-mangga-suy-owakdoiawhduiadhaaioasjh-fFf .okt-2-2023-pesta-mangga-suy-owakdoiawhduiadhaaioasjh-fFf-sub-0 {
+}
+.fresh-events-kru .bg-tiD .fresh-events-4fs .event-2-bmb .okt-2-2023-pesta-mangga-suy-owakdoiawhduiadhaaioasjh-fFf .okt-2-2023-pesta-mangga-suy-owakdoiawhduiadhaaioasjh-fFf-sub-1 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.0132rem;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.fresh-events-kru .bg-tiD .fresh-events-4fs .event-2-bmb .n-1-njb {
+  width: 24rem;
+  height: 24rem;
+  position: absolute;
+  left: 0;
+  top: 8.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5rem;
+}
+.fresh-events-kru .bg-tiD .fresh-events-4fs .auto-group-71ez-6EV {
+  margin-right: 3.3rem;
+  width: 24rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.fresh-events-kru .bg-tiD .fresh-events-4fs .auto-group-71ez-6EV .event-3-dER {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  border-radius: 5rem;
+}
+.fresh-events-kru .bg-tiD .fresh-events-4fs .auto-group-71ez-6EV .event-3-dER .rectangle-5374-Bmj {
+  width: 24rem;
+  height: 24rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 1rem rgba(0, 0, 0, 0.25);
+  background-color: #0e793c;
+  border-radius: 5rem;
+}
+.fresh-events-kru .bg-tiD .fresh-events-4fs .auto-group-71ez-6EV .event-3-dER .okt-5-2023-nantikan-cooking-demo-oleh-kaesang-hk5 {
+  width: 16.5rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 3.7rem;
+  top: 1.8rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.0132rem;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.fresh-events-kru .bg-tiD .fresh-events-4fs .auto-group-71ez-6EV .event-3-dER .okt-5-2023-nantikan-cooking-demo-oleh-kaesang-hk5 .okt-5-2023-nantikan-cooking-demo-oleh-kaesang-hk5-sub-0 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.0132rem;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.fresh-events-kru .bg-tiD .fresh-events-4fs .auto-group-71ez-6EV .event-3-dER .okt-5-2023-nantikan-cooking-demo-oleh-kaesang-hk5 .okt-5-2023-nantikan-cooking-demo-oleh-kaesang-hk5-sub-1 {
+}
+.fresh-events-kru .bg-tiD .fresh-events-4fs .auto-group-71ez-6EV .event-3-dER .okt-5-2023-nantikan-cooking-demo-oleh-kaesang-hk5 .okt-5-2023-nantikan-cooking-demo-oleh-kaesang-hk5-sub-2 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.0132rem;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.fresh-events-kru .bg-tiD .fresh-events-4fs .auto-group-71ez-6EV .event-3-dER .okt-5-2023-nantikan-cooking-demo-oleh-kaesang-hk5 .okt-5-2023-nantikan-cooking-demo-oleh-kaesang-hk5-sub-3 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.0132rem;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.fresh-events-kru .bg-tiD .fresh-events-4fs .auto-group-71ez-6EV .event-3-dER .n-1-3qs {
+  width: 24rem;
+  height: 24rem;
+  position: absolute;
+  left: 0;
+  top: 8.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5rem;
+}
+.fresh-events-kru .bg-tiD .fresh-events-4fs .event-4-m1B {
+  margin-right: 3.3rem;
+  width: 24rem;
+  height: 100%;
+  position: relative;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.fresh-events-kru .bg-tiD .fresh-events-4fs .event-4-m1B .rectangle-5375-iBK {
+  width: 24rem;
+  height: 24rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 1rem rgba(0, 0, 0, 0.25);
+  background-color: #0e793c;
+  border-radius: 5rem;
+}
+.fresh-events-kru .bg-tiD .fresh-events-4fs .event-4-m1B .okt-1-2023-nantikan-veggies-fest-jangan-sampai-ketinggalan-S7K {
+  width: 15.5rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 3.7rem;
+  top: 1.8rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.0132rem;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.fresh-events-kru .bg-tiD .fresh-events-4fs .event-4-m1B .okt-1-2023-nantikan-veggies-fest-jangan-sampai-ketinggalan-S7K .okt-1-2023-nantikan-veggies-fest-jangan-sampai-ketinggalan-S7K-sub-0 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.0132rem;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.fresh-events-kru .bg-tiD .fresh-events-4fs .event-4-m1B .okt-1-2023-nantikan-veggies-fest-jangan-sampai-ketinggalan-S7K .okt-1-2023-nantikan-veggies-fest-jangan-sampai-ketinggalan-S7K-sub-1 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.0132rem;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.fresh-events-kru .bg-tiD .fresh-events-4fs .event-4-m1B .saveinstaapp-3186271269753263669-1-tdX {
+  width: 24rem;
+  height: 24rem;
+  position: absolute;
+  left: 0;
+  top: 8.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5rem;
+}
+.fresh-events-kru .bg-tiD .fresh-events-4fs .event-5-PaH {
+  width: 24rem;
+  height: 100%;
+  position: relative;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.fresh-events-kru .bg-tiD .fresh-events-4fs .event-5-PaH .rectangle-5376-k9w {
+  width: 24rem;
+  height: 24rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 1rem rgba(0, 0, 0, 0.25);
+  background-color: #0e793c;
+  border-radius: 5rem;
+}
+.fresh-events-kru .bg-tiD .fresh-events-4fs .event-5-PaH .okt-1-2023-autmn-fest-jangan-lupa-untuk-nantikan-promo-ini-4wK {
+  width: 14.4rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 3.7rem;
+  top: 1.8rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.0132rem;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.fresh-events-kru .bg-tiD .fresh-events-4fs .event-5-PaH .okt-1-2023-autmn-fest-jangan-lupa-untuk-nantikan-promo-ini-4wK .okt-1-2023-autmn-fest-jangan-lupa-untuk-nantikan-promo-ini-4wK-sub-0 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.0132rem;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.fresh-events-kru .bg-tiD .fresh-events-4fs .event-5-PaH .okt-1-2023-autmn-fest-jangan-lupa-untuk-nantikan-promo-ini-4wK .okt-1-2023-autmn-fest-jangan-lupa-untuk-nantikan-promo-ini-4wK-sub-1 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.0132rem;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.fresh-events-kru .bg-tiD .fresh-events-4fs .event-5-PaH .n-1-xQR {
+  width: 24rem;
+  height: 24rem;
+  position: absolute;
+  left: 0;
+  top: 8.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5rem;
+}
+.fresh-events-kru .bg-tiD .fresh-events-qz1 {
+  width: 133.8rem;
+  height: 32.8rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 108rem;
+  display: flex;
+  align-items: center;
+  border-radius: 5rem;
+}
+.fresh-events-kru .bg-tiD .fresh-events-qz1 .event-1-MxM {
+  margin-right: 3.6rem;
+  width: 24rem;
+  height: 100%;
+  position: relative;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.fresh-events-kru .bg-tiD .fresh-events-qz1 .event-1-MxM .okt-1-2023-autmn-fest-jangan-lupa-untuk-nantikan-promo-ini-hmK {
+  width: 14.4rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 3.7rem;
+  top: 1.8rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.0132rem;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.fresh-events-kru .bg-tiD .fresh-events-qz1 .event-1-MxM .okt-1-2023-autmn-fest-jangan-lupa-untuk-nantikan-promo-ini-hmK .okt-1-2023-autmn-fest-jangan-lupa-untuk-nantikan-promo-ini-hmK-sub-0 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.0132rem;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.fresh-events-kru .bg-tiD .fresh-events-qz1 .event-1-MxM .okt-1-2023-autmn-fest-jangan-lupa-untuk-nantikan-promo-ini-hmK .okt-1-2023-autmn-fest-jangan-lupa-untuk-nantikan-promo-ini-hmK-sub-1 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.0132rem;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.fresh-events-kru .bg-tiD .fresh-events-qz1 .event-1-MxM .rectangle-5373-ZS9 {
+  width: 24rem;
+  height: 24rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 1rem rgba(0, 0, 0, 0.25);
+  background-color: #0e793c;
+  border-radius: 5rem;
+}
+.fresh-events-kru .bg-tiD .fresh-events-qz1 .event-1-MxM .n-3-HN9 {
+  width: 24rem;
+  height: 24rem;
+  position: absolute;
+  left: 0;
+  top: 8.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5rem;
+}
+.fresh-events-kru .bg-tiD .fresh-events-qz1 .event-1-MxM .okt-1-2023-autmn-fest-jangan-lupa-untuk-nantikan-promo-ini-btd {
+  width: 14.4rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 3.7rem;
+  top: 1.8rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.0132rem;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.fresh-events-kru .bg-tiD .fresh-events-qz1 .event-1-MxM .okt-1-2023-autmn-fest-jangan-lupa-untuk-nantikan-promo-ini-btd .okt-1-2023-autmn-fest-jangan-lupa-untuk-nantikan-promo-ini-btd-sub-0 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.0132rem;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.fresh-events-kru .bg-tiD .fresh-events-qz1 .event-1-MxM .okt-1-2023-autmn-fest-jangan-lupa-untuk-nantikan-promo-ini-btd .okt-1-2023-autmn-fest-jangan-lupa-untuk-nantikan-promo-ini-btd-sub-1 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.0132rem;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.fresh-events-kru .bg-tiD .fresh-events-qz1 .event-2-sDs {
+  margin-right: 3.6rem;
+  width: 24rem;
+  height: 100%;
+  position: relative;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.fresh-events-kru .bg-tiD .fresh-events-qz1 .event-2-sDs .rectangle-5372-pQ1 {
+  width: 24rem;
+  height: 24rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 1rem rgba(0, 0, 0, 0.25);
+  background-color: #0e793c;
+  border-radius: 5rem;
+}
+.fresh-events-kru .bg-tiD .fresh-events-qz1 .event-2-sDs .okt-2-2023-pesta-mangga-suy-owakdoiawhduiadhaaioasjh-Yau {
+  width: 15.8rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 3.7rem;
+  top: 1.8rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.0132rem;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.fresh-events-kru .bg-tiD .fresh-events-qz1 .event-2-sDs .okt-2-2023-pesta-mangga-suy-owakdoiawhduiadhaaioasjh-Yau .okt-2-2023-pesta-mangga-suy-owakdoiawhduiadhaaioasjh-Yau-sub-0 {
+}
+.fresh-events-kru .bg-tiD .fresh-events-qz1 .event-2-sDs .okt-2-2023-pesta-mangga-suy-owakdoiawhduiadhaaioasjh-Yau .okt-2-2023-pesta-mangga-suy-owakdoiawhduiadhaaioasjh-Yau-sub-1 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.0132rem;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.fresh-events-kru .bg-tiD .fresh-events-qz1 .event-2-sDs .n-1-vLZ {
+  width: 24rem;
+  height: 24rem;
+  position: absolute;
+  left: 0;
+  top: 8.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5rem;
+}
+.fresh-events-kru .bg-tiD .fresh-events-qz1 .auto-group-bxmk-EMF {
+  margin-right: 3.3rem;
+  width: 24rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.fresh-events-kru .bg-tiD .fresh-events-qz1 .auto-group-bxmk-EMF .event-3-BGV {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  border-radius: 5rem;
+}
+.fresh-events-kru .bg-tiD .fresh-events-qz1 .auto-group-bxmk-EMF .event-3-BGV .rectangle-5374-LfB {
+  width: 24rem;
+  height: 24rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 1rem rgba(0, 0, 0, 0.25);
+  background-color: #0e793c;
+  border-radius: 5rem;
+}
+.fresh-events-kru .bg-tiD .fresh-events-qz1 .auto-group-bxmk-EMF .event-3-BGV .okt-5-2023-nantikan-cooking-demo-oleh-kaesang-rtR {
+  width: 16.5rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 3.7rem;
+  top: 1.8rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.0132rem;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.fresh-events-kru .bg-tiD .fresh-events-qz1 .auto-group-bxmk-EMF .event-3-BGV .okt-5-2023-nantikan-cooking-demo-oleh-kaesang-rtR .okt-5-2023-nantikan-cooking-demo-oleh-kaesang-rtR-sub-0 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.0132rem;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.fresh-events-kru .bg-tiD .fresh-events-qz1 .auto-group-bxmk-EMF .event-3-BGV .okt-5-2023-nantikan-cooking-demo-oleh-kaesang-rtR .okt-5-2023-nantikan-cooking-demo-oleh-kaesang-rtR-sub-1 {
+}
+.fresh-events-kru .bg-tiD .fresh-events-qz1 .auto-group-bxmk-EMF .event-3-BGV .okt-5-2023-nantikan-cooking-demo-oleh-kaesang-rtR .okt-5-2023-nantikan-cooking-demo-oleh-kaesang-rtR-sub-2 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.0132rem;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.fresh-events-kru .bg-tiD .fresh-events-qz1 .auto-group-bxmk-EMF .event-3-BGV .okt-5-2023-nantikan-cooking-demo-oleh-kaesang-rtR .okt-5-2023-nantikan-cooking-demo-oleh-kaesang-rtR-sub-3 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.0132rem;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.fresh-events-kru .bg-tiD .fresh-events-qz1 .auto-group-bxmk-EMF .event-3-BGV .n-1-1oF {
+  width: 24rem;
+  height: 24rem;
+  position: absolute;
+  left: 0;
+  top: 8.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5rem;
+}
+.fresh-events-kru .bg-tiD .fresh-events-qz1 .event-4-8cy {
+  margin-right: 3.3rem;
+  width: 24rem;
+  height: 100%;
+  position: relative;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.fresh-events-kru .bg-tiD .fresh-events-qz1 .event-4-8cy .rectangle-5375-HVs {
+  width: 24rem;
+  height: 24rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 1rem rgba(0, 0, 0, 0.25);
+  background-color: #0e793c;
+  border-radius: 5rem;
+}
+.fresh-events-kru .bg-tiD .fresh-events-qz1 .event-4-8cy .okt-1-2023-nantikan-veggies-fest-jangan-sampai-ketinggalan-cY9 {
+  width: 15.5rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 3.7rem;
+  top: 1.8rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.0132rem;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.fresh-events-kru .bg-tiD .fresh-events-qz1 .event-4-8cy .okt-1-2023-nantikan-veggies-fest-jangan-sampai-ketinggalan-cY9 .okt-1-2023-nantikan-veggies-fest-jangan-sampai-ketinggalan-cY9-sub-0 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.0132rem;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.fresh-events-kru .bg-tiD .fresh-events-qz1 .event-4-8cy .okt-1-2023-nantikan-veggies-fest-jangan-sampai-ketinggalan-cY9 .okt-1-2023-nantikan-veggies-fest-jangan-sampai-ketinggalan-cY9-sub-1 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.0132rem;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.fresh-events-kru .bg-tiD .fresh-events-qz1 .event-4-8cy .saveinstaapp-3186271269753263669-1-tPB {
+  width: 24rem;
+  height: 24rem;
+  position: absolute;
+  left: 0;
+  top: 8.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5rem;
+}
+.fresh-events-kru .bg-tiD .fresh-events-qz1 .event-5-Q6d {
+  width: 24rem;
+  height: 100%;
+  position: relative;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.fresh-events-kru .bg-tiD .fresh-events-qz1 .event-5-Q6d .rectangle-5376-9pu {
+  width: 24rem;
+  height: 24rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 1rem rgba(0, 0, 0, 0.25);
+  background-color: #0e793c;
+  border-radius: 5rem;
+}
+.fresh-events-kru .bg-tiD .fresh-events-qz1 .event-5-Q6d .okt-1-2023-autmn-fest-jangan-lupa-untuk-nantikan-promo-ini-V85 {
+  width: 14.4rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 3.7rem;
+  top: 1.8rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.0132rem;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.fresh-events-kru .bg-tiD .fresh-events-qz1 .event-5-Q6d .okt-1-2023-autmn-fest-jangan-lupa-untuk-nantikan-promo-ini-V85 .okt-1-2023-autmn-fest-jangan-lupa-untuk-nantikan-promo-ini-V85-sub-0 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.0132rem;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.fresh-events-kru .bg-tiD .fresh-events-qz1 .event-5-Q6d .okt-1-2023-autmn-fest-jangan-lupa-untuk-nantikan-promo-ini-V85 .okt-1-2023-autmn-fest-jangan-lupa-untuk-nantikan-promo-ini-V85-sub-1 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.0132rem;
+  color: #fafafa;
+  font-family: Inter, 'Source Sans Pro';
+}
+.fresh-events-kru .bg-tiD .fresh-events-qz1 .event-5-Q6d .n-1-kiD {
+  width: 24rem;
+  height: 24rem;
+  position: absolute;
+  left: 0;
+  top: 8.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5rem;
+}
+.fresh-events-kru .navbar-3SR {
+  box-sizing: border-box;
+  padding-bottom: 1.6rem;
+  width: 144rem;
+  height: 16rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(269.24deg, #095028 11.7%, #17c964 96.6%);
+}
+.fresh-events-kru .navbar-3SR .logo-gkH {
+  margin-bottom: 1.1rem;
+  width: 100%;
+  height: 8.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.fresh-events-kru .navbar-3SR .logo-gkH .rectangle-5311-Rhs {
+  width: 144rem;
+  height: 8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+}
+.fresh-events-kru .navbar-3SR .logo-gkH .item-67580793426116-3-mWq {
+  width: 143.2rem;
+  height: 8rem;
+  position: relative;
+  left: 0;
+  top: 0;
+  background-size: 100% 1200%;
+  background-position: -0rem -48.9223rem;
+  background-image: url('../assets/-3cD.png');
+}
+.fresh-events-kru .navbar-3SR .logo-gkH .group-34396-Fgu {
+  width: 41rem;
+  height: 8.5rem;
+  position: absolute;
+  left: 50.9rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.fresh-events-kru .navbar-3SR .logo-gkH .px-herosupermarket-3-B4m {
+  width: 18.2rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 62.9rem;
+  top: 1.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.fresh-events-kru .navbar-3SR .auto-group-bhp7-5fw {
+  margin: 0rem 11.3rem 0rem 9.6rem;
+  width: calc(100% - 20.9rem);
+  height: 4.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.fresh-events-kru .navbar-3SR .auto-group-bhp7-5fw .frame-34451-bPP {
+  margin: 1.3rem 30.8rem 1.1rem 0rem;
+  height: calc(100% - 2.4rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.fresh-events-kru .navbar-3SR .auto-group-bhp7-5fw .frame-34451-bPP .beranda-7cd {
+  margin-right: 5.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.fresh-events-kru .navbar-3SR .auto-group-bhp7-5fw .frame-34451-bPP .tentang-hero-2jb {
+  margin-right: 5.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.fresh-events-kru .navbar-3SR .auto-group-bhp7-5fw .frame-34451-bPP .fresh-recipe-MWy {
+  margin-right: 5.45rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.fresh-events-kru .navbar-3SR .auto-group-bhp7-5fw .frame-34451-bPP .promo-event-gZF {
+  margin-right: 5.45rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.fresh-events-kru .navbar-3SR .auto-group-bhp7-5fw .frame-34451-bPP .cara-belanja-otm {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.fresh-events-kru .navbar-3SR .auto-group-bhp7-5fw .button-shop-Lth {
+  box-sizing: border-box;
+  padding: 1.2rem 4.2rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.fresh-events-kru .navbar-3SR .auto-group-bhp7-5fw .button-shop-Lth .icon-cart-gSm {
+  margin: 0rem 0.7rem 0.099rem 0rem;
+  width: 2.1rem;
+  height: 2.1014rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.fresh-events-kru .navbar-3SR .auto-group-bhp7-5fw .button-shop-Lth .shop-now-1E9 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #095028;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.fresh-events-kru .pagination-numbers-UNd {
+  width: 33.9rem;
+  height: 4rem;
+  position: absolute;
+  left: 115.4rem;
+  top: 156.2rem;
+}
+.fresh-events-kru .pagination-numbers-UNd .pages-Q1P {
+  box-sizing: border-box;
+  padding-right: 10rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  column-gap: 0.8rem;
+  align-items: center;
+}
+.fresh-events-kru .pagination-numbers-UNd .pages-Q1P .auto-group-1lvo-w1K {
+  box-sizing: border-box;
+  padding-left: 4.8rem;
+  width: 9rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.fresh-events-kru .pagination-numbers-UNd .pages-Q1P .auto-group-1lvo-w1K .button-H5B {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #0e793c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0 1rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+}
+.fresh-events-kru .pagination-numbers-UNd .pages-Q1P .button-Lp9 {
+  width: 4.3rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #0e793c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0 1rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.fresh-events-kru .pagination-numbers-UNd .pages-Q1P .button-2BB {
+  box-sizing: border-box;
+  padding: 0.8rem 1.417rem 0.8rem 1.6rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0 1rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.fresh-events-kru .pagination-numbers-UNd .pages-Q1P .button-2BB .label-wow {
+  margin-right: 1.2167rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #0e793c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.fresh-events-kru .pagination-numbers-UNd .pages-Q1P .button-2BB .icon-alt-fjw {
+  margin-bottom: 0.0002rem;
+  width: 1.1667rem;
+  height: 1.1666rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

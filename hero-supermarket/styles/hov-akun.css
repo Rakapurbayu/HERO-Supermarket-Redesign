@@ -1,0 +1,44 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 5.1rem;
+}.hov-akun-3fo {
+  width: 100%;
+  height: 4.2rem;
+  cursor: pointer;
+}
+.hov-akun-3fo .hai-shofie-cD7 {
+  max-width: 5.1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #20992e;
+  font-family: Inter, 'Source Sans Pro';
+}
+.hov-akun-3fo .hai-shofie-cD7 .hai-shofie-cD7-sub-0 {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #20992e;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.hov-akun-3fo .hai-shofie-cD7 .hai-shofie-cD7-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.3125;
+  text-decoration-line: underline;
+  color: #20992e;
+  font-family: Poppins, 'Source Sans Pro';
+}

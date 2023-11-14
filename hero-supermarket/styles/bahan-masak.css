@@ -1,0 +1,239 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.bahan-masak-UG9 {
+  box-sizing: border-box;
+  padding: 2.7rem 47.5rem 4rem 26.3rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.bahan-masak-UG9 .collections-Ptu {
+  margin-right: 9.2rem;
+  height: 20.5rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.bahan-masak-UG9 .collections-Ptu .beras-kacang-mie-XVK {
+  margin-bottom: 1.4rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #7e7e7e;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bahan-masak-UG9 .collections-Ptu .sayur-SsB {
+  margin-bottom: 1.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bahan-masak-UG9 .collections-Ptu .jamur-kecambah-z81 {
+  margin-bottom: 1.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bahan-masak-UG9 .collections-Ptu .rempah-bumbu-v1f {
+  margin-bottom: 1.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bahan-masak-UG9 .collections-Ptu .buah-segar-T1b {
+  margin-bottom: 1.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bahan-masak-UG9 .collections-Ptu .tahu-fermentasi-aM7 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bahan-masak-UG9 .collections-hgd {
+  margin-right: 8.9rem;
+  height: 20.5rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.bahan-masak-UG9 .collections-hgd .kebutuhan-masak-FCM {
+  margin-bottom: 1.4rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #7e7e7e;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bahan-masak-UG9 .collections-hgd .daging-sapi-ye9 {
+  margin-bottom: 1.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bahan-masak-UG9 .collections-hgd .lamb-i5w {
+  margin-bottom: 1.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bahan-masak-UG9 .collections-hgd .unggas-telur-SGq {
+  margin-bottom: 1.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bahan-masak-UG9 .collections-hgd .ikan-air-tawar-Mub {
+  margin-bottom: 1.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bahan-masak-UG9 .collections-hgd .seafood-6MP {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bahan-masak-UG9 .collections-31j {
+  height: 20.5rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.bahan-masak-UG9 .collections-31j .sayur-buah-nk1 {
+  margin-bottom: 1.4rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #7e7e7e;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bahan-masak-UG9 .collections-31j .sayur-8J5 {
+  margin-bottom: 1.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bahan-masak-UG9 .collections-31j .jamur-kecambah-G9P {
+  margin-bottom: 1.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bahan-masak-UG9 .collections-31j .rempah-bumbu-HqB {
+  margin-bottom: 1.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bahan-masak-UG9 .collections-31j .buah-segar-RRb {
+  margin-bottom: 1.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.bahan-masak-UG9 .collections-31j .tahu-fermentasi-A8H {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

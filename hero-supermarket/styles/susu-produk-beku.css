@@ -1,0 +1,134 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.susu-produk-beku-qZB {
+  box-sizing: border-box;
+  padding: 2.7rem 71.3rem 2.6rem 26.3rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.susu-produk-beku-qZB .collections-YiV {
+  margin-right: 14.5rem;
+  height: 17rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.susu-produk-beku-qZB .collections-YiV .susu-olahan-tnM {
+  margin-bottom: 1.4rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #7e7e7e;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.susu-produk-beku-qZB .collections-YiV .susu-R1b {
+  margin-bottom: 1.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.susu-produk-beku-qZB .collections-YiV .keju-kZf {
+  margin-bottom: 1.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.susu-produk-beku-qZB .collections-YiV .mentega-5rq {
+  margin-bottom: 1.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.susu-produk-beku-qZB .collections-YiV .yougrt-kefir-2GH {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.susu-produk-beku-qZB .collections-kxy {
+  margin-bottom: 3.8rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.susu-produk-beku-qZB .collections-kxy .makanan-beku-WhF {
+  margin-bottom: 1.4rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #7e7e7e;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.susu-produk-beku-qZB .collections-kxy .frozen-meat-poultry-3SH {
+  margin-bottom: 1.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.susu-produk-beku-qZB .collections-kxy .frozen-fish-NDf {
+  margin-bottom: 1.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.susu-produk-beku-qZB .collections-kxy .frozen-fruits-6vM {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

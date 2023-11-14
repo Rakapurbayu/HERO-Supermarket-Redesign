@@ -1,0 +1,118 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 47rem;
+}.frame-34490-MDj {
+  box-sizing: border-box;
+  padding: 3.35rem 2.8rem 3.4rem 2.8rem;
+  width: 100%;
+  height: 23.8rem;
+  background-color: #ffffff;
+}
+.frame-34490-MDj .group-34460-sSy {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.frame-34490-MDj .group-34460-sSy .di-mana-lokasi-tujuan-pengirimanmu-RUV {
+  margin-bottom: 2.25rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-34490-MDj .group-34460-sSy .auto-group-tp4d-Vz9 {
+  box-sizing: border-box;
+  padding: 1.1rem 12.1rem 1rem 1.1rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #d9d9d9;
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.frame-34490-MDj .group-34460-sSy .auto-group-tp4d-Vz9 .vector-2jB {
+  margin-right: 1rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-34490-MDj .group-34460-sSy .auto-group-tp4d-Vz9 .tulis-nama-jalan-gedung-perumahan-ZUD {
+  margin-bottom: 0.1rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #8b8b8b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-34490-MDj .group-34460-sSy .auto-group-zvk3-diy {
+  box-sizing: border-box;
+  padding: 1.1rem 20.3rem 1rem 2.5rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #d9d9d9;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.frame-34490-MDj .group-34460-sSy .auto-group-zvk3-diy .vector-a8R {
+  margin-right: 1.1rem;
+  width: 1.5rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-34490-MDj .group-34460-sSy .auto-group-zvk3-diy .gunakan-lokasi-saat-ini-5L5 {
+  margin-bottom: 0.1rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-34490-MDj .group-34460-sSy .auto-group-xu5f-ywF {
+  box-sizing: border-box;
+  padding: 1.2rem 3.2rem;
+  width: 100%;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #8b8b8b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d9d9d9;
+  background-color: #ffffff;
+  border-radius: 0 0 0.8rem 0.8rem;
+  flex-shrink: 0;
+}

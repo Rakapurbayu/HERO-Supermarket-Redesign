@@ -1,0 +1,561 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.edit-barang-dcM {
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #e3f7ca;
+  width: 100%;
+  overflow: hidden;
+
+  .menu-admin-M2Z {
+    box-sizing: border-box;
+    height: 90rem;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+    padding: 5rem 3.8rem 3.477rem 2.9rem;
+    width: 30rem;
+    background-color: #ffffff;
+    border-radius: 0.5rem;
+    flex-shrink: 0;
+
+    .logo-navbar-pgq {
+      border-radius: 1.1rem;
+      flex-shrink: 0;
+      margin: 0rem 4.5rem 8.2rem 0rem;
+      box-sizing: border-box;
+      padding: 0.66rem 1.121rem 0.55rem 1.245rem;
+      background-color: #ffffff;
+
+      .px-herosupermarket-3-KtV {
+        vertical-align: top;
+        width: 16.4344rem;
+        height: 4.29rem;
+        object-fit: cover;
+      }
+    }
+    .auto-group-ssfs-Bvh {
+      justify-content: center;
+      border: solid 0.1rem #000000;
+      background-color: #ffffff;
+      font-size: 1.8rem;
+      font-weight: 600;
+      line-height: 1.2125;
+      flex-shrink: 0;
+      width: 22.4rem;
+      text-align: center;
+      color: #052814;
+      white-space: nowrap;
+      display: flex;
+      align-items: center;
+      box-sizing: border-box;
+      border-radius: 1rem;
+      margin: 0rem 0rem 3.3rem 0.9rem;
+      height: 5.1rem;
+      font-family: Inter, 'Source Sans Pro';
+    }
+    .group-34309-7C5 {
+      border-radius: 1rem;
+      margin: 0rem 0rem 3rem 0.9rem;
+      width: calc(100% - 0.9rem);
+      cursor: pointer;
+      align-items: center;
+      border: solid 0.1rem #052814;
+      background-color: #052814;
+      box-sizing: border-box;
+      padding: 1.1rem 4.774rem 1.8rem 7.1rem;
+      display: flex;
+      flex-shrink: 0;
+
+      .category-oKo {
+        font-size: 1.8rem;
+        line-height: 1.2125;
+        font-family: Inter, 'Source Sans Pro';
+        flex-shrink: 0;
+        margin-right: 0.7rem;
+        text-align: center;
+        white-space: nowrap;
+        font-weight: 600;
+        color: #ffffff;
+      }
+      .vector-Kow {
+        height: 0.7775rem;
+        object-fit: contain;
+        vertical-align: top;
+        border-radius: 0.2859rem;
+        flex-shrink: 0;
+        margin-top: 0.5775rem;
+        width: 1.6258rem;
+      }
+    }
+    .auto-group-xndw-cHF {
+      flex-shrink: 0;
+      margin: 0rem 0rem 0.8rem 0.9rem;
+      width: 22.4rem;
+      height: 6.8rem;
+      position: relative;
+
+      .group-34310-LU9 {
+        left: 0;
+        top: 1.7rem;
+        box-sizing: border-box;
+        padding: 1.3rem 1.5rem 1rem 1.5rem;
+        width: 22.4rem;
+        height: 5.1rem;
+        position: absolute;
+
+        .auto-group-8w9w-T2y {
+          font-weight: 600;
+          line-height: 1.2125;
+          color: #000000;
+          white-space: nowrap;
+          box-sizing: border-box;
+          padding-top: 0.8rem;
+          height: 100%;
+          text-align: center;
+          font-size: 1.6rem;
+          font-family: Inter, 'Source Sans Pro';
+          margin-right: 6.8rem;
+          width: 12.6rem;
+        }
+      }
+      .promo-k25 {
+        white-space: nowrap;
+        width: 5.1rem;
+        height: 2rem;
+        font-size: 1.6rem;
+        font-weight: 600;
+        color: #000000;
+        font-family: Inter, 'Source Sans Pro';
+        cursor: pointer;
+        position: absolute;
+        left: 1.5rem;
+        top: 0;
+        text-align: center;
+        line-height: 1.2125;
+      }
+    }
+    .bahan-masak-Sfb {
+      text-align: center;
+      font-size: 1.6rem;
+      font-weight: 600;
+      color: #000000;
+      flex-shrink: 0;
+      cursor: pointer;
+      line-height: 1.2125;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      margin: 0rem 8.1rem 1.8rem 0rem;
+    }
+    .susu-dan-produk-segar-jeh {
+      font-size: 1.6rem;
+      font-weight: 600;
+      line-height: 1.2125;
+      flex-shrink: 0;
+      margin: 0rem 0.5rem 1.8rem 0rem;
+      text-align: center;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      cursor: pointer;
+      color: #000000;
+    }
+    .snack-qSq {
+      cursor: pointer;
+      font-weight: 600;
+      color: #000000;
+      white-space: nowrap;
+      font-family: Inter, 'Source Sans Pro';
+      flex-shrink: 0;
+      margin: 0rem 13.7rem 1.8rem 0rem;
+      text-align: center;
+      font-size: 1.6rem;
+      line-height: 1.2125;
+    }
+    .kesehatan-Z7w {
+      font-weight: 600;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      margin: 0rem 10.3rem 7.2rem 0rem;
+      cursor: pointer;
+      text-align: center;
+      font-size: 1.6rem;
+      line-height: 1.2125;
+      color: #000000;
+      flex-shrink: 0;
+    }
+    .auto-group-vdvt-UVo {
+      background-color: #ffffff;
+      border-radius: 1rem;
+      margin: 0rem 0rem 15.5rem 0.9rem;
+      box-sizing: border-box;
+      width: calc(100% - 0.9rem);
+      align-items: center;
+      border: solid 0.1rem #000000;
+      padding: 1rem 4.474rem 1.9rem 8.35rem;
+      display: flex;
+      flex-shrink: 0;
+
+      .histori-zDF {
+        font-weight: 600;
+        line-height: 1.2125;
+        color: #052814;
+        font-family: Inter, 'Source Sans Pro';
+        flex-shrink: 0;
+        margin-right: 2.15rem;
+        text-align: center;
+        font-size: 1.8rem;
+        white-space: nowrap;
+      }
+      .vector-84Z {
+        height: 0.7775rem;
+        object-fit: contain;
+        vertical-align: top;
+        border-radius: 0.2859rem;
+        flex-shrink: 0;
+        margin-top: 0.1779rem;
+        width: 1.6258rem;
+      }
+    }
+    .auto-group-wmwf-RZT {
+      align-items: center;
+      flex-shrink: 0;
+      margin-right: 11.9rem;
+      width: calc(100% - 11.9rem);
+      display: flex;
+
+      .icon-account-logout-y5B {
+        margin-right: 1.9758rem;
+        width: 2.5242rem;
+        height: 2.5233rem;
+        position: relative;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+      .log-out-h1B {
+        text-align: center;
+        font-size: 1.8rem;
+        font-weight: 600;
+        color: #000000;
+        font-family: Inter, 'Source Sans Pro';
+        flex-shrink: 0;
+        margin-top: 0.0767rem;
+        line-height: 1.2125;
+        white-space: nowrap;
+      }
+    }
+  }
+  .auto-group-ygdx-AvM {
+    width: 114rem;
+    height: 90rem;
+    position: relative;
+    flex-shrink: 0;
+
+    .ellipse-4-K2Z {
+      position: absolute;
+      left: 84.5rem;
+      background-repeat: no-repeat;
+      width: 7rem;
+      top: 4.2rem;
+      background-size: 100% 100%;
+      background-position: center;
+      background-image: url('REPLACE_IMAGE:0eedeec74139c91def18b72c7cc5f716dc37c01b');
+      border-radius: 3.5rem;
+      height: 7rem;
+    }
+    .auto-group-taky-Dtd {
+      height: 5rem;
+      position: absolute;
+      left: 93.3rem;
+      top: 5rem;
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+      width: 17.8rem;
+
+      .hello-good-morning-x5X {
+        margin-bottom: 0.6rem;
+        font-weight: 600;
+        color: #052814;
+        font-family: Inter, 'Source Sans Pro';
+        flex-shrink: 0;
+        text-align: center;
+        font-size: 1.8rem;
+        line-height: 1.2125;
+        white-space: nowrap;
+      }
+      .xaviera-porsh-48Z {
+        line-height: 1.2125;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        color: #052814;
+        flex-shrink: 0;
+        margin-right: 0.5rem;
+        text-align: center;
+        font-size: 1.8rem;
+        font-weight: 600;
+      }
+    }
+    .line-120-asb {
+      width: 0.1rem;
+      height: 4.9rem;
+      position: absolute;
+      left: 81.3rem;
+      top: 5.5rem;
+      background-color: #052814;
+    }
+    .icon-bell-7Mj {
+      top: 6.7rem;
+      object-fit: contain;
+      vertical-align: top;
+      width: 2.015rem;
+      height: 2.2731rem;
+      position: absolute;
+      left: 76.9rem;
+    }
+    .icon-envelope-closed-Ex9 {
+      object-fit: contain;
+      vertical-align: top;
+      width: 2.2484rem;
+      height: 1.5239rem;
+      position: absolute;
+      left: 72.7rem;
+      top: 7.1rem;
+    }
+    .edit-barang-Mms {
+      background-color: #ffffff;
+      border-radius: 3rem;
+      width: 105.3rem;
+      height: 70.6rem;
+      position: absolute;
+      left: 4.3rem;
+      top: 15.4rem;
+
+      .auto-group-tejm-H9j {
+        font-size: 1.4rem;
+        font-family: Inter, 'Source Sans Pro';
+        border: solid 0.1rem #000000;
+        padding: 1.8rem 2.3rem 2.6rem 2.3rem;
+        position: absolute;
+        top: 13.8rem;
+        line-height: 1.2125;
+        color: #000000;
+        border-radius: 1rem;
+        height: 6.1rem;
+        left: 3.6rem;
+        text-align: center;
+        background-color: #ffffff;
+        box-sizing: border-box;
+        width: 98rem;
+        font-weight: 300;
+        white-space: nowrap;
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+      }
+      .auto-group-fna5-6N5 {
+        background-color: #ffffff;
+        width: 98rem;
+        height: 14.6rem;
+        position: absolute;
+        left: 3.6rem;
+        border: solid 0.1rem #000000;
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+        box-sizing: border-box;
+        padding: 0.8rem 2.3rem;
+        top: 26.3rem;
+        border-radius: 1rem;
+
+        .b0b2-47f4-9aba-b022ef697ab0720x-1-1jw {
+          position: relative;
+          background-size: 114.467% 164.384%;
+          background-position: -2.6909rem -3.1164rem;
+          background-image: url('REPLACE_IMAGE:d24f47784d90375ef5140b59086b11aceae2f0a0');
+          width: 18.6rem;
+          height: 13rem;
+        }
+      }
+      .auto-group-dkvh-F8V {
+        height: 6.1rem;
+        background-color: #ffffff;
+        border-radius: 1rem;
+        font-weight: 300;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        left: 3.6rem;
+        top: 45.8rem;
+        font-size: 1.4rem;
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+        box-sizing: border-box;
+        padding: 2.3rem 2.3rem 2.1rem 2.3rem;
+        text-align: center;
+        color: #000000;
+        border: solid 0.1rem #000000;
+        width: 98rem;
+        position: absolute;
+        line-height: 1.2125;
+      }
+      .auto-group-7gwm-Q9o {
+        position: absolute;
+        font-size: 1.4rem;
+        line-height: 1.2125;
+        font-family: Inter, 'Source Sans Pro';
+        border-radius: 1rem;
+        font-weight: 300;
+        color: #000000;
+        white-space: nowrap;
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+        padding: 2.3rem 2.7rem 2.1rem 2.7rem;
+        left: 3.6rem;
+        top: 57.8rem;
+        box-sizing: border-box;
+        width: 98rem;
+        height: 6.1rem;
+        text-align: center;
+        border: solid 0.1rem #000000;
+        background-color: #ffffff;
+      }
+      .edit-barang-Bpm {
+        height: 3.9rem;
+        position: absolute;
+        line-height: 1.2125;
+        color: #000000;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        width: 18rem;
+        left: 43.6rem;
+        top: 2.8rem;
+        text-align: center;
+        font-size: 3.2rem;
+        font-weight: 700;
+      }
+      .nama-produk-6B3 {
+        color: #000000;
+        position: absolute;
+        left: 3.8rem;
+        top: 10.3rem;
+        font-weight: 500;
+        line-height: 1.5;
+        white-space: nowrap;
+        width: 13.8rem;
+        height: 3rem;
+        text-align: center;
+        font-size: 2rem;
+        font-family: Poppins, 'Source Sans Pro';
+      }
+      .foto-produk-npZ {
+        width: 11.9rem;
+        position: absolute;
+        font-size: 2rem;
+        line-height: 1.5;
+        color: #000000;
+        white-space: nowrap;
+        height: 3rem;
+        left: 3.8rem;
+        top: 22.8rem;
+        text-align: center;
+        font-weight: 500;
+        font-family: Poppins, 'Source Sans Pro';
+      }
+      .kategori-produk-ueH {
+        width: 16.1rem;
+        height: 3rem;
+        left: 3.6rem;
+        font-size: 2rem;
+        font-weight: 500;
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+        position: absolute;
+        top: 42.8rem;
+        text-align: center;
+        line-height: 1.5;
+        color: #000000;
+      }
+      .harga-produk-pmF {
+        position: absolute;
+        text-align: center;
+        width: 13.8rem;
+        height: 3rem;
+        font-size: 2rem;
+        font-weight: 500;
+        line-height: 1.5;
+        color: #000000;
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+        left: 3.6rem;
+        top: 54.8rem;
+      }
+      .auto-group-q2q7-wqs {
+        width: 11.7rem;
+        height: 3rem;
+        position: absolute;
+        left: 89.9rem;
+        top: 66rem;
+
+        .save-5x5 {
+          white-space: nowrap;
+          height: 3rem;
+          position: absolute;
+          color: #ffffff;
+          font-family: Poppins, 'Source Sans Pro';
+          font-size: 2rem;
+          font-weight: 500;
+          line-height: 1.5;
+          width: 5rem;
+          left: 4.6rem;
+          top: 0;
+          text-align: center;
+        }
+        .group-34412-ch7 {
+          left: 0;
+          top: 0;
+          border-radius: 0.5rem;
+          width: 11.7rem;
+          height: 3rem;
+          cursor: pointer;
+          position: absolute;
+
+          .rectangle-5368-Mub {
+            left: 0;
+            top: 0.1rem;
+            box-sizing: border-box;
+            background-color: #e8faf0;
+            width: 11.7rem;
+            height: 2.9rem;
+            position: absolute;
+            border: solid 0.1rem #20992e;
+            border-radius: 0.5rem;
+          }
+          .save-4p1 {
+            top: 0;
+            text-align: center;
+            white-space: nowrap;
+            height: 3rem;
+            position: absolute;
+            left: 3.4rem;
+            font-size: 2rem;
+            font-weight: 500;
+            line-height: 1.5;
+            color: #20992e;
+            font-family: Poppins, 'Source Sans Pro';
+            width: 5rem;
+          }
+        }
+      }
+    }
+  }
+}

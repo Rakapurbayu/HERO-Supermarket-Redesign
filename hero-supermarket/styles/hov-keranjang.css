@@ -1,0 +1,76 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 12.8rem;
+}.hov-keranjang-F45 {
+  width: 100%;
+  height: 4.5rem;
+}
+.hov-keranjang-F45 .group-34375-Pg5 {
+  box-sizing: border-box;
+  padding: 0.5rem 1.8rem 0.8rem 1.7rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/union-mJh.png');
+}
+.hov-keranjang-F45 .group-34375-Pg5 .shopping-cart-2-4-Wkh {
+  margin: 0.2rem 1.1rem 0rem 0rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  background-size: 100% 100%;
+  background-image: url('../assets/shopping-cart-2-4-bg-MkD.png');
+  flex-shrink: 0;
+}
+.hov-keranjang-F45 .group-34375-Pg5 .shopping-cart-2-4-Wkh .shopping-cart-2-4-Wkh-bg {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:1609cbfcd2fa44c73b1bec2c9edae08d74c3b9d1');
+}
+.hov-keranjang-F45 .group-34375-Pg5 .shoppingchart-b1T {
+  max-width: 5.8rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.hov-keranjang-F45 .group-34375-Pg5 .shoppingchart-b1T .shoppingchart-b1T-sub-0 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.hov-keranjang-F45 .group-34375-Pg5 .shoppingchart-b1T .shoppingchart-b1T-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.hov-keranjang-F45 .group-34375-Pg5 .shoppingchart-b1T .shoppingchart-b1T-sub-2 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.1428571429;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}

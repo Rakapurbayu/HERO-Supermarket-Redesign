@@ -1,0 +1,1247 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.category-kesehatan-Jgy {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  background-color: #e3f7ca;
+}
+.category-kesehatan-Jgy .menu-admin-djF {
+  box-sizing: border-box;
+  padding: 5.389rem 3.8rem 4.691rem 2.9rem;
+  width: 30rem;
+  height: 168.6723rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .menu-admin-djF .logo-navbar-viM {
+  margin: 0rem 4.5rem 8.838rem 0rem;
+  box-sizing: border-box;
+  padding: 0.711rem 1.121rem 0.593rem 1.245rem;
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .menu-admin-djF .logo-navbar-viM .px-herosupermarket-3-3HB {
+  width: 16.4344rem;
+  height: 4.6236rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.category-kesehatan-Jgy .menu-admin-djF .auto-group-jwtb-wNZ {
+  margin: 0rem 0rem 5.8rem 0.9rem;
+  width: 22.4rem;
+  height: 37.4455rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .menu-admin-djF .auto-group-jwtb-wNZ .grup-tombol-rVX {
+  width: 22.4rem;
+  height: 25.1123rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.category-kesehatan-Jgy .menu-admin-djF .auto-group-jwtb-wNZ .grup-tombol-rVX .auto-group-f2wk-z5w {
+  margin-bottom: 3.5566rem;
+  width: 100%;
+  height: 5.4967rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #052814;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .menu-admin-djF .auto-group-jwtb-wNZ .grup-tombol-rVX .group-34309-22d {
+  margin-bottom: 5.0656rem;
+  box-sizing: border-box;
+  padding: 1.186rem 4.774rem 2.111rem 7.1rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #052814;
+  background-color: #052814;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .menu-admin-djF .auto-group-jwtb-wNZ .grup-tombol-rVX .group-34309-22d .category-Xzy {
+  margin-right: 0.7rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .menu-admin-djF .auto-group-jwtb-wNZ .grup-tombol-rVX .group-34309-22d .vector-fLV {
+  margin-top: 0.7936rem;
+  width: 1.6258rem;
+  height: 0.8381rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.2859rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .menu-admin-djF .auto-group-jwtb-wNZ .grup-tombol-rVX .group-34310-VaR {
+  width: 100%;
+  height: 5.4967rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .menu-admin-djF .auto-group-jwtb-wNZ .group-34361-24Z {
+  width: 18rem;
+  height: 21rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 16.4455rem;
+  row-gap: 1.8rem;
+  display: flex;
+  flex-direction: column;
+}
+.category-kesehatan-Jgy .menu-admin-djF .auto-group-jwtb-wNZ .group-34361-24Z .promo-ue9 {
+  width: 100%;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .menu-admin-djF .auto-group-jwtb-wNZ .group-34361-24Z .produk-segar-Qqo {
+  width: 100%;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .menu-admin-djF .auto-group-jwtb-wNZ .group-34361-24Z .bahan-masak-LzM {
+  width: 100%;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .menu-admin-djF .auto-group-jwtb-wNZ .group-34361-24Z .susu-dan-produk-segar-5S9 {
+  width: 100%;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .menu-admin-djF .auto-group-jwtb-wNZ .group-34361-24Z .snack-cBB {
+  width: 100%;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .menu-admin-djF .auto-group-jwtb-wNZ .group-34361-24Z .kesehatan-Yad {
+  width: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .menu-admin-djF .auto-group-vexh-5Kf {
+  margin: 0rem 0rem 90.942rem 0.9rem;
+  box-sizing: border-box;
+  padding: 1rem 4.474rem 1.9rem 8.35rem;
+  width: calc(100% - 0.9rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #000000;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .menu-admin-djF .auto-group-vexh-5Kf .histori-B7o {
+  margin-right: 2.15rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #052814;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .menu-admin-djF .auto-group-vexh-5Kf .vector-Jy7 {
+  margin-top: 0.1779rem;
+  width: 1.6258rem;
+  height: 0.7775rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.2859rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .menu-admin-djF .auto-group-wzfs-1Mj {
+  margin: 0rem 11.5rem 0rem 0.9rem;
+  width: calc(100% - 12.4rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .menu-admin-djF .auto-group-wzfs-1Mj .icon-account-logout-YMf {
+  margin: 0.751rem 1.476rem 0rem 0rem;
+  width: 2.5242rem;
+  height: 3.7885rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .menu-admin-djF .auto-group-wzfs-1Mj .log-out-FWy {
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq {
+  box-sizing: border-box;
+  padding: 4.2rem 2.9rem 3.3rem 6.2rem;
+  height: 168rem;
+  display: flex;
+  column-gap: 10.5rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-spvp-s2Z {
+  margin-top: 15.9rem;
+  width: 16.9rem;
+  row-gap: 6.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-spvp-s2Z .kategori-admin-aBs {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-spvp-s2Z .kategori-admin-aBs .auto-group-xdxd-vmX {
+  margin-bottom: 2.5rem;
+  width: 100%;
+  height: 17.3rem;
+  position: relative;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-spvp-s2Z .kategori-admin-aBs .auto-group-xdxd-vmX .sayur-GKb {
+  width: 13.7rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 13.3rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-spvp-s2Z .kategori-admin-aBs .auto-group-xdxd-vmX .istockphoto-1173552196-612x612-10-xy7 {
+  width: 14.2rem;
+  height: 11.8rem;
+  position: absolute;
+  left: 1.1rem;
+  top: 1.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-spvp-s2Z .kategori-admin-aBs .auto-group-1pgu-pVX {
+  width: 3.9rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-spvp-s2Z .kategori-admin-kPB {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-spvp-s2Z .kategori-admin-kPB .auto-group-uoxf-i57 {
+  margin-bottom: 2.5rem;
+  box-sizing: border-box;
+  padding: 1.4rem 1.4rem 1.7rem 1.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-spvp-s2Z .kategori-admin-kPB .auto-group-uoxf-i57 .istockphoto-1173552196-612x612-17-qQd {
+  margin-bottom: 0.1rem;
+  width: 14.2rem;
+  height: 11.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-spvp-s2Z .kategori-admin-kPB .auto-group-uoxf-i57 .sayur-ZLd {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-spvp-s2Z .kategori-admin-kPB .auto-group-sx9f-rqX {
+  width: 3.9rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-spvp-s2Z .kategori-admin-CPb {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-spvp-s2Z .kategori-admin-CPb .auto-group-8y2q-x7s {
+  margin-bottom: 2.5rem;
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 1.7rem 1.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-spvp-s2Z .kategori-admin-CPb .auto-group-8y2q-x7s .istockphoto-1173552196-612x612-19-t1X {
+  width: 14.2rem;
+  height: 11.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-spvp-s2Z .kategori-admin-CPb .auto-group-8y2q-x7s .sayur-bRj {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-spvp-s2Z .kategori-admin-CPb .auto-group-rkmb-W2u {
+  width: 3.9rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-spvp-s2Z .kategori-admin-eQ1 {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-spvp-s2Z .kategori-admin-eQ1 .auto-group-n65x-1VT {
+  margin-bottom: 2.5rem;
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 1.7rem 1.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-spvp-s2Z .kategori-admin-eQ1 .auto-group-n65x-1VT .istockphoto-1173552196-612x612-22-we1 {
+  width: 14.2rem;
+  height: 11.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-spvp-s2Z .kategori-admin-eQ1 .auto-group-n65x-1VT .sayur-GwB {
+  margin-left: 0.1rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-spvp-s2Z .kategori-admin-eQ1 .auto-group-esqh-NUR {
+  width: 3.9rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-spvp-s2Z .kategori-admin-iYH {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-spvp-s2Z .kategori-admin-iYH .auto-group-hvam-H5b {
+  margin-bottom: 2.5rem;
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 1.7rem 1.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-spvp-s2Z .kategori-admin-iYH .auto-group-hvam-H5b .istockphoto-1173552196-612x612-26-cNm {
+  width: 14.2rem;
+  height: 11.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-spvp-s2Z .kategori-admin-iYH .auto-group-hvam-H5b .sayur-XVj {
+  margin-left: 0.1rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-spvp-s2Z .kategori-admin-iYH .auto-group-yg3j-E9F {
+  width: 3.9rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-bunu-wJZ {
+  margin-top: 15.9rem;
+  width: 16.9rem;
+  row-gap: 6.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-bunu-wJZ .kategori-admin-c9o {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-bunu-wJZ .kategori-admin-c9o .auto-group-wjsj-whs {
+  margin-bottom: 2.5rem;
+  box-sizing: border-box;
+  padding: 1.5rem 1.2rem 1.7rem 1.5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-bunu-wJZ .kategori-admin-c9o .auto-group-wjsj-whs .istockphoto-1173552196-612x612-13-UC1 {
+  width: 14.2rem;
+  height: 11.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-bunu-wJZ .kategori-admin-c9o .auto-group-wjsj-whs .sayur-bGd {
+  margin-right: 0.3rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-bunu-wJZ .kategori-admin-c9o .auto-group-n4m7-dDK {
+  width: 3.9rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-bunu-wJZ .kategori-admin-Z6y {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-bunu-wJZ .kategori-admin-Z6y .auto-group-s41f-7eH {
+  margin-bottom: 2.5rem;
+  box-sizing: border-box;
+  padding: 1.2rem 1.2rem 1.6rem 1.5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-bunu-wJZ .kategori-admin-Z6y .auto-group-s41f-7eH .istockphoto-1173552196-612x612-15-qKP {
+  margin-bottom: 0.3rem;
+  width: 14.2rem;
+  height: 11.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-bunu-wJZ .kategori-admin-Z6y .auto-group-s41f-7eH .sayur-kBT {
+  margin-right: 0.3rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-bunu-wJZ .kategori-admin-Z6y .auto-group-hov3-EMX {
+  width: 3.9rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-bunu-wJZ .kategori-admin-LQZ {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-bunu-wJZ .kategori-admin-LQZ .auto-group-apd7-sfP {
+  margin-bottom: 2.5rem;
+  box-sizing: border-box;
+  padding: 1.5rem 1.2rem 1.7rem 1.2rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-bunu-wJZ .kategori-admin-LQZ .auto-group-apd7-sfP .istockphoto-1173552196-612x612-20-yTX {
+  margin-left: 0.3rem;
+  width: 14.2rem;
+  height: 11.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-bunu-wJZ .kategori-admin-LQZ .auto-group-apd7-sfP .sayur-fr9 {
+  margin-right: 0.1rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-bunu-wJZ .kategori-admin-LQZ .auto-group-taws-JeD {
+  width: 3.9rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-bunu-wJZ .kategori-admin-qu3 {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-bunu-wJZ .kategori-admin-qu3 .auto-group-dygh-z1F {
+  margin-bottom: 2.5rem;
+  box-sizing: border-box;
+  padding: 1.5rem 1.2rem 1.7rem 1.5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-bunu-wJZ .kategori-admin-qu3 .auto-group-dygh-z1F .istockphoto-1173552196-612x612-23-5Hb {
+  width: 14.2rem;
+  height: 11.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-bunu-wJZ .kategori-admin-qu3 .auto-group-dygh-z1F .sayur-9YM {
+  margin-right: 0.3rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-bunu-wJZ .kategori-admin-qu3 .auto-group-p5n1-atZ {
+  width: 3.9rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-bunu-wJZ .kategori-admin-J3s {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-bunu-wJZ .kategori-admin-J3s .auto-group-bp21-drq {
+  margin-bottom: 2.5rem;
+  box-sizing: border-box;
+  padding: 1.5rem 1.2rem 1.7rem 1.5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-bunu-wJZ .kategori-admin-J3s .auto-group-bp21-drq .istockphoto-1173552196-612x612-27-LFT {
+  width: 14.2rem;
+  height: 11.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-bunu-wJZ .kategori-admin-J3s .auto-group-bp21-drq .sayur-Erd {
+  margin-right: 0.3rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-bunu-wJZ .kategori-admin-J3s .auto-group-e8kh-Hpu {
+  width: 3.9rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm {
+  margin-bottom: 30.3rem;
+  width: 50.1rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-rvmb-Vvy {
+  margin: 0rem 0rem 8.9rem 10.1rem;
+  height: 7rem;
+  display: flex;
+  align-items: center;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-rvmb-Vvy .auto-group-exxm-aBj {
+  box-sizing: border-box;
+  padding: 1.3rem 3.1rem 0.8rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-rvmb-Vvy .auto-group-exxm-aBj .icon-envelope-closed-58V {
+  margin: 0.2rem 2.352rem 0rem 0rem;
+  width: 2.2484rem;
+  height: 2.0289rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-rvmb-Vvy .auto-group-exxm-aBj .icon-bell-iBT {
+  margin: 0.126rem 3.585rem 0rem 0rem;
+  width: 2.015rem;
+  height: 3.0262rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-rvmb-Vvy .auto-group-exxm-aBj .line-120-CcR {
+  width: 0.1rem;
+  height: 4.9rem;
+  background-color: #052814;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-rvmb-Vvy .ellipse-4-Lid {
+  margin-right: 1.8rem;
+  width: 7rem;
+  height: 7rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-4-bg-o7f.png');
+  border-radius: 3.5rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-rvmb-Vvy .auto-group-qoms-TYM {
+  margin: 0.8rem 0rem 1.2rem 0rem;
+  height: calc(100% - 2rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-rvmb-Vvy .auto-group-qoms-TYM .hello-good-morning-BDT {
+  margin-bottom: 0.6rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #052814;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-rvmb-Vvy .auto-group-qoms-TYM .xaviera-porsh-6rD {
+  margin-right: 0.5rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #052814;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-w1sw-zAu {
+  margin: 0rem 5.8rem 6.9rem 0rem;
+  width: calc(100% - 5.8rem);
+  height: 23.4rem;
+  display: flex;
+  align-items: center;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-w1sw-zAu .kategori-admin-VdT {
+  margin-right: 10.5rem;
+  width: 16.9rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-w1sw-zAu .kategori-admin-VdT .auto-group-4ixt-39B {
+  margin-bottom: 2.5rem;
+  width: 100%;
+  height: 17.3rem;
+  position: relative;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-w1sw-zAu .kategori-admin-VdT .auto-group-4ixt-39B .sayur-BWH {
+  width: 10.5rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 3.2rem;
+  top: 13.3rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-w1sw-zAu .kategori-admin-VdT .auto-group-4ixt-39B .istockphoto-1173552196-612x612-14-HJR {
+  width: 14.2rem;
+  height: 11.8rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 1.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-w1sw-zAu .kategori-admin-VdT .auto-group-cgdp-xQZ {
+  width: 3.9rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-w1sw-zAu .kategori-admin-Hxd {
+  width: 16.9rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-w1sw-zAu .kategori-admin-Hxd .auto-group-mnm7-3gu {
+  margin-bottom: 2.5rem;
+  box-sizing: border-box;
+  padding: 1.5rem 1.1rem 1.7rem 1.6rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-w1sw-zAu .kategori-admin-Hxd .auto-group-mnm7-3gu .istockphoto-1173552196-612x612-16-yaZ {
+  width: 14.2rem;
+  height: 11.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-w1sw-zAu .kategori-admin-Hxd .auto-group-mnm7-3gu .sayur-i2M {
+  margin-right: 0.5rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-w1sw-zAu .kategori-admin-Hxd .auto-group-q85p-Cy7 {
+  width: 3.9rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-ssrm-jCM {
+  margin-bottom: 6.9rem;
+  width: 44.3rem;
+  height: 53.7rem;
+  position: relative;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-ssrm-jCM .kategori-admin-2hF {
+  width: 16.9rem;
+  height: 23.4rem;
+  position: absolute;
+  left: 1.1rem;
+  top: 30.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-ssrm-jCM .kategori-admin-2hF .auto-group-pjay-j5s {
+  margin-bottom: 2.5rem;
+  box-sizing: border-box;
+  padding: 1.5rem 0.8rem 1.7rem 0.7rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-ssrm-jCM .kategori-admin-2hF .auto-group-pjay-j5s .istockphoto-1173552196-612x612-21-RjP {
+  width: 14.2rem;
+  height: 11.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-ssrm-jCM .kategori-admin-2hF .auto-group-pjay-j5s .sayur-uuT {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-ssrm-jCM .kategori-admin-2hF .auto-group-75uj-Cdf {
+  width: 3.9rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-ssrm-jCM .kategori-admin-UbB {
+  width: 16.9rem;
+  height: 23.4rem;
+  position: absolute;
+  left: 27.4rem;
+  top: 30.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-ssrm-jCM .kategori-admin-UbB .auto-group-7pqd-xFT {
+  margin-bottom: 2.5rem;
+  box-sizing: border-box;
+  padding: 13.3rem 3.9rem 1.7rem 3.8rem;
+  width: 100%;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-ssrm-jCM .kategori-admin-UbB .auto-group-uwh3-KER {
+  width: 3.9rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-ssrm-jCM .kategori-admin-RHT {
+  width: 16.9rem;
+  height: 23.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-ssrm-jCM .kategori-admin-RHT .auto-group-ntqv-8Bs {
+  margin-bottom: 2.5rem;
+  box-sizing: border-box;
+  padding: 13.3rem 4.3rem 1.7rem 4.3rem;
+  width: 100%;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-ssrm-jCM .kategori-admin-RHT .auto-group-1d45-tqF {
+  width: 3.9rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-ssrm-jCM .kategori-admin-zdP {
+  width: 42.9rem;
+  height: 43.2rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-ssrm-jCM .kategori-admin-zdP .auto-group-rw7s-Kff {
+  width: 100%;
+  height: 17.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-ssrm-jCM .kategori-admin-zdP .auto-group-rw7s-Kff .istockphoto-1173552196-612x612-18-sBP {
+  margin: 0rem 11.8rem 2.3rem 0rem;
+  width: 14.2rem;
+  height: 11.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-ssrm-jCM .kategori-admin-zdP .auto-group-rw7s-Kff .auto-group-eepz-ARP {
+  box-sizing: border-box;
+  padding: 0.9rem 1.2rem 1.6rem 1.3rem;
+  width: 16.9rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-ssrm-jCM .kategori-admin-zdP .auto-group-rw7s-Kff .auto-group-eepz-ARP .istockphoto-1173552196-612x612-19-5YM {
+  margin: 0rem 0.2rem 0.7rem 0rem;
+  width: 14.2rem;
+  height: 11.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-ssrm-jCM .kategori-admin-zdP .auto-group-rw7s-Kff .auto-group-eepz-ARP .organic-superfood-ak1 {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-ssrm-jCM .kategori-admin-zdP .auto-group-nw1p-sUD {
+  box-sizing: border-box;
+  padding: 2.5rem 1.4rem 0rem 27.3rem;
+  width: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-ssrm-jCM .kategori-admin-zdP .auto-group-nw1p-sUD .auto-group-wky1-zoj {
+  margin: 0rem 5.1rem 8rem 0rem;
+  width: 3.9rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-ssrm-jCM .kategori-admin-zdP .auto-group-nw1p-sUD .istockphoto-1173552196-612x612-20-X2y {
+  width: 14.2rem;
+  height: 11.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-pxpb-3GD {
+  margin-right: 5.8rem;
+  width: calc(100% - 5.8rem);
+  height: 23.4rem;
+  display: flex;
+  align-items: center;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-pxpb-3GD .kategori-admin-aG9 {
+  margin-right: 10.5rem;
+  width: 16.9rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-pxpb-3GD .kategori-admin-aG9 .auto-group-htaq-XBP {
+  margin-bottom: 2.5rem;
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 1.7rem 1.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-pxpb-3GD .kategori-admin-aG9 .auto-group-htaq-XBP .istockphoto-1173552196-612x612-24-3fX {
+  width: 14.2rem;
+  height: 11.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-pxpb-3GD .kategori-admin-aG9 .auto-group-htaq-XBP .sayur-yZB {
+  margin-left: 0.1rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-pxpb-3GD .kategori-admin-aG9 .auto-group-oqw5-fB7 {
+  width: 3.9rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-pxpb-3GD .kategori-admin-QPb {
+  width: 16.9rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-pxpb-3GD .kategori-admin-QPb .auto-group-uusq-Ykh {
+  margin-bottom: 2.5rem;
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 1.7rem 1.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-pxpb-3GD .kategori-admin-QPb .auto-group-uusq-Ykh .istockphoto-1173552196-612x612-25-sY5 {
+  width: 14.2rem;
+  height: 11.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-pxpb-3GD .kategori-admin-QPb .auto-group-uusq-Ykh .sayur-bU5 {
+  margin-left: 0.1rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-kesehatan-Jgy .auto-group-avyh-kCq .auto-group-eur5-nWm .auto-group-pxpb-3GD .kategori-admin-QPb .auto-group-etum-h1K {
+  width: 3.9rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

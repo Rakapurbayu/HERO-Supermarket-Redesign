@@ -1,0 +1,1023 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.account-pembayaran-debit-12-BLm {
+  width: 100%;
+  height: 146.6rem;
+  position: relative;
+  background-color: #ffffff;
+}
+.account-pembayaran-debit-12-BLm .item-67580793426116-7-goK {
+  width: 144rem;
+  height: 132.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.account-pembayaran-debit-12-BLm .putih-atas-pattern-bvH {
+  width: 123rem;
+  height: 135.3rem;
+  position: absolute;
+  left: 10.5rem;
+  top: 9.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.account-pembayaran-debit-12-BLm .footer-vhf {
+  box-sizing: border-box;
+  padding: 3.1rem 16.6rem 3.9rem 14.1rem;
+  width: 144rem;
+  height: 16rem;
+  position: absolute;
+  left: 0;
+  top: 130.6rem;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(271.18deg, #39b54a 100.47%, #095028 200.88%);
+}
+.account-pembayaran-debit-12-BLm .footer-vhf .auto-group-wqox-oFf {
+  margin-right: 41.1rem;
+  width: 18.4rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .footer-vhf .auto-group-wqox-oFf .group-20-j9K {
+  margin-bottom: 0.8073rem;
+  box-sizing: border-box;
+  padding: 0.731rem 1.097rem 0.609rem 1.219rem;
+  width: 100%;
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+}
+.account-pembayaran-debit-12-BLm .footer-vhf .auto-group-wqox-oFf .group-20-j9K .px-herosupermarket-3-rUq {
+  width: 16.0848rem;
+  height: 4.7523rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.account-pembayaran-debit-12-BLm .footer-vhf .auto-group-wqox-oFf .auto-group-qmx5-XL5 {
+  margin-left: 0.8rem;
+  display: flex;
+  align-items: flex-end;
+}
+.account-pembayaran-debit-12-BLm .footer-vhf .auto-group-wqox-oFf .auto-group-qmx5-XL5 .icon-facebook-sPw {
+  margin: 0rem 0.311rem 0.023rem 0rem;
+  width: 2.0895rem;
+  height: 2.0766rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .footer-vhf .auto-group-wqox-oFf .auto-group-qmx5-XL5 .icon-twitter-A89 {
+  margin-right: 0.3102rem;
+  width: 2.4898rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .footer-vhf .auto-group-wqox-oFf .auto-group-qmx5-XL5 .icon-youtube-sHT {
+  width: 3.0051rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .footer-vhf .about-us-DMK {
+  margin: 0rem 9.35rem 3.1rem 0rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .footer-vhf .faq-vWd {
+  margin: 0rem 9.65rem 3.1rem 0rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .footer-vhf .contact-Sjs {
+  margin: 0rem 7.3rem 3.1rem 0rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .footer-vhf .customer-survey-98V {
+  margin-bottom: 3.1rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w {
+  box-sizing: border-box;
+  padding-top: 3rem;
+  width: 144rem;
+  height: 16rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-wtqr-JvV {
+  margin: 0rem 10.5rem 2rem 8.1rem;
+  width: calc(100% - 18.6rem);
+  height: 5.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-wtqr-JvV .logo-navbar-DXf {
+  box-sizing: border-box;
+  padding: 0.684rem 1.025rem 0.57rem 1.139rem;
+  height: 100%;
+  cursor: pointer;
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-wtqr-JvV .logo-navbar-DXf .px-herosupermarket-3-8ed {
+  width: 15.0358rem;
+  height: 4.446rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-wtqr-JvV .auto-group-lmz1-TS1 {
+  box-sizing: border-box;
+  padding-left: 16.1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-wtqr-JvV .auto-group-lmz1-TS1 .group-34376-yQM {
+  margin: 0rem 6.5rem 0.3rem 0rem;
+  box-sizing: border-box;
+  padding: 1.5rem 1.8rem 1.5rem 2.1rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #20992e;
+  background-color: #e8faf0;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-wtqr-JvV .auto-group-lmz1-TS1 .group-34376-yQM .search-product-GeM {
+  margin-right: 20.9rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #8b8b8b;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-wtqr-JvV .auto-group-lmz1-TS1 .group-34376-yQM .vector-bwX {
+  margin-top: 0.1rem;
+  width: 2.3rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-wtqr-JvV .auto-group-lmz1-TS1 .group-34372-KMj {
+  margin: 0rem 1rem 0.4rem 0rem;
+  width: 4.5rem;
+  height: 4.5rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-wtqr-JvV .auto-group-lmz1-TS1 .my-wishlist-rMf {
+  margin: 0rem 4.4rem 0.5rem 0rem;
+  max-width: 6.4rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.3125;
+  color: #20992e;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-wtqr-JvV .auto-group-lmz1-TS1 .my-wishlist-rMf .my-wishlist-rMf-sub-0 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #20992e;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-wtqr-JvV .auto-group-lmz1-TS1 .my-wishlist-rMf .my-wishlist-rMf-sub-1 {
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-wtqr-JvV .auto-group-lmz1-TS1 .group-34374-aws {
+  margin: 0rem 1rem 0.2rem 0rem;
+  width: 4.5rem;
+  height: 4.5rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-wtqr-JvV .auto-group-lmz1-TS1 .sign-up-or-log-in-ioB {
+  margin: 0rem 6.4rem 0.3rem 0rem;
+  max-width: 5.1rem;
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #20992e;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-wtqr-JvV .auto-group-lmz1-TS1 .sign-up-or-log-in-ioB .sign-up-or-log-in-ioB-sub-0 {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #20992e;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-wtqr-JvV .auto-group-lmz1-TS1 .sign-up-or-log-in-ioB .sign-up-or-log-in-ioB-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.3125;
+  color: #20992e;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-wtqr-JvV .auto-group-lmz1-TS1 .group-34375-nAm {
+  margin: 0.5rem 0rem 0.7rem 0rem;
+  box-sizing: border-box;
+  padding: 0.5rem 1.8rem 0.8rem 1.7rem;
+  height: calc(100% - 1.2rem);
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/union-pDw.png');
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-wtqr-JvV .auto-group-lmz1-TS1 .group-34375-nAm .shopping-cart-2-4-Gbj {
+  margin: 0.2rem 1.1rem 0rem 0rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  background-size: 100% 100%;
+  background-image: url('../assets/shopping-cart-2-4-bg-Npq.png');
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-wtqr-JvV .auto-group-lmz1-TS1 .group-34375-nAm .shopping-cart-2-4-Gbj .shopping-cart-2-4-Gbj-bg {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:1609cbfcd2fa44c73b1bec2c9edae08d74c3b9d1');
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-wtqr-JvV .auto-group-lmz1-TS1 .group-34375-nAm .shoppingchart-Z53 {
+  max-width: 5.8rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1;
+  color: #20992e;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-wtqr-JvV .auto-group-lmz1-TS1 .group-34375-nAm .shoppingchart-Z53 .shoppingchart-Z53-sub-0 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  color: #20992e;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-wtqr-JvV .auto-group-lmz1-TS1 .group-34375-nAm .shoppingchart-Z53 .shoppingchart-Z53-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1;
+  color: #20992e;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-wtqr-JvV .auto-group-lmz1-TS1 .group-34375-nAm .shoppingchart-Z53 .shoppingchart-Z53-sub-2 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.1428571429;
+  color: #20992e;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-6vvx-EKb {
+  box-sizing: border-box;
+  padding: 0 26.3rem;
+  width: 100%;
+  height: 5.3rem;
+  background-color: #0d7038;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-6vvx-EKb .group-34382-koj {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-6vvx-EKb .group-34382-koj .promo-hU5 {
+  margin: 0.1rem 3.5rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-6vvx-EKb .group-34382-koj .frame-34403-RQ5 {
+  box-sizing: border-box;
+  padding: 1.5rem 0.7rem 1.4rem 1.3rem;
+  width: 17.1rem;
+  height: 100%;
+  cursor: pointer;
+  background-color: #0d7038;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-6vvx-EKb .group-34382-koj .frame-34403-RQ5 .group-34379-khF {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-6vvx-EKb .group-34382-koj .frame-34403-RQ5 .group-34379-khF .produk-segar-83b {
+  margin-right: 1rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-6vvx-EKb .group-34382-koj .frame-34403-RQ5 .group-34379-khF .drop-down-S4H {
+  width: 2rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-6vvx-EKb .group-34382-koj .auto-group-ypqo-Yt1 {
+  box-sizing: border-box;
+  padding: 1.5rem 0rem 1.4rem 3.4rem;
+  height: 100%;
+  display: flex;
+  column-gap: 4.8rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-6vvx-EKb .group-34382-koj .auto-group-ypqo-Yt1 .group-34378-HKo {
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-6vvx-EKb .group-34382-koj .auto-group-ypqo-Yt1 .group-34378-HKo .bahan-masak-SiV {
+  margin-right: 0.3rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-6vvx-EKb .group-34382-koj .auto-group-ypqo-Yt1 .group-34378-HKo .drop-down-yiR {
+  width: 2rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-6vvx-EKb .group-34382-koj .auto-group-ypqo-Yt1 .group-34380-jBo {
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-6vvx-EKb .group-34382-koj .auto-group-ypqo-Yt1 .group-34380-jBo .susu-produk-beku-Hj7 {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-6vvx-EKb .group-34382-koj .auto-group-ypqo-Yt1 .group-34380-jBo .drop-down-19K {
+  width: 2rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-6vvx-EKb .group-34382-koj .auto-group-ypqo-Yt1 .group-34381-iZX {
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-6vvx-EKb .group-34382-koj .auto-group-ypqo-Yt1 .group-34381-iZX .snack-tD7 {
+  margin-right: 0.2rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-6vvx-EKb .group-34382-koj .auto-group-ypqo-Yt1 .group-34381-iZX .drop-down-wx5 {
+  width: 2rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .navbar-shoping-E9w .group-34377-x5w .auto-group-6vvx-EKb .group-34382-koj .auto-group-ypqo-Yt1 .brands-hgM {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .union-ojP {
+  width: 109rem;
+  height: 100.6rem;
+  position: absolute;
+  left: 17.3rem;
+  top: 23.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.account-pembayaran-debit-12-BLm .nama-pemilik-akun-irM {
+  width: 8.2103rem;
+  height: 2rem;
+  position: absolute;
+  left: 19.7rem;
+  top: 19.5rem;
+  display: flex;
+  align-items: center;
+}
+.account-pembayaran-debit-12-BLm .nama-pemilik-akun-irM .group-34373-FrH {
+  margin-right: 0.9rem;
+  width: 1.3103rem;
+  height: 1.7169rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .nama-pemilik-akun-irM .shofie-PSh {
+  font-size: 1.9rem;
+  font-weight: 600;
+  line-height: 1.0399999117;
+  color: #525867;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .sub-bab-Kr9 {
+  width: 56.4rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 19.7rem;
+  top: 25.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.account-pembayaran-debit-12-BLm .sub-bab-Kr9 .sub-kategori-EiD {
+  margin-bottom: 1.2rem;
+  width: 100%;
+  display: flex;
+  column-gap: 7.3rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .sub-bab-Kr9 .sub-kategori-EiD .data-diri-my3 {
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #4d4f56;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .sub-bab-Kr9 .sub-kategori-EiD .alamat-W9w {
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #4d4f56;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .sub-bab-Kr9 .sub-kategori-EiD .pembayaran-4BT {
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #20992e;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .sub-bab-Kr9 .sub-kategori-EiD .pesanan-BWy {
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #4d4f56;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .sub-bab-Kr9 .vector-84-8BK {
+  margin-left: 13.9rem;
+  width: 11.9rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .group-34485-TDb {
+  width: 47.52rem;
+  height: 26.94rem;
+  position: absolute;
+  left: 20.6rem;
+  top: 33.08rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.account-pembayaran-debit-12-BLm .group-34485-TDb .auto-group-xvzp-nFs {
+  box-sizing: border-box;
+  padding-bottom: 0.7rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .group-34485-TDb .auto-group-xvzp-nFs .head-8ad {
+  margin-bottom: 2.42rem;
+  width: 22.9rem;
+  height: 7.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .group-34485-TDb .auto-group-xvzp-nFs .head-8ad .hai-FfF {
+  width: 2.8rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 1.7859rem;
+  font-weight: 400;
+  line-height: 1.343832021;
+  color: #5a5c62;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.account-pembayaran-debit-12-BLm .group-34485-TDb .auto-group-xvzp-nFs .head-8ad .shofie-LRo {
+  width: 5.9rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 3.256rem;
+  top: 0;
+  display: flex;
+  font-size: 1.7859rem;
+  font-weight: 400;
+  line-height: 1.343832021;
+  color: #5a5c62;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.account-pembayaran-debit-12-BLm .group-34485-TDb .auto-group-xvzp-nFs .head-8ad .selamat-datang-di-halaman-pengaturan-pembayaran-exH {
+  width: 22.9rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 2.3rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  color: #7e7e7e;
+  font-family: Inter, 'Source Sans Pro';
+}
+.account-pembayaran-debit-12-BLm .group-34485-TDb .auto-group-xvzp-nFs .head-8ad .selamat-datang-di-halaman-pengaturan-pembayaran-exH .selamat-datang-di-halaman-pengaturan-pembayaran-exH-sub-0 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  color: #5a5c62;
+  font-family: Inter, 'Source Sans Pro';
+}
+.account-pembayaran-debit-12-BLm .group-34485-TDb .auto-group-xvzp-nFs .head-8ad .selamat-datang-di-halaman-pengaturan-pembayaran-exH .selamat-datang-di-halaman-pengaturan-pembayaran-exH-sub-1 {
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.3333333333;
+  color: #5a5c62;
+  font-family: Inter, 'Source Sans Pro';
+}
+.account-pembayaran-debit-12-BLm .group-34485-TDb .auto-group-xvzp-nFs .atur-pembayaran-anda-untuk-meningkatkan-keamanan-dan-kemudahan-berbelanja-anda-di-tokopedia-EZ7 {
+  max-width: 39rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #7e7e7e;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .group-34485-TDb .frame-34477-8uP {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .group-34485-TDb .frame-34477-8uP .kartu-kredit-debit-hSh {
+  box-sizing: border-box;
+  padding: 2.38rem 0rem 2.47rem 0rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #d9d9d9;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .group-34485-TDb .frame-34477-8uP .kartu-kredit-debit-hSh .kartu-kredit-debit-qJ1 {
+  margin: 0rem 20.52rem 0.01rem 0rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 0.8625000119;
+  color: #5a5c62;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .group-34485-TDb .frame-34477-8uP .kartu-kredit-debit-hSh .tersimpan-kfs {
+  margin-top: 0.01rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 0.8625000119;
+  color: #5a5c62;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .group-34485-TDb .frame-34477-8uP .debit-instan-3us {
+  box-sizing: border-box;
+  padding: 2.39rem 0rem 2.47rem 0rem;
+  width: 100%;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 0.8625000119;
+  color: #20992e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #d9d9d9;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .debit-instan-awal-4-7eq {
+  box-sizing: border-box;
+  padding-bottom: 1.9rem;
+  width: 52.3rem;
+  height: 87.1rem;
+  position: absolute;
+  left: 71.3rem;
+  top: 32.1rem;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #d9d9d9;
+  background-color: #ffffff;
+}
+.account-pembayaran-debit-12-BLm .debit-instan-awal-4-7eq .head-DSy {
+  box-sizing: border-box;
+  padding: 2.01rem 1.6rem 2.09rem 1.6rem;
+  width: 100%;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.0062500238;
+  color: #5a5c62;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #b8c5d0;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .debit-instan-awal-4-7eq .auto-group-sdkd-KF7 {
+  box-sizing: border-box;
+  padding: 2.5rem 3.35rem 2.8rem 2.525rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .debit-instan-awal-4-7eq .auto-group-sdkd-KF7 .auto-group-aeyp-F8m {
+  margin-bottom: 3.1rem;
+  width: 100%;
+  height: 23.85rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .debit-instan-awal-4-7eq .auto-group-sdkd-KF7 .auto-group-aeyp-F8m .item-2903544-1-Bo7 {
+  width: 20rem;
+  height: 20rem;
+  position: absolute;
+  left: 13.575rem;
+  top: 1.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.account-pembayaran-debit-12-BLm .debit-instan-awal-4-7eq .auto-group-sdkd-KF7 .auto-group-aeyp-F8m .x-rPT {
+  width: 1.85rem;
+  height: 1.85rem;
+  position: absolute;
+  left: 0;
+  top: 0.325rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.account-pembayaran-debit-12-BLm .debit-instan-awal-4-7eq .auto-group-sdkd-KF7 .auto-group-aeyp-F8m .pembayaran-brq {
+  width: 11.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 4.275rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.account-pembayaran-debit-12-BLm .debit-instan-awal-4-7eq .auto-group-sdkd-KF7 .auto-group-aeyp-F8m .aman-dan-mudah-bayar-transaksi-langsung-pakai-kartu-debitmu-usX {
+  width: 45.6rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 0.825rem;
+  top: 19.15rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.9rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.account-pembayaran-debit-12-BLm .debit-instan-awal-4-7eq .auto-group-sdkd-KF7 .tersedia-untuk-debit-instan-berikut-c1F {
+  margin: 0rem 0rem 0.95rem 0.825rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #757575;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .debit-instan-awal-4-7eq .auto-group-sdkd-KF7 .logo-monetary-company-iKB {
+  margin: 0rem 9.75rem 0rem 10.475rem;
+  width: calc(100% - 20.225rem);
+  height: 5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .debit-instan-awal-4-7eq .auto-group-sdkd-KF7 .logo-monetary-company-iKB .auto-group-fvxw-dww {
+  box-sizing: border-box;
+  padding: 0.367rem 1.9rem 0.367rem 0rem;
+  height: 100%;
+  display: flex;
+  column-gap: 1.9rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .debit-instan-awal-4-7eq .auto-group-sdkd-KF7 .logo-monetary-company-iKB .auto-group-fvxw-dww .image-116-XXX {
+  margin-bottom: 0rem;
+  width: 5.5rem;
+  height: 2.543rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .debit-instan-awal-4-7eq .auto-group-sdkd-KF7 .logo-monetary-company-iKB .auto-group-fvxw-dww .image-118-es3 {
+  width: 5rem;
+  height: 4.2667rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .debit-instan-awal-4-7eq .auto-group-sdkd-KF7 .logo-monetary-company-iKB .auto-group-fvxw-dww .pngwing-1-QbK {
+  margin-bottom: 0rem;
+  width: 5rem;
+  height: 1.4563rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .debit-instan-awal-4-7eq .auto-group-sdkd-KF7 .logo-monetary-company-iKB .image-119-kv5 {
+  width: 5rem;
+  height: 5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .debit-instan-awal-4-7eq .barrier-6j3 {
+  margin-bottom: 2.8rem;
+  width: 100%;
+  height: 1rem;
+  background-color: #f3f4f5;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .debit-instan-awal-4-7eq .gimana-cara-pakainya-qRj {
+  margin-right: 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .debit-instan-awal-4-7eq .auto-group-2csm-vTB {
+  box-sizing: border-box;
+  padding: 3.25rem 0rem 7.05rem 0rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .debit-instan-awal-4-7eq .auto-group-2csm-vTB .auto-group-kn41-dsP {
+  margin: 0rem 0.05rem 3.45rem 0rem;
+  width: calc(100% - 0.05rem);
+  height: 3.95rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .debit-instan-awal-4-7eq .auto-group-2csm-vTB .auto-group-kn41-dsP .tambah-kartu-AsK {
+  width: 26.15rem;
+  height: 3.95rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.account-pembayaran-debit-12-BLm .debit-instan-awal-4-7eq .auto-group-2csm-vTB .auto-group-kn41-dsP .tambah-kartu-AsK .tambah-kartu-Jid {
+  margin-bottom: 1.85rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .debit-instan-awal-4-7eq .auto-group-2csm-vTB .auto-group-kn41-dsP .tambah-kartu-AsK .rectangle-5419-cjK {
+  width: 100%;
+  height: 0.1rem;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .debit-instan-awal-4-7eq .auto-group-2csm-vTB .auto-group-kn41-dsP .bayar-transaksi-ZeZ {
+  width: 26.15rem;
+  height: 3.95rem;
+  position: absolute;
+  left: 26.1rem;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.account-pembayaran-debit-12-BLm .debit-instan-awal-4-7eq .auto-group-2csm-vTB .auto-group-kn41-dsP .bayar-transaksi-ZeZ .bayar-transaksi-sv9 {
+  margin-bottom: 1.85rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #178841;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .debit-instan-awal-4-7eq .auto-group-2csm-vTB .auto-group-kn41-dsP .bayar-transaksi-ZeZ .rectangle-5420-p4h {
+  width: 100%;
+  height: 0.1rem;
+  background-color: #178841;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .debit-instan-awal-4-7eq .auto-group-2csm-vTB .pilih-metode-pembayaran-debit-instan-saat-bertransaksi-lalu-pilih-kartu-yang-sudah-kamu-daftarkan-tiap-transaksi-masukkan-kode-verifikasi-yang-dikirim-melalui-sms-ke-no-hp-terdaftar-di-bank-AeM {
+  margin-right: 0.9rem;
+  max-width: 46.2rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .debit-instan-awal-4-7eq .rectangle-5422-zdP {
+  margin-bottom: 1.9rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.account-pembayaran-debit-12-BLm .debit-instan-awal-4-7eq .button-simpan-Yeu {
+  margin: 0 3.3rem;
+  width: calc(100% - 6.6rem);
+  height: 5.5rem;
+  cursor: pointer;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.3;
+  letter-spacing: -0.032rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #178841;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}

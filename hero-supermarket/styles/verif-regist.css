@@ -1,0 +1,111 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 53.1rem;
+}.verif-regist-SiM {
+  box-sizing: border-box;
+  padding: 4.1rem 11.4rem 3.8rem 11.5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border-radius: 3rem;
+}
+.verif-regist-SiM .registration-successful-mVj {
+  margin-bottom: 4.2rem;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #20992e;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.verif-regist-SiM .auto-group-1c2d-5mK {
+  margin: 0rem 6.2rem 0rem 6.1rem;
+  width: calc(100% - 12.3rem);
+  height: 3.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.verif-regist-SiM .auto-group-1c2d-5mK .button-submit-log-reg-nfj {
+  margin-right: 0.7rem;
+  width: 8.6rem;
+  height: 100%;
+  cursor: pointer;
+  position: relative;
+  flex-shrink: 0;
+}
+.verif-regist-SiM .auto-group-1c2d-5mK .button-submit-log-reg-nfj .submit-7xu {
+  width: 3.8rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #20992e;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.verif-regist-SiM .auto-group-1c2d-5mK .button-submit-log-reg-nfj .rectangle-5177-pcR {
+  width: 8.6rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #20992e;
+  box-sizing: border-box;
+  border-radius: 3rem;
+}
+.verif-regist-SiM .auto-group-1c2d-5mK .button-submit-log-reg-kFB {
+  width: 8.6rem;
+  height: 100%;
+  cursor: pointer;
+  position: relative;
+  flex-shrink: 0;
+}
+.verif-regist-SiM .auto-group-1c2d-5mK .button-submit-log-reg-kFB .submit-JGh {
+  width: 4.3rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 0.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #20992e;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.verif-regist-SiM .auto-group-1c2d-5mK .button-submit-log-reg-kFB .rectangle-5177-bWh {
+  width: 8.6rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #20992e;
+  box-sizing: border-box;
+  border-radius: 3rem;
+}

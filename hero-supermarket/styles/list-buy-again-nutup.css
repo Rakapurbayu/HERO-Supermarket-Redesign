@@ -1,0 +1,639 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.list-buy-again-nutup-wrq {
+  width: 100%;
+  height: 129.4rem;
+  background-color: #ffffff;
+}
+.list-buy-again-nutup-wrq .background-fH3 {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/bg-jLM.png');
+}
+.list-buy-again-nutup-wrq .background-fH3 .putih-atas-pattern-CGy {
+  width: 123rem;
+  height: 105.3rem;
+  position: absolute;
+  left: 10.5rem;
+  top: 14.6rem;
+  background-color: #ffffff;
+}
+.list-buy-again-nutup-wrq .background-fH3 .footer-Jqo {
+  box-sizing: border-box;
+  padding: 3.1rem 16.6rem 3.9rem 14.1rem;
+  width: 144rem;
+  height: 16rem;
+  position: absolute;
+  left: 0;
+  top: 113.4rem;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(271.18deg, #39b54a 100.47%, #095028 200.88%);
+}
+.list-buy-again-nutup-wrq .background-fH3 .footer-Jqo .auto-group-wf6z-nky {
+  margin-right: 41.1rem;
+  width: 18.4rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .footer-Jqo .auto-group-wf6z-nky .group-20-Kku {
+  margin-bottom: 0.8073rem;
+  box-sizing: border-box;
+  padding: 0.731rem 1.097rem 0.609rem 1.219rem;
+  width: 100%;
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+}
+.list-buy-again-nutup-wrq .background-fH3 .footer-Jqo .auto-group-wf6z-nky .group-20-Kku .px-herosupermarket-3-eHP {
+  width: 16.0848rem;
+  height: 4.7523rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.list-buy-again-nutup-wrq .background-fH3 .footer-Jqo .auto-group-wf6z-nky .auto-group-kz8q-MBo {
+  margin-left: 0.8rem;
+  display: flex;
+  align-items: flex-end;
+}
+.list-buy-again-nutup-wrq .background-fH3 .footer-Jqo .auto-group-wf6z-nky .auto-group-kz8q-MBo .icon-facebook-tSd {
+  margin: 0rem 0.311rem 0.023rem 0rem;
+  width: 2.0895rem;
+  height: 2.0766rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .footer-Jqo .auto-group-wf6z-nky .auto-group-kz8q-MBo .icon-twitter-yU5 {
+  margin-right: 0.3102rem;
+  width: 2.4898rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .footer-Jqo .auto-group-wf6z-nky .auto-group-kz8q-MBo .icon-youtube-hey {
+  width: 3.0051rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .footer-Jqo .about-us-Eeu {
+  margin: 0rem 9.35rem 3.1rem 0rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .footer-Jqo .faq-jbf {
+  margin: 0rem 9.65rem 3.1rem 0rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .footer-Jqo .contact-SFB {
+  margin: 0rem 7.3rem 3.1rem 0rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .footer-Jqo .customer-survey-ABB {
+  margin-bottom: 3.1rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .my-wishlist-FCd {
+  width: 18.3rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 16.6rem;
+  top: 25.15rem;
+  display: flex;
+  font-size: 3.5rem;
+  font-weight: 400;
+  line-height: 1.0399999346;
+  letter-spacing: -0.077rem;
+  color: #20992e;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.list-buy-again-nutup-wrq .background-fH3 .group-34427-LE5 {
+  width: 7.5rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 16.7rem;
+  top: 32.45rem;
+  display: flex;
+  align-items: center;
+}
+.list-buy-again-nutup-wrq .background-fH3 .group-34427-LE5 .drop-down-GNd {
+  margin-right: 0.7rem;
+  width: 2rem;
+  height: 2.4rem;
+  cursor: pointer;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .group-34427-LE5 .apa-ya-bA1 {
+  margin-bottom: 0.1rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.0399999619;
+  letter-spacing: -0.0308rem;
+  color: #535353;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .group-34428-6sT {
+  width: 8.9rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 16.7rem;
+  top: 39.4rem;
+  display: flex;
+  align-items: center;
+}
+.list-buy-again-nutup-wrq .background-fH3 .group-34428-6sT .drop-down-qKF {
+  margin-right: 0.7rem;
+  width: 2rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .group-34428-6sT .favorites-B8D {
+  margin-bottom: 0.1rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.0399999619;
+  letter-spacing: -0.0308rem;
+  color: #535353;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .this-list-is-emty-6W5 {
+  width: 10.2rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 20.8rem;
+  top: 45.55rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.0399999619;
+  letter-spacing: -0.0308rem;
+  color: #8b8b8b;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.list-buy-again-nutup-wrq .background-fH3 .line-172-bhj {
+  width: 109.3rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 17.3rem;
+  top: 30.8rem;
+  background-color: #8b8b8b;
+}
+.list-buy-again-nutup-wrq .background-fH3 .line-173-8hf {
+  width: 109.3rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 17.3rem;
+  top: 37.1rem;
+  background-color: #8b8b8b;
+}
+.list-buy-again-nutup-wrq .background-fH3 .line-174-UmX {
+  width: 109.3rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 17.3rem;
+  top: 51.45rem;
+  background-color: #8b8b8b;
+}
+.list-buy-again-nutup-wrq .background-fH3 .group-34425-zUy {
+  width: 25.1rem;
+  height: 3.8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 100.1rem;
+  top: 25.3rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.126rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2e9f3b;
+  border-radius: 0.5rem;
+}
+.list-buy-again-nutup-wrq .background-fH3 .group-34426-FA1 {
+  width: 1.3rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 123.5rem;
+  top: 33.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh {
+  box-sizing: border-box;
+  padding-top: 3rem;
+  width: 144rem;
+  height: 16rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-vqrm-Gau {
+  margin: 0rem 10.5rem 2rem 8.1rem;
+  width: calc(100% - 18.6rem);
+  height: 5.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-vqrm-Gau .logo-navbar-Bhs {
+  box-sizing: border-box;
+  padding: 0.684rem 1.025rem 0.57rem 1.139rem;
+  height: 100%;
+  cursor: pointer;
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-vqrm-Gau .logo-navbar-Bhs .px-herosupermarket-3-iC1 {
+  width: 15.0357rem;
+  height: 4.446rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-vqrm-Gau .auto-group-p5xu-2Tb {
+  box-sizing: border-box;
+  padding-left: 16.1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-vqrm-Gau .auto-group-p5xu-2Tb .group-34376-mRB {
+  margin: 0rem 6.5rem 0.3rem 0rem;
+  box-sizing: border-box;
+  padding: 1.5rem 1.8rem 1.5rem 2.1rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #20992e;
+  background-color: #e8faf0;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-vqrm-Gau .auto-group-p5xu-2Tb .group-34376-mRB .search-product-4fB {
+  margin-right: 20.9rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #8b8b8b;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-vqrm-Gau .auto-group-p5xu-2Tb .group-34376-mRB .vector-PBf {
+  margin-top: 0.1rem;
+  width: 2.3rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-vqrm-Gau .auto-group-p5xu-2Tb .group-34372-gRf {
+  margin: 0rem 1rem 0.4rem 0rem;
+  width: 4.5rem;
+  height: 4.5rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-vqrm-Gau .auto-group-p5xu-2Tb .my-wishlist-zx9 {
+  margin: 0rem 4.4rem 0.5rem 0rem;
+  max-width: 6.4rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.3125;
+  color: #20992e;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-vqrm-Gau .auto-group-p5xu-2Tb .my-wishlist-zx9 .my-wishlist-zx9-sub-0 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #20992e;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-vqrm-Gau .auto-group-p5xu-2Tb .my-wishlist-zx9 .my-wishlist-zx9-sub-1 {
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-vqrm-Gau .auto-group-p5xu-2Tb .group-34374-MAR {
+  margin: 0rem 1rem 0.2rem 0rem;
+  width: 4.5rem;
+  height: 4.5rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-vqrm-Gau .auto-group-p5xu-2Tb .sign-up-or-log-in-56R {
+  margin: 0rem 6.4rem 0.3rem 0rem;
+  max-width: 5.1rem;
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #20992e;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-vqrm-Gau .auto-group-p5xu-2Tb .sign-up-or-log-in-56R .sign-up-or-log-in-56R-sub-0 {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #20992e;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-vqrm-Gau .auto-group-p5xu-2Tb .sign-up-or-log-in-56R .sign-up-or-log-in-56R-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.3125;
+  color: #20992e;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-vqrm-Gau .auto-group-p5xu-2Tb .group-34375-krm {
+  margin: 0.5rem 0rem 0.7rem 0rem;
+  box-sizing: border-box;
+  padding: 0.5rem 1.8rem 0.8rem 1.7rem;
+  height: calc(100% - 1.2rem);
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/union-MQV.png');
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-vqrm-Gau .auto-group-p5xu-2Tb .group-34375-krm .shopping-cart-2-4-4sT {
+  margin: 0.2rem 1.1rem 0rem 0rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  background-size: 100% 100%;
+  background-image: url('../assets/shopping-cart-2-4-bg-5kV.png');
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-vqrm-Gau .auto-group-p5xu-2Tb .group-34375-krm .shopping-cart-2-4-4sT .shopping-cart-2-4-4sT-bg {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:1609cbfcd2fa44c73b1bec2c9edae08d74c3b9d1');
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-vqrm-Gau .auto-group-p5xu-2Tb .group-34375-krm .shoppingchart-jyb {
+  max-width: 5.8rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1;
+  color: #20992e;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-vqrm-Gau .auto-group-p5xu-2Tb .group-34375-krm .shoppingchart-jyb .shoppingchart-jyb-sub-0 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  color: #20992e;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-vqrm-Gau .auto-group-p5xu-2Tb .group-34375-krm .shoppingchart-jyb .shoppingchart-jyb-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1;
+  color: #20992e;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-vqrm-Gau .auto-group-p5xu-2Tb .group-34375-krm .shoppingchart-jyb .shoppingchart-jyb-sub-2 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.1428571429;
+  color: #20992e;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-monr-Weu {
+  box-sizing: border-box;
+  padding: 0 26.3rem;
+  width: 100%;
+  height: 5.3rem;
+  background-color: #0d7038;
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-monr-Weu .group-34382-3eq {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-monr-Weu .group-34382-3eq .promo-CXj {
+  margin: 0.1rem 3.5rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-monr-Weu .group-34382-3eq .frame-34403-hzH {
+  box-sizing: border-box;
+  padding: 1.5rem 0.7rem 1.4rem 1.3rem;
+  width: 17.1rem;
+  height: 100%;
+  cursor: pointer;
+  background-color: #0d7038;
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-monr-Weu .group-34382-3eq .frame-34403-hzH .group-34379-dsw {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-monr-Weu .group-34382-3eq .frame-34403-hzH .group-34379-dsw .produk-segar-zTb {
+  margin-right: 1rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-monr-Weu .group-34382-3eq .frame-34403-hzH .group-34379-dsw .drop-down-XCd {
+  width: 2rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-monr-Weu .group-34382-3eq .auto-group-tjjb-4CZ {
+  box-sizing: border-box;
+  padding: 1.5rem 0rem 1.4rem 3.4rem;
+  height: 100%;
+  display: flex;
+  column-gap: 4.8rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-monr-Weu .group-34382-3eq .auto-group-tjjb-4CZ .group-34378-MSZ {
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-monr-Weu .group-34382-3eq .auto-group-tjjb-4CZ .group-34378-MSZ .bahan-masak-uU5 {
+  margin-right: 0.3rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-monr-Weu .group-34382-3eq .auto-group-tjjb-4CZ .group-34378-MSZ .drop-down-2ob {
+  width: 2rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-monr-Weu .group-34382-3eq .auto-group-tjjb-4CZ .group-34380-AQ1 {
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-monr-Weu .group-34382-3eq .auto-group-tjjb-4CZ .group-34380-AQ1 .susu-produk-beku-XEZ {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-monr-Weu .group-34382-3eq .auto-group-tjjb-4CZ .group-34380-AQ1 .drop-down-f5s {
+  width: 2rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-monr-Weu .group-34382-3eq .auto-group-tjjb-4CZ .group-34381-oSy {
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-monr-Weu .group-34382-3eq .auto-group-tjjb-4CZ .group-34381-oSy .snack-AHX {
+  margin-right: 0.2rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-monr-Weu .group-34382-3eq .auto-group-tjjb-4CZ .group-34381-oSy .drop-down-h2Z {
+  width: 2rem;
+  height: 2.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.list-buy-again-nutup-wrq .background-fH3 .navbar-shoping-yrh .group-34377-K9s .auto-group-monr-Weu .group-34382-3eq .auto-group-tjjb-4CZ .brands-SF3 {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

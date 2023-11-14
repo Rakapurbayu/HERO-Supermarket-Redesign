@@ -1,0 +1,757 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.way-to-shop-4oT {
+  width: 100%;
+  height: 117.8rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.way-to-shop-4oT .bg-Q6d {
+  box-sizing: border-box;
+  padding: 11.7rem 2.1rem 3.7rem 2rem;
+  width: 144rem;
+  height: 104.3rem;
+  position: absolute;
+  left: 0;
+  top: 7.7rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/bg-E7j.png');
+}
+.way-to-shop-4oT .bg-Q6d .rectangle-5384-gyF {
+  width: 100%;
+  height: 88.9rem;
+  filter: blur(3.85rem);
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0) -0%, #ffffff 7.29%, #f7f7f7 92.71%, rgba(255, 255, 255, 0) 100%);
+}
+.way-to-shop-4oT .about-me-9M3 {
+  width: 144rem;
+  height: 117.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .navbar-5Eh {
+  margin-bottom: 3.4rem;
+  box-sizing: border-box;
+  padding-bottom: 1.6rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(269.24deg, #095028 11.7%, #17c964 96.6%);
+}
+.way-to-shop-4oT .about-me-9M3 .navbar-5Eh .logo-biq {
+  margin-bottom: 1.1rem;
+  width: 100%;
+  height: 8.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .navbar-5Eh .logo-biq .rectangle-5311-wnh {
+  width: 144rem;
+  height: 8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+}
+.way-to-shop-4oT .about-me-9M3 .navbar-5Eh .logo-biq .item-67580793426116-3-VJR {
+  width: 143.2rem;
+  height: 8rem;
+  position: relative;
+  left: 0;
+  top: 0;
+  background-size: 100% 1200%;
+  background-position: -0rem -48.9223rem;
+  background-image: url('../assets/-HW9.png');
+}
+.way-to-shop-4oT .about-me-9M3 .navbar-5Eh .logo-biq .group-34396-N7K {
+  width: 41rem;
+  height: 8.5rem;
+  position: absolute;
+  left: 50.9rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.way-to-shop-4oT .about-me-9M3 .navbar-5Eh .logo-biq .px-herosupermarket-3-u7F {
+  width: 18.2rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 62.9rem;
+  top: 1.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.way-to-shop-4oT .about-me-9M3 .navbar-5Eh .auto-group-seev-cnM {
+  margin: 0rem 11.3rem 0rem 9.6rem;
+  width: calc(100% - 20.9rem);
+  height: 4.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .navbar-5Eh .auto-group-seev-cnM .frame-34451-8kh {
+  margin: 1.3rem 30.8rem 1.1rem 0rem;
+  height: calc(100% - 2.4rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .navbar-5Eh .auto-group-seev-cnM .frame-34451-8kh .beranda-FqK {
+  margin-right: 5.5rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .navbar-5Eh .auto-group-seev-cnM .frame-34451-8kh .tentang-hero-xDw {
+  margin-right: 5.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .navbar-5Eh .auto-group-seev-cnM .frame-34451-8kh .fresh-recipe-fe9 {
+  margin-right: 5.45rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .navbar-5Eh .auto-group-seev-cnM .frame-34451-8kh .promo-event-BcV {
+  margin-right: 5.45rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .navbar-5Eh .auto-group-seev-cnM .frame-34451-8kh .cara-belanja-7m3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .navbar-5Eh .auto-group-seev-cnM .button-shop-3eh {
+  box-sizing: border-box;
+  padding: 1.2rem 4.2rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .navbar-5Eh .auto-group-seev-cnM .button-shop-3eh .icon-cart-Nws {
+  margin: 0rem 0.7rem 0.099rem 0rem;
+  width: 2.1rem;
+  height: 2.1014rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .navbar-5Eh .auto-group-seev-cnM .button-shop-3eh .shop-now-tfK {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #095028;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .way-to-shop-xQH {
+  margin-bottom: 4.7rem;
+  width: 100%;
+  text-align: center;
+  font-size: 7.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.0825rem;
+  font-style: italic;
+  color: #20992e;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH {
+  margin: 0rem 10rem 6rem 8.5rem;
+  width: calc(100% - 18.5rem);
+  height: 60.4rem;
+  position: relative;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .item-128-1-oA1 {
+  width: 122.6rem;
+  height: 29.1rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 31.3rem;
+  border-radius: 3rem;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu {
+  width: 125.5rem;
+  height: 56.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  column-gap: 3.5rem;
+  align-items: center;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-t5pu-TVT {
+  width: 39.5rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-t5pu-TVT .auto-group-ock3-oZK {
+  margin-bottom: 3.5rem;
+  box-sizing: border-box;
+  padding: 4.4rem 5.25rem 3.7rem 6.15rem;
+  width: 100%;
+  height: 26.7rem;
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-t5pu-TVT .auto-group-ock3-oZK .group-34385-K1s {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-t5pu-TVT .auto-group-ock3-oZK .group-34385-K1s .auto-group-j8ob-TNy {
+  margin: 0rem 11.601rem 3.9rem 2.05rem;
+  width: calc(100% - 13.651rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-t5pu-TVT .auto-group-ock3-oZK .group-34385-K1s .auto-group-j8ob-TNy .item-1-yMK {
+  margin-right: 7.1rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-t5pu-TVT .auto-group-ock3-oZK .group-34385-K1s .auto-group-j8ob-TNy .group-tz5 {
+  margin-top: 1.6rem;
+  width: 5.249rem;
+  height: 4.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-t5pu-TVT .auto-group-ock3-oZK .group-34385-K1s .create-an-account-q8d {
+  margin-bottom: 0.1rem;
+  width: 100%;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-t5pu-TVT .auto-group-ock3-oZK .group-34385-K1s .buatlah-akun-terlebih-dahulu-untuk-memulai-menjelajahi-lebih-lagi-whT {
+  width: 100%;
+  max-width: 28.1rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-t5pu-TVT .auto-group-2ewd-cob {
+  box-sizing: border-box;
+  padding: 4.4rem 3.05rem 3.7rem 3.95rem;
+  width: 100%;
+  height: 26.7rem;
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-t5pu-TVT .auto-group-2ewd-cob .group-34388-YSM {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-t5pu-TVT .auto-group-2ewd-cob .group-34388-YSM .auto-group-fpdk-6Ts {
+  margin: 0rem 14.717rem 3.472rem 4.25rem;
+  width: calc(100% - 18.9673rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-t5pu-TVT .auto-group-2ewd-cob .group-34388-YSM .auto-group-fpdk-6Ts .item-1-E4H {
+  margin-right: 6.5rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-t5pu-TVT .auto-group-2ewd-cob .group-34388-YSM .auto-group-fpdk-6Ts .icon-checklist-Z6Z {
+  margin-top: 1.7rem;
+  width: 4.9327rem;
+  height: 4.9281rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-t5pu-TVT .auto-group-2ewd-cob .group-34388-YSM .check-your-list-5qb {
+  margin: 0rem 0.4rem 0.1rem 0rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-t5pu-TVT .auto-group-2ewd-cob .group-34388-YSM .perhatikan-kembali-apa-yang-akan-anda-pesan-sebelum-melakukan-pembayaran-zhf {
+  max-width: 32.5rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-94ts-sFf {
+  width: 39.5rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-94ts-sFf .auto-group-ic4h-cj3 {
+  margin-bottom: 3.5rem;
+  box-sizing: border-box;
+  padding: 3.8rem 5.25rem 1.9rem 5.25rem;
+  width: 100%;
+  height: 26.7rem;
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-94ts-sFf .auto-group-ic4h-cj3 .group-34386-YMo {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-94ts-sFf .auto-group-ic4h-cj3 .group-34386-YMo .auto-group-qiok-hVb {
+  margin: 0rem 11.528rem 3.44rem 3.65rem;
+  width: calc(100% - 15.1781rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-94ts-sFf .auto-group-ic4h-cj3 .group-34386-YMo .auto-group-qiok-hVb .item-2-RgV {
+  margin-right: 5.6rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-94ts-sFf .auto-group-ic4h-cj3 .group-34386-YMo .auto-group-qiok-hVb .icon-vegetables-Ma9 {
+  margin-top: 1rem;
+  width: 6.1219rem;
+  height: 5.6598rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-94ts-sFf .auto-group-ic4h-cj3 .group-34386-YMo .start-your-shop-gsK {
+  margin: 0rem 0rem 0.1rem 2.3rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-94ts-sFf .auto-group-ic4h-cj3 .group-34386-YMo .anda-sudah-dapat-mulai-berbelanja-memilih-setiapa-kebutuhan-anda-yang-berkualitas-Pmj {
+  max-width: 29rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-94ts-sFf .auto-group-memf-gVw {
+  box-sizing: border-box;
+  padding: 4.4rem 4.25rem 1.3rem 4.75rem;
+  width: 100%;
+  height: 26.7rem;
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-94ts-sFf .auto-group-memf-gVw .group-34389-pMF {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-94ts-sFf .auto-group-memf-gVw .group-34389-pMF .auto-group-tbb7-aLR {
+  margin: 0rem 11.29rem 3.931rem 3.45rem;
+  width: calc(100% - 14.7403rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-94ts-sFf .auto-group-memf-gVw .group-34389-pMF .auto-group-tbb7-aLR .item-1-WE5 {
+  margin-right: 6.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-94ts-sFf .auto-group-memf-gVw .group-34389-pMF .auto-group-tbb7-aLR .icon-money-bills-q1T {
+  margin-top: 1.6rem;
+  width: 7.4597rem;
+  height: 4.5688rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-94ts-sFf .auto-group-memf-gVw .group-34389-pMF .finish-your-payment-j6q {
+  margin-bottom: 0.1rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-94ts-sFf .auto-group-memf-gVw .group-34389-pMF .selesaikan-pembayran-pada-pemesanan-anda-agar-dapat-segera-kami-proses-Fay {
+  max-width: 30.5rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-gwpv-9AZ {
+  width: 39.5rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-gwpv-9AZ .auto-group-svld-HXf {
+  margin-bottom: 3.5rem;
+  box-sizing: border-box;
+  padding: 3.8rem 4.1rem 1.9rem 4.1rem;
+  width: 100%;
+  height: 26.7rem;
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-gwpv-9AZ .auto-group-svld-HXf .group-34387-boF {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-gwpv-9AZ .auto-group-svld-HXf .group-34387-boF .auto-group-c2qw-xNu {
+  margin: 0rem 13.3rem 3.01rem 4.8rem;
+  width: calc(100% - 18.1rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-gwpv-9AZ .auto-group-svld-HXf .group-34387-boF .auto-group-c2qw-xNu .item-2-V7w {
+  margin-right: 6.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-gwpv-9AZ .auto-group-svld-HXf .group-34387-boF .auto-group-c2qw-xNu .icon-notes-plus-27s {
+  margin-top: 1.7rem;
+  width: 4.9rem;
+  height: 5.39rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-gwpv-9AZ .auto-group-svld-HXf .group-34387-boF .personal-shopper-notes-9yB {
+  margin: 0rem 0.1rem 0.1rem 0rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-gwpv-9AZ .auto-group-svld-HXf .group-34387-boF .berikan-personal-note-kepada-pesanan-anda-agar-kami-dapat-memberikan-produk-yang-sesuai-Gnu {
+  max-width: 31.3rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-gwpv-9AZ .auto-group-m9vz-xvd {
+  box-sizing: border-box;
+  padding: 4.4rem 6.5rem 3.7rem 7.4rem;
+  width: 100%;
+  height: 26.7rem;
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-gwpv-9AZ .auto-group-m9vz-xvd .group-34390-VvZ {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-gwpv-9AZ .auto-group-m9vz-xvd .group-34390-VvZ .auto-group-thbp-eoT {
+  margin: 0rem 9.246rem 3.136rem 0.8rem;
+  width: calc(100% - 10.0464rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-gwpv-9AZ .auto-group-m9vz-xvd .group-34390-VvZ .auto-group-thbp-eoT .item-1-NzM {
+  margin-right: 5.9rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-gwpv-9AZ .auto-group-m9vz-xvd .group-34390-VvZ .auto-group-thbp-eoT .icon-delivery-truck-W4y {
+  margin-top: 2.5rem;
+  width: 7.5536rem;
+  height: 4.4637rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-gwpv-9AZ .auto-group-m9vz-xvd .group-34390-VvZ .track-your-order-q7F {
+  margin-bottom: 0.1rem;
+  width: 100%;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .auto-group-8eph-gLH .frame-34398-XLu .auto-group-gwpv-9AZ .auto-group-m9vz-xvd .group-34390-VvZ .anda-dapat-melakukan-tracking-pada-setiap-pemesanan-anda-A9X {
+  width: 100%;
+  max-width: 25.6rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .group-34341-3UD {
+  box-sizing: border-box;
+  padding: 3.1rem 16.6rem 3.9rem 14.1rem;
+  width: 100%;
+  height: 16rem;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(271.18deg, #39b54a 100.47%, #095028 200.88%);
+}
+.way-to-shop-4oT .about-me-9M3 .group-34341-3UD .auto-group-hwa5-ME1 {
+  margin-right: 41.1rem;
+  width: 18.4rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .group-34341-3UD .auto-group-hwa5-ME1 .group-20-Vb7 {
+  margin-bottom: 0.8072rem;
+  box-sizing: border-box;
+  padding: 0.731rem 1.097rem 0.609rem 1.219rem;
+  width: 100%;
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+}
+.way-to-shop-4oT .about-me-9M3 .group-34341-3UD .auto-group-hwa5-ME1 .group-20-Vb7 .px-herosupermarket-3-DX7 {
+  width: 16.0848rem;
+  height: 4.7523rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.way-to-shop-4oT .about-me-9M3 .group-34341-3UD .auto-group-hwa5-ME1 .auto-group-mr89-wT7 {
+  margin-left: 0.8rem;
+  display: flex;
+  align-items: flex-end;
+}
+.way-to-shop-4oT .about-me-9M3 .group-34341-3UD .auto-group-hwa5-ME1 .auto-group-mr89-wT7 .icon-facebook-5pD {
+  margin: 0rem 0.311rem 0.023rem 0rem;
+  width: 2.0895rem;
+  height: 2.0766rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .group-34341-3UD .auto-group-hwa5-ME1 .auto-group-mr89-wT7 .icon-twitter-Cdw {
+  margin-right: 0.3102rem;
+  width: 2.4898rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .group-34341-3UD .auto-group-hwa5-ME1 .auto-group-mr89-wT7 .icon-youtube-XgD {
+  width: 3.0051rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .group-34341-3UD .about-us-ULZ {
+  margin: 0rem 9.35rem 3.1rem 0rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .group-34341-3UD .faq-ns3 {
+  margin: 0rem 9.65rem 3.1rem 0rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .group-34341-3UD .contact-ikh {
+  margin: 0rem 7.3rem 3.1rem 0rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.way-to-shop-4oT .about-me-9M3 .group-34341-3UD .customer-survey-rM7 {
+  margin-bottom: 3.1rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

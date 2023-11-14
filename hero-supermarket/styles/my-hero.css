@@ -1,0 +1,375 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.my-hero-Lbs {
+  width: 100%;
+  height: 125.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.my-hero-Lbs .item-67580793426116-4-Uxy {
+  width: 144rem;
+  height: 136.8rem;
+  position: absolute;
+  left: 0;
+  top: 7.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.my-hero-Lbs .rectangle-5384-oEZ {
+  width: 144rem;
+  height: 113.4rem;
+  position: absolute;
+  left: 0;
+  top: 18.2rem;
+  filter: blur(0.9rem);
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0) -0%, #ffffff 7.29%, #f7f7f7 92.71%, rgba(255, 255, 255, 0) 100%);
+}
+.my-hero-Lbs .group-34341-eFB {
+  box-sizing: border-box;
+  padding: 3.1rem 16.6rem 3.9rem 14.1rem;
+  width: 144rem;
+  height: 16rem;
+  position: absolute;
+  left: 0;
+  top: 109.4rem;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(271.18deg, #39b54a 100.47%, #095028 200.88%);
+}
+.my-hero-Lbs .group-34341-eFB .auto-group-tqrd-5rH {
+  margin-right: 41.1rem;
+  width: 18.4rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.my-hero-Lbs .group-34341-eFB .auto-group-tqrd-5rH .group-20-QtZ {
+  margin-bottom: 0.8072rem;
+  box-sizing: border-box;
+  padding: 0.731rem 1.097rem 0.609rem 1.219rem;
+  width: 100%;
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+}
+.my-hero-Lbs .group-34341-eFB .auto-group-tqrd-5rH .group-20-QtZ .px-herosupermarket-3-95T {
+  width: 16.0848rem;
+  height: 4.7523rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.my-hero-Lbs .group-34341-eFB .auto-group-tqrd-5rH .auto-group-u9jr-SqF {
+  margin-left: 0.8rem;
+  display: flex;
+  align-items: flex-end;
+}
+.my-hero-Lbs .group-34341-eFB .auto-group-tqrd-5rH .auto-group-u9jr-SqF .icon-facebook-NU1 {
+  margin: 0rem 0.311rem 0.023rem 0rem;
+  width: 2.0895rem;
+  height: 2.0766rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.my-hero-Lbs .group-34341-eFB .auto-group-tqrd-5rH .auto-group-u9jr-SqF .icon-twitter-H5B {
+  margin-right: 0.3102rem;
+  width: 2.4898rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.my-hero-Lbs .group-34341-eFB .auto-group-tqrd-5rH .auto-group-u9jr-SqF .icon-youtube-DDj {
+  width: 3.0051rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.my-hero-Lbs .group-34341-eFB .about-us-9t5 {
+  margin: 0rem 9.35rem 3.1rem 0rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.my-hero-Lbs .group-34341-eFB .faq-Tds {
+  margin: 0rem 9.65rem 3.1rem 0rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.my-hero-Lbs .group-34341-eFB .contact-kss {
+  margin: 0rem 7.3rem 3.1rem 0rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.my-hero-Lbs .group-34341-eFB .customer-survey-NeM {
+  margin-bottom: 3.1rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.my-hero-Lbs .story-of-us-4XB {
+  box-sizing: border-box;
+  padding-left: 7.7rem;
+  width: 127.4rem;
+  height: 83.2rem;
+  position: absolute;
+  left: 4.1rem;
+  top: 22.5rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  border-radius: 3rem;
+}
+.my-hero-Lbs .story-of-us-4XB .auto-group-ius1-mwP {
+  margin-bottom: 4rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.my-hero-Lbs .story-of-us-4XB .auto-group-ius1-mwP .auto-group-ermf-ibj {
+  margin-right: 3.4rem;
+  width: 73rem;
+  flex-shrink: 0;
+}
+.my-hero-Lbs .story-of-us-4XB .auto-group-ius1-mwP .auto-group-ermf-ibj .my-hero-G7T {
+  margin-bottom: 0.5rem;
+  width: 100%;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.0704rem;
+  font-style: italic;
+  color: #20992e;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.my-hero-Lbs .story-of-us-4XB .auto-group-ius1-mwP .auto-group-ermf-ibj .sebagai-cikal-bakal-perseroan-hero-supermarket-memiliki-filosofi-bisnis-untuk-menjadi-toko-ritel-modern-terpercaya-yang-menawarkan-beragam-produk-premium-untuk-pasar-di-indonesia-perseroan-berupaya-untuk-meraih-visi-ini-dengan-terus-memperkuat-pengalaman-berbelanja-yang-elegan-bagi-pelanggan-dan-menyediakan-berbagai-produk-pilihan-kebutuhan-rumah-tangga-sehari-hari-khususnya-makanan-dan-minuman-serta-produk-segar-yang-diperoleh-dari-produsen-dalam-dan-luar-negeri-dengan-kualitas-terbaik-kunvci-sukses-perseroan-dalam-menyediakan-produk-segar-masih-terus-dijaga-dengan-baik-hingga-saat-ini-didukung-dengan-eksistensi-hero-group-selama-lebih-dari-empat-dekade-di-industri-ritel-modern-dan-dalam-menciptakan-inovasi-untuk-mengikuti-tren-berbelanja-konsumen-kehadiran-dan-keandalan-hero-supermarket-telah-begitu-melekat-di-kalangan-masyarakat-indonesia-selain-itu-produk-siap-saji-juga-terus-dikembangkan-untuk-memenuhi-gaya-hidup-konsumen-NRP {
+  max-width: 73rem;
+  font-size: 1.4rem;
+  font-weight: 300;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.my-hero-Lbs .story-of-us-4XB .auto-group-ius1-mwP .penukaran-cinderamata-antara-dubes-thailand-dan-ceo-pt-hero-supermarket-1-vDw {
+  margin-top: 0.9rem;
+  width: 43.3rem;
+  height: 38.1rem;
+  position: relative;
+  background-size: 125.994% 109.051%;
+  background-position: 0.038rem -0.0243rem;
+  background-image: url('../assets/penukaran-cinderamata-antara-dubes-thailand-dan-ceo-pt-hero-supermarket-1-TDj.png');
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.my-hero-Lbs .story-of-us-4XB .auto-group-hb8d-Mq3 {
+  margin-right: 0.1rem;
+  width: calc(100% - 0.1rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.my-hero-Lbs .story-of-us-4XB .auto-group-hb8d-Mq3 .item-128-2-JkH {
+  margin-right: 3.2rem;
+  width: 46.6rem;
+  height: 40.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.my-hero-Lbs .story-of-us-4XB .auto-group-hb8d-Mq3 .kesuksesan-hero-dimulai-dengan-kehidupan-ms-kurnia-yang-tinggal-di-lingkungan-miskin-di-jakarta-kurnia-adalah-seorang-gadis-muda-yang-tidak-punya-waktu-untuk-menghabiskan-waktu-bersama-teman-temannya-dan-harus-membantu-keluarganya-keluar-dari-kemiskinan-pada-tahun-1954-kurnia-dan-kakaknya-wu-guo-chang-memulai-usaha-bernama-cv-pahlawan-pada-tahun-1959-wu-guo-chang-memutuskan-untuk-memulai-bisnisnya-namun-kurnia-optimis-dengan-masa-depan-bisnisnya-di-bidang-makanan-dan-jasa-pada-tahun-1970-an-kurnia-dan-nurhajati-pergi-ke-singapura-untuk-melakukan-survei-supermarket-dan-menemukan-beberapa-supermarket-modern-mereka-membangun-supermarket-modern-dan-mulai-menjual-makanan-kepada-penduduk-setempat-pada-tahun-1971-hero-mini-supermarket-dibuka-dan-pada-tahun-1970-an-supermarket-tersebut-berkembang-pesat-kurnia-menyadari-bahwa-waktu-yang-mereka-miliki-tidak-cukup-untuk-menghasilkan-keuntungan-sehingga-ia-berinovasi-dan-membangun-counter-makanan-khusus-untuk-membantu-karyawannya-bekerja-lebih-efisien-pada-tahun-1970-an-supermarket-dikritik-karena-kurangnya-inovasi-dan-kurangnya-layanan-pelanggan-kurnia-dan-nurhajati-bekerja-sama-untuk-mewujudkan-hero-supermarket-yang-sukses-mencapai-target-yang-diinginkan-kesuksesan-hero-disebabkan-oleh-pengiriman-yang-tepat-waktu-harga-yang-kompetitif-dan-hubungan-yang-kuat-dengan-mitranya-pada-tahun-1980-kesuksesan-perusahaan-dirayakan-dengan-dibukanya-hero-supermarket-baru-di-jakarta-yang-menandai-pencapaian-signifikan-bagi-perusahaan-pyX {
+  max-width: 69.8rem;
+  font-size: 1.4rem;
+  font-weight: 300;
+  line-height: 1.5;
+  letter-spacing: -0.0154rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.my-hero-Lbs .navbar-Mtu {
+  box-sizing: border-box;
+  padding-bottom: 1.6rem;
+  width: 144rem;
+  height: 16rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(269.24deg, #095028 11.7%, #17c964 96.6%);
+}
+.my-hero-Lbs .navbar-Mtu .logo-t89 {
+  margin-bottom: 1.1rem;
+  width: 100%;
+  height: 8.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.my-hero-Lbs .navbar-Mtu .logo-t89 .rectangle-5311-DRK {
+  width: 144rem;
+  height: 8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+}
+.my-hero-Lbs .navbar-Mtu .logo-t89 .item-67580793426116-3-xNu {
+  width: 143.2rem;
+  height: 8rem;
+  position: relative;
+  left: 0;
+  top: 0;
+  background-size: 100% 1200%;
+  background-position: -0rem -48.9223rem;
+  background-image: url('../assets/-QuP.png');
+}
+.my-hero-Lbs .navbar-Mtu .logo-t89 .group-34396-3QM {
+  width: 41rem;
+  height: 8.5rem;
+  position: absolute;
+  left: 50.9rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.my-hero-Lbs .navbar-Mtu .logo-t89 .px-herosupermarket-3-z4h {
+  width: 18.2rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 62.9rem;
+  top: 1.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.my-hero-Lbs .navbar-Mtu .auto-group-idb7-tvm {
+  margin: 0rem 11.3rem 0rem 9.6rem;
+  width: calc(100% - 20.9rem);
+  height: 4.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.my-hero-Lbs .navbar-Mtu .auto-group-idb7-tvm .auto-group-eawm-QeD {
+  margin: 1.3rem 30.8rem 0.959rem 0rem;
+  width: 72.3rem;
+  height: calc(100% - 2.2586rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.my-hero-Lbs .navbar-Mtu .auto-group-idb7-tvm .auto-group-eawm-QeD .frame-34451-Xiq {
+  width: 72.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.my-hero-Lbs .navbar-Mtu .auto-group-idb7-tvm .auto-group-eawm-QeD .frame-34401-DrZ {
+  width: 11rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 6.9rem;
+  top: 0.1414rem;
+  display: flex;
+  align-items: center;
+}
+.my-hero-Lbs .navbar-Mtu .auto-group-idb7-tvm .auto-group-eawm-QeD .frame-34401-DrZ .line-176-9kD {
+  margin: 0.2rem 1rem 0rem 0rem;
+  width: 3.4rem;
+  height: 0.2rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.my-hero-Lbs .navbar-Mtu .auto-group-idb7-tvm .auto-group-eawm-QeD .frame-34401-DrZ .my-hero-sgD {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.my-hero-Lbs .navbar-Mtu .auto-group-idb7-tvm .button-shop-CCh {
+  box-sizing: border-box;
+  padding: 1.2rem 4.2rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.my-hero-Lbs .navbar-Mtu .auto-group-idb7-tvm .button-shop-CCh .icon-cart-LJu {
+  margin: 0rem 0.7rem 0.099rem 0rem;
+  width: 2.1rem;
+  height: 2.1014rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.my-hero-Lbs .navbar-Mtu .auto-group-idb7-tvm .button-shop-CCh .shop-now-T8d {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #095028;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

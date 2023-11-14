@@ -1,0 +1,611 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.edit-barang-UrM {
+  display: flex;
+  align-items: center;
+  background-color: #e3f7ca;
+  box-sizing: border-box;
+  padding-right: 2.9rem;
+  width: 100%;
+
+  .auto-group-3dmb-1rH {
+    position: relative;
+    flex-shrink: 0;
+    margin-right: 4.4rem;
+    width: 30rem;
+    height: 95.7rem;
+
+    .vector-xFj {
+      left: 20.1rem;
+      top: 69.3296rem;
+      object-fit: contain;
+      vertical-align: top;
+      border-radius: 0.2859rem;
+      width: 1.6258rem;
+      height: 0.8268rem;
+      position: absolute;
+    }
+    .menu-admin-UUy {
+      box-sizing: border-box;
+      width: 30rem;
+      position: absolute;
+      left: 0;
+      top: 0;
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+      background-color: #ffffff;
+      border-radius: 0.5rem;
+      padding: 5.317rem 3.8rem 3.697rem 2.9rem;
+      height: 95.7rem;
+      box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+
+      .logo-navbar-ZFX {
+        background-color: #ffffff;
+        border-radius: 1.1rem;
+        flex-shrink: 0;
+        margin: 0rem 4.5rem 8.719rem 0rem;
+        box-sizing: border-box;
+        padding: 0.702rem 1.121rem 0.585rem 1.245rem;
+
+        .px-herosupermarket-3-gL9 {
+          object-fit: cover;
+          vertical-align: top;
+          width: 16.4344rem;
+          height: 4.5617rem;
+        }
+      }
+      .auto-group-gfym-PEZ {
+        width: 22.4rem;
+        font-size: 1.8rem;
+        display: flex;
+        justify-content: center;
+        font-weight: 600;
+        color: #052814;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        height: 5.423rem;
+        text-align: center;
+        border-radius: 1rem;
+        margin: 0rem 0rem 3.509rem 0.9rem;
+        line-height: 1.2125;
+        align-items: center;
+        border: solid 0.1rem #000000;
+        box-sizing: border-box;
+        background-color: #ffffff;
+      }
+      .group-34309-RS9 {
+        margin: 0rem 0rem 3.161rem 0.9rem;
+        box-sizing: border-box;
+        display: flex;
+        align-items: center;
+        border-radius: 1rem;
+        flex-shrink: 0;
+        padding: 1.17rem 4.774rem 2.053rem 7.1rem;
+        width: calc(100% - 0.9rem);
+        border: solid 0.1rem #052814;
+        background-color: #052814;
+
+        .category-7Zs {
+          white-space: nowrap;
+          color: #ffffff;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 1.8rem;
+          font-weight: 600;
+          line-height: 1.2125;
+          flex-shrink: 0;
+          margin-right: 0.7rem;
+          text-align: center;
+        }
+        .vector-qkm {
+          flex-shrink: 0;
+          margin-top: 0.7535rem;
+          width: 1.6258rem;
+          height: 0.8268rem;
+          object-fit: contain;
+          vertical-align: top;
+          border-radius: 0.2859rem;
+        }
+      }
+      .auto-group-acd7-LSd {
+        flex-shrink: 0;
+        margin: 0rem 0rem 0.84rem 0.9rem;
+        width: 22.4rem;
+        height: 7.2601rem;
+        position: relative;
+
+        .group-34310-FpV {
+          box-sizing: border-box;
+          padding: 1.382rem 1.5rem 1.16rem 1.5rem;
+          width: 22.4rem;
+          height: 5.423rem;
+          position: absolute;
+          left: 0;
+          top: 1.837rem;
+
+          .auto-group-r7ay-mnq {
+            color: #000000;
+            white-space: nowrap;
+            margin-right: 6.8rem;
+            padding-top: 0.8807rem;
+            width: 12.6rem;
+            text-align: center;
+            font-size: 1.6rem;
+            box-sizing: border-box;
+            height: 100%;
+            font-weight: 600;
+            line-height: 1.2125;
+            font-family: Inter, 'Source Sans Pro';
+          }
+        }
+        .promo-4G9 {
+          width: 5.1rem;
+          cursor: pointer;
+          position: absolute;
+          left: 1.5rem;
+          text-align: center;
+          font-size: 1.6rem;
+          color: #000000;
+          height: 2rem;
+          top: 0;
+          font-weight: 600;
+          line-height: 1.2125;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+      }
+      .bahan-masak-mgM {
+        text-align: center;
+        font-size: 1.6rem;
+        color: #000000;
+        flex-shrink: 0;
+        margin: 0rem 8.1rem 2.1rem 0rem;
+        cursor: pointer;
+        font-weight: 600;
+        line-height: 1.2125;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+      }
+      .susu-dan-produk-segar-5ww {
+        font-size: 1.6rem;
+        font-weight: 600;
+        line-height: 1.2125;
+        color: #000000;
+        flex-shrink: 0;
+        margin: 0rem 0.5rem 2rem 0rem;
+        cursor: pointer;
+        text-align: center;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+      }
+      .snack-Cmf {
+        margin: 0rem 13.7rem 2rem 0rem;
+        text-align: center;
+        font-weight: 600;
+        color: #000000;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        cursor: pointer;
+        font-size: 1.6rem;
+        line-height: 1.2125;
+      }
+      .kesehatan-Jph {
+        margin: 0rem 10.3rem 7.8rem 0rem;
+        text-align: center;
+        font-size: 1.6rem;
+        font-weight: 600;
+        color: #000000;
+        cursor: pointer;
+        line-height: 1.2125;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+      }
+      .auto-group-rfbp-ECZ {
+        box-sizing: border-box;
+        padding: 1.1rem 4.5rem 2.1rem 8.35rem;
+        width: calc(100% - 0.9rem);
+        display: flex;
+        border: solid 0.1rem #000000;
+        flex-shrink: 0;
+        margin: 0rem 0rem 16.52rem 0.9rem;
+        background-color: #ffffff;
+        border-radius: 1rem;
+        align-items: center;
+
+        .histori-XhT {
+          margin-right: 2.15rem;
+          font-size: 1.8rem;
+          font-weight: 600;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          text-align: center;
+          line-height: 1.2125;
+          color: #052814;
+          flex-shrink: 0;
+        }
+        .vector-rzd {
+          border-radius: 0.2859rem;
+          flex-shrink: 0;
+          margin-top: 0.3rem;
+          width: 1.6rem;
+          height: 0.9rem;
+          object-fit: contain;
+          vertical-align: top;
+        }
+      }
+      .auto-group-rydb-xnm {
+        margin-right: 11.9rem;
+        width: calc(100% - 11.9rem);
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+
+        .icon-account-logout-Jrd {
+          margin-right: 1.9758rem;
+          width: 2.5242rem;
+          height: 2.6831rem;
+          position: relative;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .log-out-qrZ {
+          line-height: 1.2125;
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 1.8rem;
+          font-weight: 600;
+          color: #000000;
+          font-family: Inter, 'Source Sans Pro';
+          margin-bottom: 0.0579rem;
+          text-align: center;
+        }
+      }
+    }
+  }
+  .auto-group-ny41-uLd {
+    margin-top: 2.2rem;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+
+    .auto-group-e1yb-T7F {
+      flex-shrink: 0;
+      margin: 0rem 0rem 4.1rem 68.3rem;
+      height: 7rem;
+      display: flex;
+      align-items: center;
+
+      .auto-group-du65-NV7 {
+        padding: 1.3rem 3.1rem 0.8rem 0rem;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+        box-sizing: border-box;
+
+        .icon-envelope-closed-J7s {
+          width: 2.2484rem;
+          height: 1.6205rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+          margin: 0.82rem 1.952rem 0rem 0rem;
+        }
+        .icon-bell-QAu {
+          width: 2.015rem;
+          height: 2.4171rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+          margin: 0.766rem 2.385rem 0rem 0rem;
+        }
+        .line-120-2i5 {
+          height: 4.9rem;
+          background-color: #052814;
+          flex-shrink: 0;
+          width: 0.1rem;
+        }
+      }
+      .ellipse-4-kty {
+        border-radius: 3.5rem;
+        margin-right: 1.8rem;
+        width: 7rem;
+        height: 7rem;
+        background-size: 100% 100%;
+        background-position: center;
+        background-image: url('REPLACE_IMAGE:0eedeec74139c91def18b72c7cc5f716dc37c01b');
+        background-repeat: no-repeat;
+        flex-shrink: 0;
+      }
+      .auto-group-um1t-sCu {
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        margin: 0.8rem 0rem 1.2rem 0rem;
+        height: calc(100% - 2rem);
+
+        .hello-good-morning-BzH {
+          line-height: 1.2125;
+          font-family: Inter, 'Source Sans Pro';
+          flex-shrink: 0;
+          color: #052814;
+          white-space: nowrap;
+          margin-bottom: 0.6rem;
+          text-align: center;
+          font-size: 1.8rem;
+          font-weight: 600;
+        }
+        .xaviera-porsh-KKo {
+          text-align: center;
+          font-size: 1.8rem;
+          color: #052814;
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-right: 0.5rem;
+          font-weight: 600;
+          line-height: 1.2125;
+          font-family: Inter, 'Source Sans Pro';
+        }
+      }
+    }
+    .edit-barang-SfK {
+      position: relative;
+      background-color: #ffffff;
+      border-radius: 3rem;
+      flex-shrink: 0;
+      margin-bottom: 1.8rem;
+      width: 105.3rem;
+      height: 70.6rem;
+
+      .auto-group-wtjd-NJ5 {
+        font-family: Inter, 'Source Sans Pro';
+        box-sizing: border-box;
+        width: 98rem;
+        position: absolute;
+        font-size: 1.4rem;
+        border-radius: 1rem;
+        top: 13.8rem;
+        font-weight: 300;
+        border: solid 0.1rem #000000;
+        background-color: #ffffff;
+        padding: 1.8rem 2.3rem 2.6rem 2.3rem;
+        text-align: center;
+        line-height: 1.2125;
+        white-space: nowrap;
+        height: 6.1rem;
+        left: 3.6rem;
+        color: #000000;
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+      }
+      .auto-group-k1dj-Azd {
+        width: 98rem;
+        height: 14.6rem;
+        position: absolute;
+        top: 26.3rem;
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+        box-sizing: border-box;
+        padding: 1.1rem 2.9rem 1.9rem 2.9rem;
+        left: 3.6rem;
+        border: solid 0.1rem #000000;
+        background-color: #ffffff;
+        border-radius: 1rem;
+
+        .seledri-stick-3-removebg-preview540x-1-t9w {
+          position: relative;
+          background-size: 153.846% 162.866%;
+          background-position: -4.9169rem -3.1362rem;
+          background-image: url('REPLACE_IMAGE:70d99ae8e4b2abf1ef1d3005b3203ad38fe7b079');
+          width: 18.8rem;
+          height: 11.6rem;
+        }
+      }
+      .auto-group-bmsh-Wx1 {
+        text-align: center;
+        font-size: 1.4rem;
+        font-family: Inter, 'Source Sans Pro';
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+        position: absolute;
+        line-height: 1.2125;
+        white-space: nowrap;
+        border: solid 0.1rem #000000;
+        box-sizing: border-box;
+        width: 98rem;
+        left: 3.6rem;
+        font-weight: 300;
+        background-color: #ffffff;
+        border-radius: 1rem;
+        padding: 2.3rem 2.9rem 2.1rem 2.9rem;
+        height: 6.1rem;
+        top: 45.8rem;
+        color: #000000;
+      }
+      .auto-group-ujcq-x3K {
+        border-radius: 1rem;
+        text-align: center;
+        font-size: 1.4rem;
+        color: #000000;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        background-color: #ffffff;
+        width: 98rem;
+        border: solid 0.1rem #000000;
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+        position: absolute;
+        left: 3.6rem;
+        top: 57.8rem;
+        line-height: 1.2125;
+        box-sizing: border-box;
+        padding: 2.3rem 2.8rem 2.1rem 2.8rem;
+        height: 6.1rem;
+        font-weight: 300;
+      }
+      .edit-barang-PPX {
+        height: 3.9rem;
+        left: 43.6rem;
+        text-align: center;
+        font-weight: 700;
+        white-space: nowrap;
+        font-family: Inter, 'Source Sans Pro';
+        width: 18rem;
+        position: absolute;
+        top: 2.8rem;
+        font-size: 3.2rem;
+        line-height: 1.2125;
+        color: #000000;
+      }
+      .nama-produk-6Yq {
+        width: 13.8rem;
+        position: absolute;
+        left: 3.8rem;
+        text-align: center;
+        font-family: Poppins, 'Source Sans Pro';
+        white-space: nowrap;
+        height: 3rem;
+        top: 10.3rem;
+        font-size: 2rem;
+        font-weight: 500;
+        line-height: 1.5;
+        color: #000000;
+      }
+      .foto-produk-DNZ {
+        font-family: Poppins, 'Source Sans Pro';
+        width: 11.9rem;
+        text-align: center;
+        line-height: 1.5;
+        color: #000000;
+        font-size: 2rem;
+        font-weight: 500;
+        white-space: nowrap;
+        height: 3rem;
+        position: absolute;
+        left: 3.8rem;
+        top: 22.8rem;
+      }
+      .kategori-produk-j61 {
+        height: 3rem;
+        position: absolute;
+        left: 3.6rem;
+        top: 42.8rem;
+        text-align: center;
+        font-size: 2rem;
+        font-weight: 500;
+        line-height: 1.5;
+        color: #000000;
+        white-space: nowrap;
+        width: 16.1rem;
+        font-family: Poppins, 'Source Sans Pro';
+      }
+      .harga-produk-FKF {
+        font-family: Poppins, 'Source Sans Pro';
+        width: 13.8rem;
+        left: 3.6rem;
+        top: 54.8rem;
+        font-size: 2rem;
+        font-weight: 500;
+        white-space: nowrap;
+        height: 3rem;
+        position: absolute;
+        text-align: center;
+        line-height: 1.5;
+        color: #000000;
+      }
+      .group-34412-mYV {
+        height: 3rem;
+        cursor: pointer;
+        position: absolute;
+        left: 89.9rem;
+        top: 66rem;
+        border-radius: 0.5rem;
+        width: 11.7rem;
+
+        .rectangle-5368-JYR {
+          box-sizing: border-box;
+          position: absolute;
+          left: 0;
+          top: 0.1rem;
+          border: solid 0.1rem #20992e;
+          width: 11.7rem;
+          height: 2.9rem;
+          background-color: #e8faf0;
+          border-radius: 0.5rem;
+        }
+        .save-cp1 {
+          position: absolute;
+          top: 0;
+          font-size: 2rem;
+          font-weight: 500;
+          color: #20992e;
+          white-space: nowrap;
+          height: 3rem;
+          left: 3.4rem;
+          text-align: center;
+          line-height: 1.5;
+          font-family: Poppins, 'Source Sans Pro';
+          width: 5rem;
+        }
+        .group-34412-MWh {
+          position: absolute;
+          left: 0;
+          top: 0;
+          border-radius: 0.5rem;
+          width: 11.7rem;
+          height: 3rem;
+
+          .rectangle-5368-Vcu {
+            width: 11.7rem;
+            height: 2.9rem;
+            position: absolute;
+            top: 0.1rem;
+            background-color: #e8faf0;
+            border-radius: 0.5rem;
+            left: 0;
+            border: solid 0.1rem #20992e;
+            box-sizing: border-box;
+          }
+          .save-chX {
+            font-size: 2rem;
+            font-weight: 500;
+            font-family: Poppins, 'Source Sans Pro';
+            white-space: nowrap;
+            width: 5rem;
+            height: 3rem;
+            position: absolute;
+            line-height: 1.5;
+            color: #20992e;
+            left: 3.4rem;
+            top: 0;
+            text-align: center;
+          }
+        }
+      }
+    }
+    .btt-kiri-uAq {
+      cursor: pointer;
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+      margin-left: 0.8rem;
+      width: 6rem;
+      height: 6rem;
+    }
+  }
+}

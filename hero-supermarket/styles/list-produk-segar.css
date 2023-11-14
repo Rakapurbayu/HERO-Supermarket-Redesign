@@ -1,0 +1,167 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.list-produk-segar-1cD {
+  box-sizing: border-box;
+  padding: 2.7rem 75.2rem 4rem 26.3rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.list-produk-segar-1cD .collections-VnH {
+  margin-right: 9.1rem;
+  height: 20.5rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.list-produk-segar-1cD .collections-VnH .sayur-buah-dNh {
+  margin-bottom: 1.4rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #7e7e7e;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-produk-segar-1cD .collections-VnH .sayur-8KT {
+  margin-bottom: 1.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-produk-segar-1cD .collections-VnH .jamur-kecambah-qjf {
+  margin-bottom: 1.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-produk-segar-1cD .collections-VnH .rempah-bumbu-Mxu {
+  margin-bottom: 1.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-produk-segar-1cD .collections-VnH .buah-segar-69o {
+  margin-bottom: 1.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-produk-segar-1cD .collections-VnH .tahu-fermentasi-23T {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-produk-segar-1cD .collections-985 {
+  height: 20.5rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.list-produk-segar-1cD .collections-985 .daging-seafood-gNu {
+  margin-bottom: 1.4rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #7e7e7e;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-produk-segar-1cD .collections-985 .daging-sapi-c1f {
+  margin-bottom: 1.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-produk-segar-1cD .collections-985 .lamb-LiM {
+  margin-bottom: 1.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-produk-segar-1cD .collections-985 .unggas-telur-fkd {
+  margin-bottom: 1.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-produk-segar-1cD .collections-985 .ikan-air-tawar-Biy {
+  margin-bottom: 1.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-produk-segar-1cD .collections-985 .seafood-XH3 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

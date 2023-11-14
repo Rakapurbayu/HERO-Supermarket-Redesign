@@ -1,0 +1,1135 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.category-bahan-masak-Ty3 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  background-color: #e3f7ca;
+}
+.category-bahan-masak-Ty3 .menu-admin-Q7b {
+  box-sizing: border-box;
+  padding: 5rem 3.8rem 19.458rem 2.9rem;
+  width: 30rem;
+  height: 156.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .menu-admin-Q7b .logo-navbar-h6h {
+  margin: 0rem 4.5rem 8.2rem 0rem;
+  box-sizing: border-box;
+  padding: 0.66rem 1.121rem 0.55rem 1.245rem;
+  background-color: #ffffff;
+  border-radius: 1.1rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .menu-admin-Q7b .logo-navbar-h6h .px-herosupermarket-3-cDf {
+  width: 16.4344rem;
+  height: 4.29rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.category-bahan-masak-Ty3 .menu-admin-Q7b .auto-group-8v5f-JcH {
+  margin: 0rem 0rem 7.2rem 0.9rem;
+  width: 22.4rem;
+  height: 37.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .menu-admin-Q7b .auto-group-8v5f-JcH .grup-tombol-RS1 {
+  width: 22.4rem;
+  height: 23.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.category-bahan-masak-Ty3 .menu-admin-Q7b .auto-group-8v5f-JcH .grup-tombol-RS1 .auto-group-7dez-MaZ {
+  margin-bottom: 3.3rem;
+  width: 100%;
+  height: 5.1rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #052814;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .menu-admin-Q7b .auto-group-8v5f-JcH .grup-tombol-RS1 .group-34309-ohT {
+  margin-bottom: 4.7rem;
+  box-sizing: border-box;
+  padding: 1.1rem 4.774rem 1.8rem 7.1rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #052814;
+  background-color: #052814;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .menu-admin-Q7b .auto-group-8v5f-JcH .grup-tombol-RS1 .group-34309-ohT .category-Wbs {
+  margin-right: 0.7rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .menu-admin-Q7b .auto-group-8v5f-JcH .grup-tombol-RS1 .group-34309-ohT .vector-361 {
+  margin-top: 0.5775rem;
+  width: 1.6258rem;
+  height: 0.7775rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.2859rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .menu-admin-Q7b .auto-group-8v5f-JcH .grup-tombol-RS1 .group-34310-vQh {
+  width: 100%;
+  height: 5.1rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .menu-admin-Q7b .auto-group-8v5f-JcH .group-34361-52h {
+  width: 18rem;
+  height: 21rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 16.5rem;
+  row-gap: 1.8rem;
+  display: flex;
+  flex-direction: column;
+}
+.category-bahan-masak-Ty3 .menu-admin-Q7b .auto-group-8v5f-JcH .group-34361-52h .promo-bFw {
+  width: 100%;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .menu-admin-Q7b .auto-group-8v5f-JcH .group-34361-52h .produk-segar-v3K {
+  width: 100%;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .menu-admin-Q7b .auto-group-8v5f-JcH .group-34361-52h .bahan-masak-EZo {
+  width: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .menu-admin-Q7b .auto-group-8v5f-JcH .group-34361-52h .susu-dan-produk-segar-AyF {
+  width: 100%;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .menu-admin-Q7b .auto-group-8v5f-JcH .group-34361-52h .snack-W1X {
+  width: 100%;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .menu-admin-Q7b .auto-group-8v5f-JcH .group-34361-52h .kesehatan-e7j {
+  width: 100%;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .menu-admin-Q7b .auto-group-rssu-NJd {
+  margin: 0rem 0rem 64.748rem 0.9rem;
+  box-sizing: border-box;
+  padding: 1rem 4.474rem 1.9rem 8.35rem;
+  width: calc(100% - 0.9rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #000000;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .menu-admin-Q7b .auto-group-rssu-NJd .histori-sWH {
+  margin-right: 2.15rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #052814;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .menu-admin-Q7b .auto-group-rssu-NJd .vector-QWD {
+  margin-top: 0.1779rem;
+  width: 1.6258rem;
+  height: 0.7775rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.2859rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .menu-admin-Q7b .auto-group-cajd-79j {
+  margin: 0rem 11.5rem 0rem 0.9rem;
+  width: calc(100% - 12.4rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .menu-admin-Q7b .auto-group-cajd-79j .icon-account-logout-dtm {
+  margin: 0.627rem 1.476rem 0rem 0rem;
+  width: 2.5242rem;
+  height: 3.166rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .menu-admin-Q7b .auto-group-cajd-79j .log-out-xAM {
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK {
+  box-sizing: border-box;
+  padding: 4.2rem 2.9rem 6rem 6.2rem;
+  height: 140.4rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-t3ff-AGR {
+  margin: 15.9rem 10.5rem 0rem 0rem;
+  width: 16.9rem;
+  row-gap: 6.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-t3ff-AGR .kategori-admin-4sb {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-t3ff-AGR .kategori-admin-4sb .auto-group-mgth-DVb {
+  margin-bottom: 2.5rem;
+  box-sizing: border-box;
+  padding: 1.1rem 1.4rem 1.7rem 1.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-t3ff-AGR .kategori-admin-4sb .auto-group-mgth-DVb .istockphoto-671580286-612x612-1-LaD {
+  margin-bottom: 0.4rem;
+  width: 14.2rem;
+  height: 11.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-t3ff-AGR .kategori-admin-4sb .auto-group-mgth-DVb .sayur-FhB {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-t3ff-AGR .kategori-admin-4sb .auto-group-sdow-MVK {
+  width: 3.9rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-t3ff-AGR .kategori-admin-6Su {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-t3ff-AGR .kategori-admin-6Su .auto-group-7awd-rS5 {
+  margin-bottom: 2.5rem;
+  box-sizing: border-box;
+  padding: 1rem 1.4rem 1.7rem 1.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-t3ff-AGR .kategori-admin-6Su .auto-group-7awd-rS5 .istockphoto-1206682746-612x612-1-z2V {
+  margin-bottom: 0.5rem;
+  width: 14.2rem;
+  height: 11.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-t3ff-AGR .kategori-admin-6Su .auto-group-7awd-rS5 .sayur-Jos {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-t3ff-AGR .kategori-admin-6Su .auto-group-wk8d-1yB {
+  width: 3.9rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-t3ff-AGR .kategori-admin-xdX {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-t3ff-AGR .kategori-admin-xdX .auto-group-w95k-Wuw {
+  margin-bottom: 2.5rem;
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 1.7rem 1.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-t3ff-AGR .kategori-admin-xdX .auto-group-w95k-Wuw .istockphoto-475263838-612x612-1-eWM {
+  width: 14.2rem;
+  height: 11.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-t3ff-AGR .kategori-admin-xdX .auto-group-w95k-Wuw .sayur-Ajb {
+  margin-left: 0.1rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-t3ff-AGR .kategori-admin-xdX .auto-group-av9b-TCu {
+  width: 3.9rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-t3ff-AGR .kategori-admin-aoK {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-t3ff-AGR .kategori-admin-aoK .auto-group-v78d-9Ld {
+  margin-bottom: 2.5rem;
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 1.7rem 1.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-t3ff-AGR .kategori-admin-aoK .auto-group-v78d-9Ld .istockphoto-835833518-612x612-1-g5f {
+  width: 14.2rem;
+  height: 11.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-t3ff-AGR .kategori-admin-aoK .auto-group-v78d-9Ld .sayur-byK {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-t3ff-AGR .kategori-admin-aoK .auto-group-gfvj-X6H {
+  width: 3.9rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-keav-4c1 {
+  margin: 15.9rem 10.5rem 0rem 0rem;
+  width: 16.9rem;
+  row-gap: 6.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-keav-4c1 .kategori-admin-aqF {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-keav-4c1 .kategori-admin-aqF .auto-group-gtad-97f {
+  margin-bottom: 2.5rem;
+  box-sizing: border-box;
+  padding: 1.1rem 0.9rem 1.7rem 0.8rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-keav-4c1 .kategori-admin-aqF .auto-group-gtad-97f .istockphoto-950609714-612x612-1-UQq {
+  margin: 0rem 0rem 0.4rem 0.2rem;
+  width: 14.2rem;
+  height: 11.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-keav-4c1 .kategori-admin-aqF .auto-group-gtad-97f .sayur-ysP {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-keav-4c1 .kategori-admin-aqF .auto-group-esmf-h2h {
+  width: 3.9rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-keav-4c1 .kategori-admin-1JH {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-keav-4c1 .kategori-admin-1JH .auto-group-puxf-AS5 {
+  margin-bottom: 2.5rem;
+  box-sizing: border-box;
+  padding: 1rem 1.4rem 1.6rem 1.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-keav-4c1 .kategori-admin-1JH .auto-group-puxf-AS5 .istockphoto-961510860-612x612-1-HWh {
+  margin-bottom: 0.5rem;
+  width: 14.2rem;
+  height: 11.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-keav-4c1 .kategori-admin-1JH .auto-group-puxf-AS5 .sayur-c3B {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-keav-4c1 .kategori-admin-1JH .auto-group-ztzb-WeM {
+  width: 3.9rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-keav-4c1 .kategori-admin-Fbw {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-keav-4c1 .kategori-admin-Fbw .auto-group-8yvb-otM {
+  margin-bottom: 2.5rem;
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 1.7rem 1.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-keav-4c1 .kategori-admin-Fbw .auto-group-8yvb-otM .istockphoto-1173552196-612x612-1-jX7 {
+  width: 14.2rem;
+  height: 11.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-keav-4c1 .kategori-admin-Fbw .auto-group-8yvb-otM .sayur-Ti1 {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-keav-4c1 .kategori-admin-Fbw .auto-group-6pm7-a1w {
+  width: 3.9rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-keav-4c1 .kategori-admin-7nZ {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-keav-4c1 .kategori-admin-7nZ .auto-group-pjlm-smj {
+  margin-bottom: 2.5rem;
+  box-sizing: border-box;
+  padding: 1.5rem 1.5rem 1.7rem 1.2rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-keav-4c1 .kategori-admin-7nZ .auto-group-pjlm-smj .istockphoto-994748584-612x612-2-CZ7 {
+  width: 14.2rem;
+  height: 11.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-keav-4c1 .kategori-admin-7nZ .auto-group-pjlm-smj .sayur-XrH {
+  margin-left: 0.3rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-keav-4c1 .kategori-admin-7nZ .auto-group-fuoj-2Y9 {
+  width: 3.9rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-wanu-mkd {
+  margin: 2.243rem 2.3rem 0rem 0rem;
+  width: 18rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-wanu-mkd .auto-group-dfff-tqF {
+  margin: 0rem 1.085rem 11.128rem 10.3rem;
+  width: calc(100% - 11.385rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-wanu-mkd .auto-group-dfff-tqF .icon-envelope-closed-dH3 {
+  margin: 0.061rem 2.352rem 0rem 0rem;
+  width: 2.2484rem;
+  height: 1.6955rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-wanu-mkd .auto-group-dfff-tqF .icon-bell-8zV {
+  width: 2.015rem;
+  height: 2.529rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-wanu-mkd .kategori-admin-HMb {
+  margin: 0rem 1.1rem 6.9rem 0rem;
+  width: 16.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-wanu-mkd .kategori-admin-HMb .auto-group-va6d-DW9 {
+  margin-bottom: 2.5rem;
+  box-sizing: border-box;
+  padding: 1.1rem 1.4rem 1.7rem 1.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-wanu-mkd .kategori-admin-HMb .auto-group-va6d-DW9 .istockphoto-659524906-612x612-1-YYR {
+  margin-bottom: 0.4rem;
+  width: 14.2rem;
+  height: 11.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-wanu-mkd .kategori-admin-HMb .auto-group-va6d-DW9 .sayur-fsw {
+  margin-left: 0.1rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-wanu-mkd .kategori-admin-HMb .auto-group-ywfs-mRB {
+  width: 3.9rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-wanu-mkd .kategori-admin-Jvu {
+  margin: 0rem 1.1rem 6.9rem 0rem;
+  width: 16.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-wanu-mkd .kategori-admin-Jvu .auto-group-nqlm-SGR {
+  margin-bottom: 2.5rem;
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 1.7rem 1.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-wanu-mkd .kategori-admin-Jvu .auto-group-nqlm-SGR .istockphoto-941858854-612x612-1-y1T {
+  width: 14.2rem;
+  height: 11.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-wanu-mkd .kategori-admin-Jvu .auto-group-nqlm-SGR .sayur-JZX {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-wanu-mkd .kategori-admin-Jvu .auto-group-tng1-Cuo {
+  width: 3.9rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-wanu-mkd .kategori-admin-x8H {
+  margin-bottom: 6.9rem;
+  width: 16.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-wanu-mkd .kategori-admin-x8H .auto-group-yrpm-u3X {
+  margin-bottom: 2.5rem;
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 1.7rem 1.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-wanu-mkd .kategori-admin-x8H .auto-group-yrpm-u3X .istockphoto-516358950-612x612-1-dkD {
+  width: 14.2rem;
+  height: 11.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-wanu-mkd .kategori-admin-x8H .auto-group-yrpm-u3X .sayur-Ak9 {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-wanu-mkd .kategori-admin-x8H .auto-group-cb3f-H45 {
+  width: 3.9rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-wanu-mkd .kategori-admin-2GZ {
+  margin-right: 1.1rem;
+  width: 16.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-wanu-mkd .kategori-admin-2GZ .auto-group-pzb3-NLR {
+  margin-bottom: 2.5rem;
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 1.7rem 1.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-wanu-mkd .kategori-admin-2GZ .auto-group-pzb3-NLR .istockphoto-994748584-612x612-1-JE5 {
+  width: 14.2rem;
+  height: 11.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-wanu-mkd .kategori-admin-2GZ .auto-group-pzb3-NLR .sayur-EdX {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-wanu-mkd .kategori-admin-2GZ .auto-group-fk4r-x3j {
+  width: 3.9rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .line-120-Unm {
+  margin: 1.3rem 3.1rem 0rem 0rem;
+  width: 0.1rem;
+  height: 4.9rem;
+  background-color: #052814;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-u5uk-QgR {
+  width: 26.6rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-u5uk-QgR .auto-group-pbsz-xhw {
+  width: 100%;
+  height: 7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-u5uk-QgR .auto-group-pbsz-xhw .ellipse-4-ut5 {
+  margin-right: 1.8rem;
+  width: 7rem;
+  height: 7rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-4-bg-L2D.png');
+  border-radius: 3.5rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-u5uk-QgR .auto-group-pbsz-xhw .auto-group-ljdb-2xh {
+  margin: 0.8rem 0rem 1.2rem 0rem;
+  height: calc(100% - 2rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-u5uk-QgR .auto-group-pbsz-xhw .auto-group-ljdb-2xh .hello-good-morning-Mzy {
+  margin-bottom: 0.6rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #052814;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-u5uk-QgR .auto-group-pbsz-xhw .auto-group-ljdb-2xh .xaviera-porsh-5vy {
+  margin-right: 0.5rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #052814;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-u5uk-QgR .auto-group-eeqq-QTT {
+  box-sizing: border-box;
+  padding: 8.9rem 5.8rem 0rem 3.9rem;
+  width: 100%;
+  row-gap: 6.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-u5uk-QgR .auto-group-eeqq-QTT .kategori-admin-XHB {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-u5uk-QgR .auto-group-eeqq-QTT .kategori-admin-XHB .auto-group-cgg9-HXF {
+  margin-bottom: 2.5rem;
+  box-sizing: border-box;
+  padding: 1.1rem 1.4rem 1.7rem 1.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-u5uk-QgR .auto-group-eeqq-QTT .kategori-admin-XHB .auto-group-cgg9-HXF .istockphoto-185065945-612x612-1-pGH {
+  margin-bottom: 0.4rem;
+  width: 14.2rem;
+  height: 11.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-u5uk-QgR .auto-group-eeqq-QTT .kategori-admin-XHB .auto-group-cgg9-HXF .sayur-ju3 {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-u5uk-QgR .auto-group-eeqq-QTT .kategori-admin-XHB .auto-group-vdrh-Eqo {
+  width: 3.9rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-u5uk-QgR .auto-group-eeqq-QTT .kategori-admin-NBK {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-u5uk-QgR .auto-group-eeqq-QTT .kategori-admin-NBK .auto-group-tmfo-KsF {
+  margin-bottom: 2.5rem;
+  box-sizing: border-box;
+  padding: 0.7rem 1.1rem 1.1rem 1rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-u5uk-QgR .auto-group-eeqq-QTT .kategori-admin-NBK .auto-group-tmfo-KsF .istockphoto-641876710-612x612-1-eed {
+  width: 14.2rem;
+  height: 11rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-u5uk-QgR .auto-group-eeqq-QTT .kategori-admin-NBK .auto-group-tmfo-KsF .sayur-aoB {
+  max-width: 14.8rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-u5uk-QgR .auto-group-eeqq-QTT .kategori-admin-NBK .auto-group-hwho-5zq {
+  width: 3.9rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-u5uk-QgR .auto-group-eeqq-QTT .kategori-admin-29P {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-u5uk-QgR .auto-group-eeqq-QTT .kategori-admin-29P .auto-group-xv2m-n8Z {
+  margin-bottom: 2.5rem;
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 1.7rem 1.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-u5uk-QgR .auto-group-eeqq-QTT .kategori-admin-29P .auto-group-xv2m-n8Z .auto-group-8u4h-7Rj {
+  box-sizing: border-box;
+  padding-left: 0.3rem;
+  width: 100%;
+  background-color: #d9d9d9;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-u5uk-QgR .auto-group-eeqq-QTT .kategori-admin-29P .auto-group-xv2m-n8Z .auto-group-8u4h-7Rj .istockphoto-484679158-612x612-2-fCM {
+  width: 13.9rem;
+  height: 11.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-u5uk-QgR .auto-group-eeqq-QTT .kategori-admin-29P .auto-group-xv2m-n8Z .sayur-aKK {
+  margin-left: 0.1rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-u5uk-QgR .auto-group-eeqq-QTT .kategori-admin-29P .auto-group-mdgm-rnd {
+  width: 3.9rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-u5uk-QgR .auto-group-eeqq-QTT .kategori-admin-CrV {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-u5uk-QgR .auto-group-eeqq-QTT .kategori-admin-CrV .auto-group-kxrs-meh {
+  margin-bottom: 2.5rem;
+  box-sizing: border-box;
+  padding: 1.5rem 1.2rem 1.7rem 1.5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-u5uk-QgR .auto-group-eeqq-QTT .kategori-admin-CrV .auto-group-kxrs-meh .istockphoto-545779714-612x612-1-JPj {
+  width: 14.2rem;
+  height: 11.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-u5uk-QgR .auto-group-eeqq-QTT .kategori-admin-CrV .auto-group-kxrs-meh .sayur-dgu {
+  margin-right: 0.3rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.category-bahan-masak-Ty3 .auto-group-bvz3-SbK .auto-group-u5uk-QgR .auto-group-eeqq-QTT .kategori-admin-CrV .auto-group-gum7-jE9 {
+  width: 3.9rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

@@ -1,0 +1,191 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 105.9rem;
+}.search-info-fLV {
+  box-sizing: border-box;
+  padding: 1rem 0rem 0rem 3.4rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/union-FEZ.png');
+}
+.search-info-fLV .collections-Bpd {
+  margin: 0rem 7rem 0.7rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.search-info-fLV .collections-Bpd .collections-ukd {
+  margin-bottom: 1.4rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #7e7e7e;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.search-info-fLV .collections-Bpd .makanan-1Ym {
+  margin-bottom: 1.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.search-info-fLV .collections-Bpd .makanan-Lb3 {
+  margin-bottom: 1.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.search-info-fLV .collections-Bpd .makanan-ftD {
+  margin-bottom: 1.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.search-info-fLV .collections-Bpd .makanan-bms {
+  margin-bottom: 1.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.search-info-fLV .collections-Bpd .makanan-8Wu {
+  margin-bottom: 1.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.search-info-fLV .collections-Bpd .makanan-fWq {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.search-info-fLV .kanan-bfP {
+  box-sizing: border-box;
+  padding: 2.4rem 3.9rem 12.2rem 3.9rem;
+  width: 83.6rem;
+  height: 29.5rem;
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.search-info-fLV .kanan-bfP .products-KrH {
+  margin: 0rem 0rem 1rem 1.5rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #7e7e7e;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.search-info-fLV .kanan-bfP .group-34424-43B {
+  margin-right: 44rem;
+  width: calc(100% - 44rem);
+  display: flex;
+  align-items: flex-end;
+}
+.search-info-fLV .kanan-bfP .group-34424-43B .image-67-zxR {
+  margin-right: 1.1rem;
+  width: 12.4rem;
+  height: 11.5rem;
+  position: relative;
+  background-size: 1058.238% 770.103%;
+  background-position: -40.7517rem -16.2423rem;
+  background-image: url('../assets/image-67-hmj.png');
+  flex-shrink: 0;
+}
+.search-info-fLV .kanan-bfP .group-34424-43B .group-34423-5U5 {
+  margin-bottom: 0.3rem;
+  width: 18.3rem;
+  flex-shrink: 0;
+}
+.search-info-fLV .kanan-bfP .group-34424-43B .group-34423-5U5 .auto-group-5bv3-E65 {
+  margin-bottom: 0.7rem;
+  width: 100%;
+  height: 7.1rem;
+  position: relative;
+}
+.search-info-fLV .kanan-bfP .group-34424-43B .group-34423-5U5 .auto-group-5bv3-E65 .peachy-apple-puree-110-gr-AVX {
+  width: 17.5rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #7e7e7e;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.search-info-fLV .kanan-bfP .group-34424-43B .group-34423-5U5 .auto-group-5bv3-E65 .code-098642791289-sPw {
+  width: 18.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 4.7rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #b2b2b2;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.search-info-fLV .kanan-bfP .group-34424-43B .group-34423-5U5 .rp-35500-mkD {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}

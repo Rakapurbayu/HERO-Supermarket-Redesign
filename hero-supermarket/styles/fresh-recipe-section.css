@@ -1,0 +1,509 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.fresh-recipe-section-8qP {
+  width: 100%;
+  height: 163.3rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.fresh-recipe-section-8qP .bg-4j3 {
+  width: 144rem;
+  height: 154.9998rem;
+  position: absolute;
+  left: 0;
+  top: 8.3rem;
+}
+.fresh-recipe-section-8qP .bg-4j3 .item-67580793426116-6-nuw {
+  width: 144rem;
+  height: 68.3764rem;
+  position: absolute;
+  left: 0;
+  top: 86.6234rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.fresh-recipe-section-8qP .bg-4j3 .item-67580793426116-4-7BX {
+  width: 144rem;
+  height: 86.6234rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.fresh-recipe-section-8qP .bg-4j3 .footer-pbj {
+  box-sizing: border-box;
+  padding: 3.1rem 16.6rem 3.9rem 14.1rem;
+  width: 144rem;
+  height: 16rem;
+  position: absolute;
+  left: 0;
+  top: 139rem;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(271.18deg, #39b54a 100.47%, #095028 200.88%);
+}
+.fresh-recipe-section-8qP .bg-4j3 .footer-pbj .auto-group-jjlh-K2h {
+  margin-right: 41.1rem;
+  width: 18.4rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.fresh-recipe-section-8qP .bg-4j3 .footer-pbj .auto-group-jjlh-K2h .group-20-FBF {
+  margin-bottom: 0.8072rem;
+  box-sizing: border-box;
+  padding: 0.731rem 1.097rem 0.609rem 1.219rem;
+  width: 100%;
+  background-color: #fafafa;
+  border-radius: 1.1rem;
+}
+.fresh-recipe-section-8qP .bg-4j3 .footer-pbj .auto-group-jjlh-K2h .group-20-FBF .px-herosupermarket-3-A3K {
+  width: 16.0848rem;
+  height: 4.7523rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.fresh-recipe-section-8qP .bg-4j3 .footer-pbj .auto-group-jjlh-K2h .auto-group-dqld-4Pb {
+  margin-left: 0.8rem;
+  display: flex;
+  align-items: flex-end;
+}
+.fresh-recipe-section-8qP .bg-4j3 .footer-pbj .auto-group-jjlh-K2h .auto-group-dqld-4Pb .icon-facebook-1Zj {
+  margin: 0rem 0.311rem 0.023rem 0rem;
+  width: 2.0895rem;
+  height: 2.0766rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.fresh-recipe-section-8qP .bg-4j3 .footer-pbj .auto-group-jjlh-K2h .auto-group-dqld-4Pb .icon-twitter-7cm {
+  margin-right: 0.3102rem;
+  width: 2.4898rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.fresh-recipe-section-8qP .bg-4j3 .footer-pbj .auto-group-jjlh-K2h .auto-group-dqld-4Pb .icon-youtube-rKT {
+  width: 3.0051rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.fresh-recipe-section-8qP .bg-4j3 .footer-pbj .about-us-P4V {
+  margin: 0rem 9.35rem 3.1rem 0rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #fafafa;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.fresh-recipe-section-8qP .bg-4j3 .footer-pbj .faq-sVT {
+  margin: 0rem 9.65rem 3.1rem 0rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #fafafa;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.fresh-recipe-section-8qP .bg-4j3 .footer-pbj .contact-Pih {
+  margin: 0rem 7.3rem 3.1rem 0rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #fafafa;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.fresh-recipe-section-8qP .bg-4j3 .footer-pbj .customer-survey-WoK {
+  margin-bottom: 3.1rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #fafafa;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.fresh-recipe-section-8qP .bg-4j3 .bahan-bahan-p3K {
+  width: 26.1rem;
+  height: 36.95rem;
+  position: absolute;
+  left: 58.9905rem;
+  top: 62.65rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.fresh-recipe-section-8qP .bg-4j3 .bahan-bahan-p3K .strong-bahan-bahan--wNq {
+  margin: 0rem 0.581rem 1.15rem 0rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.75;
+  color: #0e793c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.fresh-recipe-section-8qP .bg-4j3 .bahan-bahan-p3K .frame-34460-2fB {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.fresh-recipe-section-8qP .bg-4j3 .bahan-bahan-p3K .frame-34460-2fB .list-item-170-gram-butter-tawar-lelehkan-xoj {
+  margin-right: 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #0e793c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.fresh-recipe-section-8qP .bg-4j3 .bahan-bahan-p3K .frame-34460-2fB .list-item-180-gram-tepung-terigu-serbaguna-fTF {
+  margin-right: 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #0e793c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.fresh-recipe-section-8qP .bg-4j3 .bahan-bahan-p3K .frame-34460-2fB .list-item-300-gram-gula-merah-dibagi-NMf {
+  margin-right: 0.0001rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #0e793c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.fresh-recipe-section-8qP .bg-4j3 .bahan-bahan-p3K .frame-34460-2fB .list-item-80-gram-rolled-oat-UvV {
+  margin-right: 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #0e793c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.fresh-recipe-section-8qP .bg-4j3 .bahan-bahan-p3K .frame-34460-2fB .list-item-113-gram-kacang-pecan-cincang-DNH {
+  margin-right: 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #0e793c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.fresh-recipe-section-8qP .bg-4j3 .bahan-bahan-p3K .frame-34460-2fB .list-item-1-sendok-teh-garam-jLd {
+  margin-left: 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #0e793c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.fresh-recipe-section-8qP .bg-4j3 .bahan-bahan-p3K .frame-34460-2fB .list-item-3-pon-apel-washington-TnR {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #0e793c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.fresh-recipe-section-8qP .bg-4j3 .bahan-bahan-p3K .frame-34460-2fB .list-item-1-sendok-makan-kayu-manis-bubuk-PAH {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #0e793c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.fresh-recipe-section-8qP .bg-4j3 .bahan-bahan-p3K .frame-34460-2fB .list-item-2-sendok-makan-jus-lemon-segar-K3w {
+  margin-right: 0.0001rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #0e793c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.fresh-recipe-section-8qP .bg-4j3 .bahan-bahan-p3K .frame-34460-2fB .list-item-es-krim-vanila-topping-vpR {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #0e793c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.fresh-recipe-section-8qP .bg-4j3 .bahan-bahan-p3K .frame-34460-2fB .list-item-es-krim-vanila-topping-F61 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #0e793c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.fresh-recipe-section-8qP .bg-4j3 .american-shrimp-fried-rice-served-with-chili-fish-sauce-thai-food-1-y21 {
+  width: 80rem;
+  height: 45rem;
+  position: absolute;
+  left: 32rem;
+  top: 11.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}
+.fresh-recipe-section-8qP .bg-4j3 .instruksi-GG1 {
+  width: 121.5rem;
+  height: 19.05rem;
+  position: absolute;
+  left: 11.2rem;
+  top: 106.45rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.fresh-recipe-section-8qP .bg-4j3 .instruksi-GG1 .strong-instruksi--Btm {
+  margin: 0rem 0.5rem 1.25rem 0rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.75;
+  color: #0e793c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.fresh-recipe-section-8qP .bg-4j3 .instruksi-GG1 .panaskan-wajan-lalu-taruh-mentega-ke-dalam-wajan-lalu-tumis-bawang-merah-dan-bawang-putih-yang-sudah-dicincang-setelah-itu-masukkan-1-butir-telur-lalu-orak-arik-telurnya-setelah-itu-masukkan-udang-ke-dalam-wajan-lalu-masukkan-garam-setelah-itu-masukkan-nasi-ke-dalam-wajan-lalu-tumis-nasinya-hingga-merata-dengan-bahan-bahan-sebelumnya-setelah-bau-semua-bahan-tercium-kecilkan-api-pada-kompor-lalu-masukkan-daun-bawang-yang-sudah-dicincang-setelah-itu-taruh-nasi-di-piring-lalu-hiasi-dengan-irisan-selada-tomat-dan-mentimun-nasi-goreng-telah-jadi-u45 {
+  max-width: 121.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.875;
+  color: #0e793c;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.fresh-recipe-section-8qP .navbar-CSV {
+  box-sizing: border-box;
+  padding-bottom: 1.6rem;
+  width: 144rem;
+  height: 16rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(269.24deg, #095028 11.7%, #17c964 96.6%);
+}
+.fresh-recipe-section-8qP .navbar-CSV .logo-7pM {
+  margin-bottom: 1.1rem;
+  width: 100%;
+  height: 8.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.fresh-recipe-section-8qP .navbar-CSV .logo-7pM .rectangle-5311-fay {
+  width: 144rem;
+  height: 8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+}
+.fresh-recipe-section-8qP .navbar-CSV .logo-7pM .item-67580793426116-3-cFK {
+  width: 143.2rem;
+  height: 8rem;
+  position: relative;
+  left: 0;
+  top: 0;
+  background-size: 100% 1200%;
+  background-position: -0rem -48.9223rem;
+  background-image: url('../assets/-zBB.png');
+}
+.fresh-recipe-section-8qP .navbar-CSV .logo-7pM .group-34396-tid {
+  width: 41rem;
+  height: 8.5rem;
+  position: absolute;
+  left: 50.7rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.fresh-recipe-section-8qP .navbar-CSV .logo-7pM .px-herosupermarket-3-dgD {
+  width: 18.2rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 62.7rem;
+  top: 1.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.fresh-recipe-section-8qP .navbar-CSV .auto-group-rvcd-xTb {
+  margin: 0rem 11.3rem 0rem 9.6rem;
+  width: calc(100% - 20.9rem);
+  height: 4.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.fresh-recipe-section-8qP .navbar-CSV .auto-group-rvcd-xTb .auto-group-arrz-5HK {
+  margin: 1.3rem 30.8rem 1.031rem 0rem;
+  width: 72.3rem;
+  height: calc(100% - 2.3309rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.fresh-recipe-section-8qP .navbar-CSV .auto-group-rvcd-xTb .auto-group-arrz-5HK .frame-34451-zv5 {
+  width: 72.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.fresh-recipe-section-8qP .navbar-CSV .auto-group-rvcd-xTb .auto-group-arrz-5HK .nav-resep-VM3 {
+  width: 14rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 7.6rem;
+  top: 0.0691rem;
+  display: flex;
+  align-items: center;
+}
+.fresh-recipe-section-8qP .navbar-CSV .auto-group-rvcd-xTb .auto-group-arrz-5HK .nav-resep-VM3 .line-176-D29 {
+  margin: 0.2rem 0.6rem 0rem 0rem;
+  width: 3.4rem;
+  height: 0.2rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.fresh-recipe-section-8qP .navbar-CSV .auto-group-rvcd-xTb .auto-group-arrz-5HK .nav-resep-VM3 .nasi-goreng-L6m {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.fresh-recipe-section-8qP .navbar-CSV .auto-group-rvcd-xTb .button-shop-f93 {
+  box-sizing: border-box;
+  padding: 1.2rem 4.2rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.fresh-recipe-section-8qP .navbar-CSV .auto-group-rvcd-xTb .button-shop-f93 .icon-cart-bHb {
+  margin: 0rem 0.7rem 0.099rem 0rem;
+  width: 2.1rem;
+  height: 2.1014rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.fresh-recipe-section-8qP .navbar-CSV .auto-group-rvcd-xTb .button-shop-f93 .shop-now-7Wq {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #095028;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

@@ -1,0 +1,32 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 9.3rem;
+}.button-home-hov-uMb {
+  height: 2.4rem;
+  align-items: center;
+  width: 100%;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  justify-content: center;
+  line-height: 1.5;
+  background-color: #17c261;
+  font-weight: 700;
+  display: flex;
+  font-size: 1.6rem;
+  white-space: nowrap;
+  cursor: pointer;
+}

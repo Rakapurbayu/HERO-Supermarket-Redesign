@@ -1,0 +1,207 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.snack-uuj {
+  box-sizing: border-box;
+  padding: 2.7rem 69.9rem 3.9rem 26.3rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.snack-uuj .collections-3W9 {
+  margin-right: 10.4rem;
+  width: 17.2rem;
+  height: 32.4rem;
+  flex-shrink: 0;
+}
+.snack-uuj .collections-3W9 .healthy-snack-nid {
+  margin-bottom: 1.4rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #7e7e7e;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.snack-uuj .collections-3W9 .frame-34446-6jK {
+  width: 100%;
+  row-gap: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+.snack-uuj .collections-3W9 .frame-34446-6jK .snack-kacang-biji-Dow {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.snack-uuj .collections-3W9 .frame-34446-6jK .keripik-8g1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.snack-uuj .collections-3W9 .frame-34446-6jK .biskuit-cookies-crackers-H37 {
+  max-width: 15.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.snack-uuj .collections-3W9 .frame-34446-6jK .snack-bar-zy7 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.snack-uuj .collections-3W9 .frame-34446-6jK .coklat-YDw {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.snack-uuj .collections-3W9 .frame-34446-6jK .popcorn-tYh {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.snack-uuj .collections-3W9 .frame-34446-6jK .permen-EsT {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.snack-uuj .collections-3W9 .frame-34446-6jK .buah-kering-C3b {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.snack-uuj .collections-Xbf {
+  margin-bottom: 6.8rem;
+  width: 20.2rem;
+  flex-shrink: 0;
+}
+.snack-uuj .collections-Xbf .minuman-UG1 {
+  margin-bottom: 1.4rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #7e7e7e;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.snack-uuj .collections-Xbf .frame-34446-op5 {
+  width: 100%;
+  row-gap: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+.snack-uuj .collections-Xbf .frame-34446-op5 .teh-kombucha-xS5 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.snack-uuj .collections-Xbf .frame-34446-op5 .kopi-creamer-6oB {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.snack-uuj .collections-Xbf .frame-34446-op5 .coklat-hot-cereal-EuP {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.snack-uuj .collections-Xbf .frame-34446-op5 .air-mineral-sparkling-water-Nkh {
+  max-width: 20.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.snack-uuj .collections-Xbf .frame-34446-op5 .jamu-tyw {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.snack-uuj .collections-Xbf .frame-34446-op5 .jus-eTK {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.08rem;
+  color: #5a5c62;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
